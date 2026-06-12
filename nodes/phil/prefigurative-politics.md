@@ -77,9 +77,11 @@ interest in the state's continuation. The "transitional" period becomes permanen
 self-preservation.
 
 This is not a historical accident that happened once. It happened in every case:
-the USSR, China, Cuba, Vietnam, Cambodia, Ethiopia, Angola. The pattern is not
-explained by bad leadership — it is explained by organizational structure
-selecting for certain outcomes.
+the USSR, China, Cuba, Vietnam, Cambodia, Ethiopia, Angola. Historians genuinely
+dispute how much was structure and how much was circumstance — but the
+circumstances varied wildly and the outcome didn't, which is the strongest
+evidence the structural reading has, and the framework argues it openly rather
+than assuming it.
 
 ### The "Lifestyle Activism" Deflection
 
