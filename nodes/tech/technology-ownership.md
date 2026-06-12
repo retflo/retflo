@@ -24,9 +24,10 @@ aliases: ["technology is neutral", "automation will free everyone", "AI will sol
 ## Position
 
 The same technology serves liberation or domination depending on ownership structure. This is
-not a philosophical abstraction -- it is the central observable fact of every technological
-transition in history. Technology amplifies existing power relations; it does not neutralize
-them.
+not a philosophical abstraction -- it is the recurring pattern of technological
+transitions under concentrated ownership, and how universally it holds is the live fight
+in the economics of automation. Technology amplifies existing power relations; it does not
+neutralize them.
 
 ### The Ownership Determinant
 
@@ -140,7 +141,7 @@ that place digital infrastructure under democratic governance rather than corpor
 | Move | Response | Concession |
 |---|---|---|
 | "Technology is neutral -- it depends on how you use it" | Correct in the trivial sense that a hammer can build or destroy. The question is who decides how it is used. Under current ownership, "how you use it" is determined by whoever owns it, and they use it to maximize their own returns. "Neutrality" under asymmetric ownership is a decision to accept the owner's choice. | **Fact** — concedes that technology has no inherent moral valence -- accepts the neutrality claim in principle while showing that under asymmetric ownership, "neutral" technology serves the owner's interests |
-| "Automation creates more jobs than it destroys" | Even if true in aggregate (disputed), the question is who captures the value of the new jobs and who bears the cost of the destroyed ones. If automation creates ten high-skill jobs while destroying a hundred low-skill jobs, the aggregate may "create" value while devastating communities. Distribution matters, and distribution is determined by ownership. | **Fact** — concedes that new technologies can create new forms of work -- accepts the economic-dynamism argument while insisting on distributional analysis |
+| "Automation creates more jobs than it destroys" | Even if true in aggregate (disputed), the question is who captures the value of the new jobs and who bears the cost of the destroyed ones. If automation creates ten high-skill jobs while destroying a hundred low-skill jobs, the aggregate may "create" value while devastating communities. Distribution matters, and distribution is determined by ownership. | **Contested** — concedes that new technologies have historically created new forms of work; whether current automation repeats that pattern or breaks it is genuinely unsettled among labor economists; the framework wagers that ownership determines who captures the gains either way, and the distributional record so far favors that reading |
 | "Tech entrepreneurs deserve their wealth because they innovate" | Most foundational technologies were publicly funded: the internet (DARPA), GPS (military), touchscreens (university research), mRNA vaccines (NIH). Entrepreneurs commercialize publicly funded research and capture private returns from collective investment. The "innovator" narrative obscures the socialized costs and privatized gains. | **Fact** — grounds wealth's legitimacy in innovation, which exposes the claim to the record of public funding: the wealth was accumulated by privatizing returns from collective investment, the opposite of the 'earned through innovation' narrative |
 | "Open source proves markets solve technology governance" | Open source demonstrates that commons-based production works. It does not demonstrate that markets govern it. Linux is governed by a foundation, not by a market. Wikipedia is governed by community norms, not by prices. The success of open source is evidence FOR commons governance, not for market governance. | **Fact** — concedes that open source is a success story -- accepts the example while reframing it as evidence for commons governance rather than market governance |
 | "Regulation handles tech monopolies" | Regulation of technology monopolies by the state is captured by those monopolies through lobbying, revolving-door employment, and information asymmetry. The largest tech companies spend more on lobbying than most agencies spend on enforcement. Regulation within the current structure manages symptoms; ownership change addresses causes. | **Fact** — concedes that regulation provides some check on abuse -- accepts the mechanism while identifying its systematic capture by the entities it purports to regulate |

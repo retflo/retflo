@@ -37,7 +37,7 @@ Federal action helped break parts of it: *Brown v. Board*, the Civil Rights Act,
 **The full story:**
 - The federal government **tolerated Jim Crow for nearly a century** because it was politically convenient
 - Change came because **mass organizing made non-intervention more costly than intervention** and Cold War geopolitics made apartheid an embarrassment
-- The same centralized machinery that enforced civil rights **later built the carceral system** — mass incarceration, the war on drugs, militarized policing — that hollowed out those gains in practice
+- The same centralized machinery that enforced civil rights **later built the carceral system** — mass incarceration, the war on drugs, militarized policing. How directly the second grew from the first is contested among scholars of punishment; what is not contested is that both were built by the same apparatus, which is the point: the machinery celebrated for one job stayed available for the other
 
 ### The Structural Lesson
 

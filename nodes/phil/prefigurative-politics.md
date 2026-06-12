@@ -77,9 +77,11 @@ interest in the state's continuation. The "transitional" period becomes permanen
 self-preservation.
 
 This is not a historical accident that happened once. It happened in every case:
-the USSR, China, Cuba, Vietnam, Cambodia, Ethiopia, Angola. The pattern is not
-explained by bad leadership — it is explained by organizational structure
-selecting for certain outcomes.
+the USSR, China, Cuba, Vietnam, Cambodia, Ethiopia, Angola. Historians genuinely
+dispute how much was structure and how much was circumstance — but the
+circumstances varied wildly and the outcome didn't, which is the strongest
+evidence the structural reading has, and the framework argues it openly rather
+than assuming it.
 
 ### The "Lifestyle Activism" Deflection
 
@@ -96,6 +98,6 @@ million workers that collectivized an industrial economy under wartime condition
 |---|---|---|
 | "The revolution needs disciplined leadership" | Discipline and leadership are not the issue — the question is whether leadership is delegated from below with recall, or seized from above with theory. Mandated delegation produces accountable coordination. Democratic centralism produces a permanent leadership class. | **Fact** — concedes coordination and discipline are necessary — accepts the debate is about the structure of leadership, not whether leadership exists |
 | "Democratic centralism worked in 1917" | It worked to seize state power. Within five years it had crushed the soviets, banned factions, militarized labor, and executed anarchists at Kronstadt. If "worked" means "seized and held centralized power," yes. If "worked" means "created a free society," the evidence says no. | **Fact** — concedes the Bolsheviks achieved their immediate tactical objective — accepts the question is whether the tactical objective (state seizure) was compatible with the strategic objective (liberation) |
-| "You need a transitional state to defend the revolution" | Every transitional state became permanent. The "defense" apparatus becomes the new ruling class. The pattern is universal across Leninist experiments — not because of bad leaders, but because the organizational form selects for this outcome. Defend the revolution with federated militias under democratic control, not with a new state. | **Fact** — concedes defense is necessary — accepts the debate is about the organizational form of defense, not whether defense is needed |
+| "You need a transitional state to defend the revolution" | Every transitional state became permanent. The "defense" apparatus becomes the new ruling class. The pattern is universal across Leninist experiments — not because of bad leaders, but because the organizational form selects for this outcome. Defend the revolution with federated militias under democratic control, not with a new state. | **Contested** — concedes defense is necessary — whether transitional states became permanent through organizational form or through circumstance (civil war, encirclement, underdevelopment) is genuinely disputed in the historiography; the framework reads the same outcome across widely varied circumstances as evidence for form, and a transitional state that dissolved itself would move it |
 | "Prefigurative politics is just lifestyle activism" | The CNT organized over a million workers and collectivized an industrial economy. The Zapatistas govern autonomous territory. Rojava runs a wartime federation. These are not lifestyle projects — they are mass organizations practicing prefigurative politics at scale. | **Frame** — concedes that some prefigurative projects are small-scale — accepts the question is about whether the approach can scale, and points to evidence that it has |
 | "The ends justify the means" | The means determine the ends. This is not a moral claim — it is a structural one. Organizations reproduce their internal structure in the societies they create. Authoritarian organizations create authoritarian societies. This has been tested repeatedly and the result is consistent. | **Fact** — concedes that ends matter — accepts the structural claim that means shape ends, which reframes the argument from ethics to organizational sociology |

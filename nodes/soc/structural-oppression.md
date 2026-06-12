@@ -50,8 +50,10 @@ ideological cover, and they target precisely the populations being exploited.
 Employers and ruling classes foster identity-based divisions to prevent unified
 working-class resistance. This is not abstract theory -- it is documented strategy.
 
-Research (Szymanski, Reich) demonstrates that narrower racial wage gaps correlate with HIGHER
-white earnings -- not lower. Racism harms white workers economically by undermining the
+Research in the Szymanski/Reich tradition found narrower racial wage gaps correlating with
+HIGHER white earnings -- not lower. The causal reading of those decades-old findings is
+still argued; the correlation's direction is the part that survives, and it runs against
+the zero-sum story. Racism harms white workers economically by undermining the
 solidarity and union organization that would benefit them. The only beneficiary of racial
 division in the labor market is the employing class, which pays lower wages to all workers
 when workers are divided against each other.

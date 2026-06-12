@@ -33,15 +33,21 @@ the natural structure of organized life.
 This is not a conspiracy -- it is institutional selection. Schools that produce
 compliant workers receive funding and social approval. Schools that produce
 critical, autonomous thinkers are defunded, marginalized, or shut down.
-Alternative pedagogies (Montessori, Summerhill, democratic free schools)
-demonstrate that education without authoritarian structure produces capable,
-self-directed individuals -- but they remain marginal precisely because
+Alternative pedagogies (Montessori, Summerhill, democratic free schools) show
+that education without authoritarian structure can produce capable,
+self-directed individuals -- the outcome studies are fewer and smaller than the
+model deserves, which is itself a finding about what gets funded -- and they
+remain marginal precisely because
 self-directed individuals are inconvenient for hierarchical institutions.
 
 The historical record is explicit. Prussian compulsory education -- the model
-for modern schooling worldwide -- was designed to produce obedient soldiers and
-compliant workers. Horace Mann imported it to the United States specifically to
-create an ordered industrial workforce. The system works as intended.
+for modern schooling worldwide -- was built to produce loyal, orderly citizens
+for the state that built it; how deliberately its architects aimed at obedient
+soldiers and compliant workers is debated among historians of education, but
+the system's documented effects (age-grading, bell schedules, habituation to
+ranked authority) match the industrial workforce it fed, and Horace Mann's own
+arguments for importing it leaned on social order. Design or convergence, the
+machine fits the factory.
 
 ### The Media Loop
 

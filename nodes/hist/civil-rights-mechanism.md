@@ -27,7 +27,7 @@ This describes one step in a five-step cycle. Presenting that step as the whole 
 
 Mass mobilization **forced factions inside the state to act.** The institutional mechanisms did not spontaneously activate — they were leveraged by organized pressure that made inaction more costly than action. The institutions conceded under duress, not through their own design.
 
-**The concession sticks because** there's an institutional framework that codifies it, enforces it, and makes reversal costly. This is real. But the same framework later repurposed the enforcement machinery into new forms of domination (mass incarceration, the war on drugs, surveillance of Black activists).
+**The concession sticks because** there's an institutional framework that codifies it, enforces it, and makes reversal costly. This is real. But the same framework later turned its enforcement machinery toward new forms of domination — mass incarceration, the war on drugs, surveillance of Black activists. How direct the line runs from the one to the other is contested among scholars of punishment; that it was the same machinery, available for both jobs, is not.
 
 ### The Incomplete Picture
 

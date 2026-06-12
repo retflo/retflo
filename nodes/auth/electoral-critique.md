@@ -68,8 +68,10 @@ the vote means in practice.
 
 Intelligence agencies conduct documented operations to destabilize governments
 pursuing unwanted policies -- and these are not Third World exceptions.
-MI5 destabilized the Wilson government in Britain. The CIA destroyed Allende's
-government in Chile. COINTELPRO systematically dismantled domestic movements
+Elements of MI5 ran a campaign against the Wilson government in Britain — the
+fullest versions of that story rest on disputed and partly retracted sources,
+but the documented core of surveillance and smears does not. The CIA destroyed
+Allende's government in Chile — no dispute there. COINTELPRO systematically dismantled domestic movements
 that threatened the status quo. When structural filters fail, direct
 intervention supplements them. The "deep state" is not a conspiracy theory -- it
 is the documented operational reality of permanent security apparatuses acting
@@ -95,9 +97,11 @@ institution's structural logic reshaped the movement.
 This analysis is not anti-democratic -- it is the observation that electoral
 democracy under capitalism is structurally filtered to prevent outcomes that
 threaten capital accumulation. Every major gain attributed to elections -- the
-New Deal, the NHS, civil rights legislation, workplace safety laws -- was
-actually won by militant extra-institutional pressure that elections then
-ratified. The burden of proof shifts: show a case where electoral politics
+New Deal, the NHS, civil rights legislation, workplace safety laws -- arrived
+only after militant extra-institutional pressure that elections then ratified.
+How much the pressure won and how much the ballot won is a live historical
+fight; what is not disputed is the sequence — the militancy came first, every
+time. The burden of proof shifts: show a case where electoral politics
 alone, without prior militant organizing and direct action, produced structural
 change that materially threatened elite interests.
 
@@ -107,7 +111,7 @@ change that materially threatened elite interests.
 |---|---|---|
 | "If you don't vote you can't complain" | The complaint is precisely that voting is structurally insufficient, not that participation is undesirable. People who built the civil rights movement "complained" with sit-ins, boycotts, and marches -- not ballots. The franchise itself was won through direct action, not through politely requesting it at the ballot box. | **Fact** — concedes that electoral participation can have marginal value for harm reduction -- accepts tactical voting while insisting it cannot produce structural transformation |
 | "Elections are how democracy works" | Elections are how representative government works. Democracy -- people actually governing themselves -- requires direct participation in decisions, not delegation to representatives captured by structural incentives. Athenian democracy, the Paris Commune, and Rojava's council system are more democratic than any parliament precisely because they minimize delegation. | **Fact** — concedes that elections are one form of democratic practice -- accepts the legitimacy of the concept while insisting that reducing democracy to elections impoverishes the concept |
-| "What about Scandinavian social democracy?" | Scandinavian social democracy was built by militant labor movements (general strikes, factory occupations) and funded by Cold War geopolitics that made concessions rational for capital. As those conditions eroded, so did the social democratic settlement -- privatization, austerity, and welfare retrenchment followed. The model depended on conditions that no longer obtain and was already retreating before the neoliberal turn. | **Fact** — concedes that social democracies achieved real gains for workers -- accepts the historical achievement while locating its source in militant organizing rather than electoral mechanics |
+| "What about Scandinavian social democracy?" | Scandinavian social democracy was built by militant labor movements (general strikes, factory occupations) and funded by Cold War geopolitics that made concessions rational for capital. As those conditions eroded, so did the social democratic settlement -- privatization, austerity, and welfare retrenchment followed. The model depended on conditions that no longer obtain and was already retreating before the neoliberal turn. | **Contested** — concedes that social democracies achieved real gains for workers; whether those gains trace to militant labor leverage or to electoral mechanics is genuinely disputed historiography -- the framework reads the strike waves and the post-Cold-War retreat as evidence the settlement tracked organized labor's power, and a case of the settlement holding without that leverage would move it |
 | "Local elections can produce real change" | Local change within a national and global capitalist framework is constrained by the same capital-flight logic at smaller scale. Cities that raise minimum wages or strengthen tenant protections face business relocation threats. The structural walls are fractal -- they operate at every level. Local organizing is valuable, but its value comes from the organizing, not the elections. | **Fact** — concedes that local politics offers more accessible leverage -- accepts the tactical point while insisting the structural constraints scale down |
 | "You're privileged enough not to care about elections" | The communities most harmed by the current system are also those most consistently betrayed by electoral promises. Mass incarceration expanded under Democrats and Republicans alike. Deportation machinery was built by both parties. The critique of electoralism comes from analyzing who elections actually serve, not from indifference to suffering. Harm reduction voting is defensible; mistaking it for a strategy is not. | **Frame** — concedes that electoral outcomes produce differential harm -- accepts the moral seriousness of harm reduction while insisting that conflating harm reduction with transformation is the actual privilege |
 | "Renters / newcomers can win through the existing democratic process if they organize" | Renters have political tools — elections, ballot measures, coalition building — and structural disadvantages: less time, less money, less stability, higher churn, and lower turnout. Homeowners are overrepresented in local institutions not because they care more but because the system rewards stability, availability, and proximity to power. When the group with the most stable housing and most free time repeatedly blocks housing for everyone else and calls it "democracy working through conflict," the process is not neutral — it is structurally biased toward undersupply. The result: a permanent minority veto through process, winning not by persuasion but by exhaustion → AUTH.INCUMBENCY.1 | **Fact** — concedes that electoral and organizing tools exist for renters — accepts the availability of political mechanisms while conceding the question is whether the structural tilt makes those mechanisms sufficient or merely ornamental against organized incumbency |

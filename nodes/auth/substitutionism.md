@@ -54,9 +54,11 @@ centralism:
    abolition. Institutional self-preservation becomes the dominant logic,
    regardless of the original revolutionary intention.
 
-This degradation is not contingent on personality or conditions. It is
-structural: the organizational form selects for these outcomes the way a
-funnel selects for convergence.
+Whether this degradation was contingent on personality or conditions is the
+central fight in the historiography. The framework's answer is the cross-case
+record: the same form, under wildly different conditions, converging on the
+same outcome the way a funnel selects for convergence. The structural reading
+is a wager — and the pattern below is why the framework makes it.
 
 ### The Historical Record: Total Validation
 
@@ -101,10 +103,11 @@ party overrules the class "in its own interest."
 
 Every Leninist experiment reproduced the cascade: USSR, China, Cuba, Vietnam,
 Cambodia, Ethiopia, Angola, Mozambique. Different cultures, different
-conditions, different leaders -- identical organizational outcome. The pattern
-is not explained by individual betrayal or adverse conditions. It is explained
-by organizational structure selecting for certain results regardless of the
-operators' intentions. A machine designed to concentrate power concentrates
+conditions, different leaders -- identical organizational outcome. Individual
+betrayal and adverse conditions were present in every case — and so was the one
+constant, the organizational structure. The circumstantialist reading must
+explain why wildly different circumstances produced identical outcomes; the
+structural reading only has to point at the constant. A machine designed to concentrate power concentrates
 power. The surprise would be if it did not.
 
 ## Objection Handling
@@ -113,6 +116,6 @@ power. The surprise would be if it did not.
 |---|---|---|
 | "Democratic centralism is democratic" | It is democratic in the same way that a corporation with an employee suggestion box is democratic. Input flows up; decisions flow down; obedience is mandatory. The "democratic" phase is structurally subordinate to the "centralism" phase, and the centralism phase has enforcement mechanisms while the democratic phase does not. | **Fact** — concedes that democratic centralism contains a democratic element -- accepts the formal structure while insisting the centralist element structurally dominates |
 | "The party organizes what workers can't do alone" | Workers organized the February Revolution, the factory committees, and the soviets without the Bolshevik party. The party did not enable workers' self-organization -- it captured and subordinated it. The organizational capacity existed in the class; the party redirected it toward party objectives. | **Fact** — concedes that coordination across workplaces and regions is necessary -- accepts the organizational problem while insisting federation solves it without the substitution cascade |
-| "Russia's problems were caused by conditions, not the party" | Civil war, isolation, and economic devastation were real. But the party's response to these conditions was to centralize power further -- and then to retain that centralized power after conditions improved. The conditions explain the crisis; they do not explain why the party chose authoritarian solutions to every crisis and never relinquished the powers it accumulated. Conditions are the excuse; structure is the cause. | **Fact** — concedes that material conditions constrained options -- accepts the historical difficulty while insisting the party's organizational logic, not conditions, determined the direction of its response |
+| "Russia's problems were caused by conditions, not the party" | Civil war, isolation, and economic devastation were real. But the party's response to these conditions was to centralize power further -- and then to retain that centralized power after conditions improved. The conditions explain the crisis; they do not explain why the party chose authoritarian solutions to every crisis and never relinquished the powers it accumulated. Conditions are the excuse; structure is the cause. | **Contested** — concedes that material conditions constrained options; whether structure or circumstance drove the authoritarian turn is genuinely disputed historiography -- the framework reads the party's identical response across varied crises, and its refusal to relinquish power once conditions eased, as evidence for structure; a Leninist party loosening its grip when conditions improved would move the reading |
 | "Trotskyism would have been different" | Trotsky militarized labor, crushed Kronstadt, suppressed the Makhnovists, and theorized that the party must override the class when their interests diverge. The claim that Trotskyism would differ from Stalinism requires ignoring everything Trotsky actually did when he held power. The disagreement between Trotsky and Stalin was about who should lead the apparatus, not whether the apparatus should exist. | **Fact** — concedes that Trotsky was a more sophisticated theorist than Stalin -- accepts the intellectual distinction while insisting the organizational logic was identical |
 | "You need disciplined organization to fight the state" | Discipline and organization are not at issue -- the question is whether discipline flows from democratic mandate or from hierarchical command. The CNT organized over a million workers with federated, directly democratic structures and fought a civil war. The Makhnovists coordinated military operations through elected commanders with recall. Discipline from below is discipline; discipline from above is obedience. | **Fact** — concedes that revolutionary struggle requires organizational discipline -- accepts the practical necessity while insisting the form of discipline determines the outcome |

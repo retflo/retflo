@@ -38,7 +38,7 @@ ignorant majority." He predicted that state ownership of the means of production
 liberate workers but would create a new ruling class with material interests in perpetuating
 its own power.
 
-The Soviet Union confirmed this prediction precisely. Within months of the October
+The Soviet Union played the prediction out. Within months of the October
 Revolution, factory committees were subordinated to state managers. By 1918, Lenin himself
 called for "dictatorial powers" for individual factory managers. The nomenklatura -- the
 system of party-appointed officials controlling every institution -- became a new ruling
@@ -94,8 +94,12 @@ critic defines socialism as "anything a government I dislike does."
 ### The Anarchist Alternative
 
 The anarchist critique is not "the USSR should have done better." It is that the
-organizational form (centralized party, state ownership, hierarchical command) made the
-outcome structurally inevitable. The alternative is not better leaders but different
+organizational form (centralized party, state ownership, hierarchical command) selected
+for this outcome. Whether circumstance — civil war, encirclement, backwardness — could
+have produced it anyway is the central live fight in the historiography; the framework's
+answer is the cross-case pattern: the same form produced the same outcome under wildly
+different circumstances, and that regularity is the evidence the structural reading
+stands on. The alternative is not better leaders but different
 structures: federated worker control, distributed decision-making, elimination of permanent
 managerial class positions. The means must prefigure the ends because the means become the
 ends.
@@ -105,7 +109,7 @@ ends.
 | Move | Response | Concession |
 |---|---|---|
 | "The USSR was real socialism that failed" | The USSR was state capitalism -- workers had no control over production, managers dictated terms, surplus was extracted by a ruling class. Calling it "socialism" because the ruling class called itself socialist is like calling North Korea democratic because it calls itself the Democratic People's Republic. | **Frame** — concedes the USSR claimed to be socialist -- accepts the label while contesting the substance behind it |
-| "Objective conditions caused Soviet authoritarianism" | Bakunin predicted the outcome from the organizational structure alone, before any "objective conditions" existed. The Bolsheviks suppressed factory committees and independent soviets BEFORE the civil war intensified. The authoritarianism preceded the emergency; the emergency became the retroactive justification. | **Fact** — concedes that objective conditions were genuinely difficult -- accepts the historical context while insisting the organizational choice preceded and was independent of external pressures |
+| "Objective conditions caused Soviet authoritarianism" | Bakunin predicted the outcome from the organizational structure alone, before any "objective conditions" existed. The Bolsheviks suppressed factory committees and independent soviets BEFORE the civil war intensified. The authoritarianism preceded the emergency; the emergency became the retroactive justification. | **Contested** — concedes that objective conditions were genuinely difficult -- how much Soviet authoritarianism flowed from structure versus circumstance remains a real historiographical fight, and the framework wagers on structure: the suppression of factory committees and independent soviets began before the civil war's worst pressures |
 | "China proves state planning works for development" | China proves state capitalism can industrialize rapidly -- which no anarchist disputes. The question is who benefits and at what cost. Chinese workers have no independent unions, labor conditions are brutal, and the wealth generated flows to a party-connected elite. "Development" measured by GDP while ignoring worker autonomy is the capitalist metric applied with a red flag. | **Fact** — concedes that China achieved rapid industrialization -- accepts the empirical result while contesting the framing that equates GDP growth with socialist success |
 | "Cuba's healthcare proves state socialism works" | Cuba's healthcare outcomes are genuinely impressive and worth studying. They do not require one-party dictatorship. Spain's Mondragon cooperatives deliver excellent outcomes without authoritarian governance. The question is whether the good outcomes REQUIRE the authoritarian structure, and the answer is demonstrably no. | **Fact** — concedes that Cuba achieved impressive public health outcomes -- accepts the achievement while separating it from the authoritarian political structure |
 | "The problem was bad leaders, not the system" | If every implementation of a system produces the same "bad leaders," the system selects for them. Hierarchical party structures select for people skilled at bureaucratic power accumulation. Blaming individuals for structural outcomes is the fundamental attribution error applied to political economy. | **Fact** — concedes that individual leaders made choices -- accepts agency while insisting that structural incentives make those choices predictable and systematic |

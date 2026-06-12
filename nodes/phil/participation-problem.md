@@ -65,7 +65,7 @@ Apathy is survivable when the system is hard to hijack by default.
 
 The critic's model is "designed for a tired species" — it lets tired people be governed by institutions they rarely supervise. That is not just a convenience feature. It is a **capture feature.** Bureaucracies let societies coast straight into capture, because coasting is precisely when unaccountable institutions do whatever they want while everyone is at home after work.
 
-If you worry about distributed systems decaying into apathy, worry at least as much about centralized systems decaying into unaccountable management — because that decay is not hypothetical. It is the normal trajectory.
+If you worry about distributed systems decaying into apathy, worry at least as much about centralized systems decaying into unaccountable management — because that decay is not hypothetical. Capture theorists call it the normal trajectory; the revisionists answer with the agencies that resisted; and either way, the failure mode the critic must price is documented at scale, not imagined.
 
 ## Objection Handling
 

@@ -27,7 +27,7 @@ Somalia and Libya are **not** clean experiments in "what happens when people try
 - External meddling (arms flooding, patron states competing for influence)
 - Armed groups competing to **become the new state** or capture its rents
 
-Yes, warlordism happened. That's what happens when you **destroy institutions, flood a country with weapons and patrons, and leave people fighting over the remnants of centralized coercive infrastructure.**
+Yes, warlordism happened. The attribution is genuinely fought over in the literature — clan dynamics, destroyed institutions, external meddling, statelessness itself all have their scholars — and the framework's reading is the one the sequence supports: **destroy institutions, flood a country with weapons and patrons, and leave people fighting over the remnants of centralized coercive infrastructure**, and warlords are what remains.
 
 ### The Double-Edged Sword
 
@@ -45,6 +45,6 @@ Distributed systems fail locally and recover locally. Centralized systems fail c
 
 | Move | Response | Concession |
 |---|---|---|
-| "Somalia proves anarchy fails" | Somalia is not an anarchist experiment. It is a violent regime collapse with external meddling. Armed groups fighting to become the new state is not evidence against alternatives to states — it's evidence FOR why concentrating power in a single point is dangerous. | **Fact** — accepts that state collapse produces bad outcomes, conceding centralized systems have catastrophic failure modes |
+| "Somalia proves anarchy fails" | Somalia is not an anarchist experiment. It is a violent regime collapse with external meddling. Armed groups fighting to become the new state is not evidence against alternatives to states — it's evidence FOR why concentrating power in a single point is dangerous. | **Contested** — grants that Somalia-class collapses produced real suffering; what caused the warlord period (destroyed institutions and external meddling, clan dynamics, or statelessness itself) is genuinely disputed in the literature, and the framework reads these as catastrophic failures of centralized systems, not tests of bottom-up governance |
 | "Show me the fair test that survived" | You're treating "not being crushed by states" as proof that states are necessary. If a mafia destroys every business that refuses protection money, the conclusion is not "protection rackets are the only viable business model." | **Fact** — concedes no fair test has been permitted, implicitly acknowledging state systems suppress alternatives |
 | "The strong dominate the weak without a state" | Route to `phil/nature.md`. Also: the strong dominate the weak WITH a state — they just do it through institutional channels. The question is which design limits domination more effectively. | **Fact** — accepts domination is the problem to solve, not hierarchy per se |

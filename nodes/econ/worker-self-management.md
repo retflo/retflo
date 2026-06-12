@@ -44,7 +44,7 @@ Work-to-rule reveals that the actual management of production is already perform
 
 Hierarchy creates a structural information problem. Workers under boss authority have a rational incentive to withhold productivity improvements, because any efficiency gain is captured by the owner as increased profit rather than shared with the workers who produced it. If you discover a way to do your job in six hours instead of eight, reporting this to your boss means either doing two hours more work for the same pay or watching your improvement be used to fire a coworker. The rational response is to keep the improvement to yourself.
 
-Self-management eliminates this perverse incentive. When workers collectively own the surplus, efficiency improvements benefit those who created them. Information flows freely because sharing knowledge serves everyone's interest rather than threatening their position. This is not a theoretical prediction — Mondragon's innovation rates and the productivity premiums observed in worker cooperatives confirm it empirically.
+Self-management eliminates this perverse incentive. When workers collectively own the surplus, efficiency improvements benefit those who created them. Information flows freely because sharing knowledge serves everyone's interest rather than threatening their position. This is not just a theoretical prediction — Mondragon's innovation record and the productivity findings across the cooperative literature point the same direction, with parity the conservative reading and a premium the favorable one.
 
 ### What This Is Not
 

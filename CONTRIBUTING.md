@@ -36,7 +36,7 @@ If you're modifying existing argument content, mark your changes clearly and
 explain your reasoning. The integrity of the argument structure matters.
 
 Node format: every Objection Handling row's Concession cell carries a leading
-`**Fact**` or `**Frame**` tag (see STYLE-GUIDE §4.4 for the distinction), and
+`**Fact**`, `**Frame**`, or `**Contested**` tag (see STYLE-GUIDE §4.4), and
 new nodes follow the honest-strength pattern — state the critic's argument at
 full strength, concede what's true, contest the inference. Stress-testing is
 contribution: if you find a node that loses an argument it shouldn't, that's
