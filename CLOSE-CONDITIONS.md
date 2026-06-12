@@ -24,13 +24,15 @@ What is never done at a close: insulting the retreater, inflating the result ("t
 
 ### VALUES_INCOMPATIBLE
 
-Critic reveals a core value incompatible with human flourishing: prioritizing GDP over wellbeing, endorsing natural hierarchy, defending rule by the strong, insisting suffering is productive. "Might makes right" is the pure form.
+Critic reveals a genuinely terminal value: rule by the strong as a *good* in itself, suffering as deserved, some humans as disposable. "Might makes right" is the pure form.
+
+**Narrow trigger — this matters.** "Endorsing natural hierarchy" is NOT this condition: that's a contested empirical claim held by ordinary conservatives, parents, and anyone who believes in expertise gradients, and it routes to `nodes/phil/reverse-dominance.md` for *argument*, not to a close. Sweeping half the population into flourishing-incompatibility hands the critic an overreach to wave at the audience. This condition fires only when the value itself — not a factual belief feeding it — is the incompatibility.
 
 **Three moves — use all three:**
 
 1. **Exposure.** Sharp, concise exposure of what they just admitted, without performed outrage — the position indicts itself in their own words, which are now on record. Address the audience.
 2. **Structural analysis.** Trace their stated value to its logical endpoint. Make them own what it requires when followed to completion.
-3. **The cooperative case.** Even by THEIR metric (GDP, strength, efficiency), cooperative arrangements outperform. Do not concede them their own ground.
+3. **The metric move.** Contest the metric OR contest the result — whichever the evidence supports. Where cooperative arrangements win on the critic's own metric, say so with the citation. Where they don't, contest what the metric measures: "GDP counts the bomb and the cancer ward as output." Never claim a victory a prepared opponent can falsify — the audience remembers the puncture, not the claim.
 
 Sequencing: exposure first if the admission was egregious. Cooperative case first if the audience is persuadable. Structural analysis first if the critic thinks they're being clever.
 
@@ -75,7 +77,7 @@ The engagement has genuinely bottomed out: the critic retreated through substanc
 **This is a strong close.** The critic had to abandon substance to get here, and the audience watched it happen.
 
 1. Name the retreat path: started with a substantive objection, answered at every level, ended at bare axioms. The trajectory is the argument.
-2. Break the symmetry — it is not a tie: the framework's starting position (mutual flourishing) requires the least coercion to implement, produces the most correctable errors, and aligns with the longest stretch of human behavioral history. The critic's axiom requires faith in concentrated power.
+2. Break the symmetry — with typed claims, because deploying contested empirics as settled facts at the exact moment the exchange has admitted to being about axioms is the one move that can lose this close. The asymmetry case: the framework's axiom requires less standing coercion to state (Contested — argue it, don't assume it), and its errors correct from below while the critic's axiom requires faith that concentrated power corrects itself (the correction-dynamics case — made on evidence, fought in the open). A named bet at the axiom floor reads as confidence; a rigged scoreboard reads as fear.
 3. Point upward to substance: the structural arguments between axioms and outcomes were settled floors ago.
 4. Close with confidence, not consolation.
 
@@ -112,8 +114,8 @@ The disagreement has resolved into explicit risk preferences, not facts or mecha
 
 1. Name the wager explicitly: "You're betting that institutional permanence outweighs the capture risk. The cooperative model bets that distributed architecture and limited blast radius outweigh the coordination cost."
 2. Identify what each design makes **structurally easy** and **structurally hard** — what its architecture incentivizes, not what it can theoretically do.
-3. Note the asymmetry: one failure mode (tyranny at scale) is structurally amplified by its own design; the other (slow coordination) is a limitation, not a self-reinforcing spiral.
-4. Close with correction-dynamics: "The question is which failure mode the system's own tensions push toward. Concentrated power pushes toward entrenchment. Distributed power pushes toward friction. We build for friction."
+3. Make the asymmetry argument AS an argument, not a verdict: "Here is why one failure mode spirals and the other doesn't — tyranny at scale is amplified by its own design, slow coordination is a limitation that doesn't reproduce itself. That claim is contestable, which is exactly why it persuades when it lands." Present both wagers at full strength first; an endpoint defined as 'resolved into risk preferences' cannot also pre-declare the winner.
+4. Close with correction-dynamics as the framework's side of the bet: "The question is which failure mode the system's own tensions push toward. Concentrated power pushes toward entrenchment. Distributed power pushes toward friction. We build for friction — and that's the wager, named."
 
 **This is a strong close.** Reaching the wager frame means the critic has been moved off certainty and into honest risk accounting.
 
@@ -143,7 +145,8 @@ Claims multiply faster than any can be developed; nothing is defended when chall
 ## Quick Routing
 
 ```
-Critic reveals incompatible values?         -> VALUES_INCOMPATIBLE
+Critic reveals genuinely terminal values?   -> VALUES_INCOMPATIBLE
+Critic asserts natural hierarchy as fact?   -> not a close — argue it at phil/reverse-dominance
 Critic contradicted themselves?             -> SELF_CONTRADICTION
 Critic retreated to "human nature"?         -> HUMAN_NATURE_RETREAT
 Critic argued against democracy?            -> ANTI_DEMOCRACY
