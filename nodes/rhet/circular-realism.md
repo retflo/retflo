@@ -47,7 +47,7 @@ When the critic says "I'm just being practical," the response is: practical for 
 - Universal suffrage was unrealistic
 - The weekend was unrealistic
 - Worker safety regulations were unrealistic
-- Every structural change that improved human welfare was dismissed as "unrealistic" by the people benefiting from the existing arrangement
+- Nearly every structural change that improved human welfare was dismissed as "unrealistic" by the people benefiting from the existing arrangement — abolition, suffrage, the weekend, the NHS; the pattern holds so reliably that "be realistic" is better evidence of whose interests are speaking than of what is possible
 
 "Realistic" is a function of who controls the Overton window, not of what is analytically possible.
 
