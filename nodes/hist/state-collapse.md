@@ -27,7 +27,7 @@ Somalia and Libya are **not** clean experiments in "what happens when people try
 - External meddling (arms flooding, patron states competing for influence)
 - Armed groups competing to **become the new state** or capture its rents
 
-Yes, warlordism happened. That's what happens when you **destroy institutions, flood a country with weapons and patrons, and leave people fighting over the remnants of centralized coercive infrastructure.**
+Yes, warlordism happened. The attribution is genuinely fought over in the literature — clan dynamics, destroyed institutions, external meddling, statelessness itself all have their scholars — and the framework's reading is the one the sequence supports: **destroy institutions, flood a country with weapons and patrons, and leave people fighting over the remnants of centralized coercive infrastructure**, and warlords are what remains.
 
 ### The Double-Edged Sword
 
