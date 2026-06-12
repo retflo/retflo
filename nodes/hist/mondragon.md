@@ -44,7 +44,7 @@ Mondragon is a federation of worker-owned cooperatives operating internationally
 The critic says: "It relies on Spanish contract law, EU trade frameworks, NATO security." True — and irrelevant. What Mondragon demonstrates is that complex enterprises can run without a separate owner class issuing commands. Whether the surrounding legal framework is a sovereign state or a federation of compacts is a separate question.
 
 **Design lessons from failures:**
-- **Fagor collapse:** Over-expansion, insufficient risk pooling — institutional design problems, not cooperative governance failure
+- **Fagor collapse:** Over-expansion and insufficient risk pooling — the co-op scholarship debates how much the governance form contributed, and either way the federation's refusal to bail it out was market discipline working, not the model collapsing
 - **Insider/outsider problem:** Temporary workers without full membership — a design problem identical to conventional firms' use of contractors and temps, solvable through structural inclusion
 - **Degeneration risk:** Pressure toward conventional management — the gravitational pull of the surrounding capitalist environment, not evidence of cooperative insufficiency
 
