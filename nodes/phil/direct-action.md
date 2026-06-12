@@ -76,8 +76,10 @@ self-activity produce self-governing people. The medium IS the message.
 ### The Historical Record
 
 "Civil disobedience is not our problem. Our problem is civil obedience" (Zinn).
-Every major reform attributed to institutional channels was actually won through
-direct action that the system later took credit for:
+The major reforms attributed to institutional channels arrived only after
+direct action made the status quo more expensive than the concession -- the
+causal split between the militancy and the institutional ratification is argued
+case by case below, and the sequence never runs the other way:
 
 - The **eight-hour day** was won by the labor movement through strikes, not by
   legislative initiative. Laws ratified what workers had already seized.
@@ -87,8 +89,11 @@ direct action that the system later took credit for:
 - **Workplace safety** was won by wildcat strikes and factory occupations that
   made unsafe conditions unprofitable, not by regulatory agencies acting on
   their own initiative.
-- **Women's suffrage** was won by militant direct action -- hunger strikes,
-  property destruction, mass demonstration -- not by polite petitioning.
+- **Women's suffrage** arrived on the back of both militant direct action and
+  decades of organized institutional pressure -- historians still argue whether
+  the militancy accelerated or complicated the endgame. What no account
+  disputes: the polite petitioning alone had run for half a century and won
+  nothing until women made the question impossible to table.
 
 In each case, the institutional channel that ratified the change did not
 produce it. The direct action forced the institutional response. Attributing
