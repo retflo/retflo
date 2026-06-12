@@ -21,6 +21,7 @@ Arguments concerning AI, platforms, algorithmic management, surveillance, digita
 | Topic | File | Covers |
 |-------|------|--------|
 | Technology Under Different Ownership | [technology-ownership.md](technology-ownership.md) | Same technology, different outcomes based on ownership; automation, AI, platforms under cooperative vs. private control |
+| Coordination Costs | [coordination-costs.md](coordination-costs.md) | Coase cuts both ways, Benkler peer production, latency vs. information distortion, the moving boundary |
 
 ## Frequently Encountered Objections
 

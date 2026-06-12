@@ -22,6 +22,7 @@ Arguments concerning the state, democracy, hierarchy, federation, policing, mili
 | Topic | File | Covers |
 |-------|------|--------|
 | Federation vs. State | [federation-vs-state.md](federation-vs-state.md) | Four hard features, finality problem, alliance stability, pluralism vs. monopoly |
+| The Finality Kernel | [finality-kernel.md](finality-kernel.md) | "Someone decides last" at full strength — Hobbes/Tilly/Nozick convergence, the scope pivot, kernel-shrinking |
 | Enforcement Problem | [enforcement-problem.md](enforcement-problem.md) | "Who enforces the sunset clause?", split-command architecture, mirror problem |
 | Local Tyranny | [local-tyranny.md](local-tyranny.md) | Majoritarian lock-in problem, minority protection without central override |
 | Scale | [scale.md](scale.md) | Federation as coordination mechanism, Ostrom, Mondragon, "can't scale" rebuttal |

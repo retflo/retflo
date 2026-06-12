@@ -27,7 +27,8 @@ Arguments concerning property, ownership, labor, markets, wages, profit, wealth,
 | The Property-Possession Distinction | [property-distinction.md](property-distinction.md) | Private property vs. personal property, means of production, occupancy-and-use |
 | The Profit Extraction Problem | [profit-extraction.md](profit-extraction.md) | Surplus value, labor theory of value, extraction mechanism, wage-productivity gap |
 | Markets vs. Capitalism | [markets-not-capitalism.md](markets-not-capitalism.md) | Separating market coordination from capitalist ownership, market socialism |
-| Cooperative Economic Performance | [cooperative-performance.md](cooperative-performance.md) | Empirical evidence for cooperatives, productivity, resilience, wage equity |
+| Cooperative Economic Performance | [cooperative-performance.md](cooperative-performance.md) | Empirical evidence for cooperatives, productivity, resilience, wage equity, the capital channel |
+| Rules vs. Discretion | [rules-vs-discretion.md](rules-vs-discretion.md) | "Dispersal requires a leviathan" — structural rules vs. discretionary management, predistribution, enforcement symmetry |
 | Ecological Crisis as Structural Feature | [ecological-crisis.md](ecological-crisis.md) | Growth imperative, externalization, ecological limits, green capitalism critique |
 | Imperialism as Capitalism's Foreign Policy | [imperialism.md](imperialism.md) | Resource extraction, unequal exchange, dependency theory, global south exploitation |
 | Military Keynesianism | [military-keynesianism.md](military-keynesianism.md) | War economy, permanent arms economy, military-industrial complex as economic structure |

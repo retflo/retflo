@@ -27,7 +27,9 @@ This domain's node files cover specific rhetorical phenomena as TOPICS — when 
 | Topic | File | Covers |
 |-------|------|--------|
 | "You Reinvented the State" | [you-reinvented-the-state.md](you-reinvented-the-state.md) | Definitional collapse, state definition, four hard features redirect |
-| Survival Test | [survival-test.md](survival-test.md) | Circular reasoning in "surviving is the test", selection bias |
+| Survival Test | [survival-test.md](survival-test.md) | Circular reasoning in "surviving is the test", selection bias, empire endpoint, post-1945 engineered environment |
+| The Collapse Chain | [collapse-chain.md](collapse-chain.md) | Narrowing chains, frame capture, category expansion, fact vs. frame concessions |
+| The Dignity Asymmetry | [dignity-asymmetry.md](dignity-asymmetry.md) | Anti-domination affect routed to the wrong address, the conserved scoreboard, contempt-up/dignity-down discipline |
 | Circular Realism | [circular-realism.md](circular-realism.md) | "Be realistic/practical", Overton window, status quo bias |
 | Burden of Proof Reversal | [burden-of-proof.md](burden-of-proof.md) | Shifting burden to critics of hierarchy, hierarchy must justify itself, default presumption |
 | The Definitional Boomerang | [definitional-boomerang.md](definitional-boomerang.md) | Using opponent's own definitions against them, turning rhetorical frames, internal contradiction exposure |

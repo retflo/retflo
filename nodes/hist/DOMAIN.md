@@ -27,6 +27,7 @@ Arguments involving historical examples, revolutions, the USSR, Yugoslavia, Mond
 | State Collapse | [state-collapse.md](state-collapse.md) | Somalia, Libya, warlord argument — confusing state collapse with bottom-up governance |
 | Violence-Decline Narrative | [pinker-violence.md](pinker-violence.md) | Statistical attribution pattern — correlating improvement with state formation while omitting state-caused harms |
 | Military Defeat as Disproof | [catalonia-makhno.md](catalonia-makhno.md) | The survival fallacy — measuring governance quality by military compatibility with empires |
+| Articles of Confederation | [articles-confederation.md](articles-confederation.md) | The peacetime self-centralization argument — task-specific failure, the dial, contested elite ratification |
 | Emergency Ratchet | [emergency-ratchet.md](emergency-ratchet.md) | Historical evidence for emergency powers expansion |
 | Civil Rights Mechanism | [civil-rights-mechanism.md](civil-rights-mechanism.md) | Pressure vs. institutions, stickiness without sovereignty |
 | Delian League | [delian-league.md](delian-league.md) | Alliance-to-empire pattern, anti-consolidation design |

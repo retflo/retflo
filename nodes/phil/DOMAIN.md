@@ -21,6 +21,7 @@ Arguments concerning human nature, rights, freedom, morality, individualism, coe
 | Topic | File | Covers |
 |-------|------|--------|
 | Human Nature | [nature.md](nature.md) | "People are selfish" — mutual aid, convenience test, behavior vs. nature |
+| Reverse Dominance | [reverse-dominance.md](reverse-dominance.md) | Boehm, anti-dominance coalition, equality as enforcement, norms/structures substitution, kernel-shrinking |
 | Failure Modes | [failure-modes.md](failure-modes.md) | Wager frame, tyranny vs. collapse, blast radius, correction dynamics |
 | Participation Problem | [participation-problem.md](participation-problem.md) | Civic fatigue, episodic participation, automated accountability, anti-burnout |
 | Coercion Chain | [coercion-chain.md](coercion-chain.md) | Bounded escalation vs. sovereign monopoly, smoke alarm analogy, due process |
