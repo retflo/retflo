@@ -60,7 +60,7 @@ You have done the reading, checked the data, and arrived at conclusions through 
 
 ## Opposing Models
 
-Every system in this table requires a special exemption for its own institutions. "Authority is bad, except ours." "Coercion is wrong, except when we do it." One arrangement doesn't make that exemption. The table documents how each model's self-exemption produces its structural failure mode.
+Every system in this table requires a special exemption for its own institutions. "Authority is bad, except ours." "Coercion is wrong, except when we do it." The framework's claim — defended in the Axiom and the eliminative logic, with its own quadrant tested identically — is that its stated values and required instruments don't contradict each other, so no exemption is needed. The table documents how each model's self-exemption produces its structural failure mode.
 
 | Model | Structural Failure Mode |
 |---|---|
@@ -94,13 +94,13 @@ Every organizational system contains structural tensions. The question is not "w
 
 The structural logic of the framework in concise form:
 
-Test each quadrant of organizational design against its own stated goal of universal flourishing:
+Test each quadrant of organizational design against its own stated goal of universal flourishing — the same test for all four, including ours:
 - **Authoritarian + private ownership:** Hierarchy is structural. Someone must be at the bottom. Contradicts its own stated goal.
 - **Authoritarian + collective ownership:** Requires coercive apparatus to achieve liberation. The instrument contradicts the destination.
 - **Libertarian + private ownership:** Unregulated accumulation concentrates into private tyrannies. "Voluntary exchange" under asymmetric ownership is coercion wearing a contract.
-- **Libertarian + collective ownership:** Maximum freedom and maximum equality are mutually reinforcing. No internal contradiction.
+- **Libertarian + collective ownership:** Maximum freedom and maximum equality reinforce rather than contradict — but the quadrant has real tensions, named in this framework's own nodes: participation costs, scale-sensitive norm enforcement, coordination friction. Tested as hard as the other three, what distinguishes it is not absence of tension but the *direction* its tensions push: friction is a design problem, workable from below by the people who feel it. The other quadrants' tensions are capture spirals, workable only from above by their beneficiaries.
 
-One arrangement survives its own logic.
+One arrangement's failure modes are correctable by its own mechanisms. That is what "survives its own logic" cashes out to — survival through correction, not exemption from tension.
 
 ---
 
