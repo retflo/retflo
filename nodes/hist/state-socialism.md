@@ -38,7 +38,7 @@ ignorant majority." He predicted that state ownership of the means of production
 liberate workers but would create a new ruling class with material interests in perpetuating
 its own power.
 
-The Soviet Union confirmed this prediction precisely. Within months of the October
+The Soviet Union played the prediction out. Within months of the October
 Revolution, factory committees were subordinated to state managers. By 1918, Lenin himself
 called for "dictatorial powers" for individual factory managers. The nomenklatura -- the
 system of party-appointed officials controlling every institution -- became a new ruling
@@ -94,8 +94,12 @@ critic defines socialism as "anything a government I dislike does."
 ### The Anarchist Alternative
 
 The anarchist critique is not "the USSR should have done better." It is that the
-organizational form (centralized party, state ownership, hierarchical command) made the
-outcome structurally inevitable. The alternative is not better leaders but different
+organizational form (centralized party, state ownership, hierarchical command) selected
+for this outcome. Whether circumstance — civil war, encirclement, backwardness — could
+have produced it anyway is the central live fight in the historiography; the framework's
+answer is the cross-case pattern: the same form produced the same outcome under wildly
+different circumstances, and that regularity is the evidence the structural reading
+stands on. The alternative is not better leaders but different
 structures: federated worker control, distributed decision-making, elimination of permanent
 managerial class positions. The means must prefigure the ends because the means become the
 ends.
