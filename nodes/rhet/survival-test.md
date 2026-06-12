@@ -25,7 +25,7 @@ Survival tells you who has coercive dominance, not what governance is best for h
 
 ### "Your System Gets Destroyed Every Time"
 
-Bottom-up projects have been crushed by better-armed states. That is a truth about who had artillery, foreign backing, and professional armies — not a truth about governance theory. The Free Territory of Ukraine fought multiple enemies and was betrayed by former allies. Revolutionary Catalonia fought fascism and Stalinist sabotage simultaneously. The conclusion "therefore hierarchy is natural" does not follow from "therefore hierarchy currently has more guns."
+Bottom-up projects have been crushed by better-armed states. That is first a truth about who had artillery, foreign backing, and professional armies — how much it also says about governance is the counterfactual historians still argue (typed openly in the table below), and the framework's reading is that conquest answers the military question, not the governance one. The Free Territory of Ukraine fought multiple enemies and was betrayed by former allies. Revolutionary Catalonia fought fascism and Stalinist sabotage simultaneously. The conclusion "therefore hierarchy is natural" does not follow from "therefore hierarchy currently has more guns."
 
 ### What The Survival Argument Actually Proves
 
