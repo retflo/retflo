@@ -68,8 +68,10 @@ the vote means in practice.
 
 Intelligence agencies conduct documented operations to destabilize governments
 pursuing unwanted policies -- and these are not Third World exceptions.
-MI5 destabilized the Wilson government in Britain. The CIA destroyed Allende's
-government in Chile. COINTELPRO systematically dismantled domestic movements
+Elements of MI5 ran a campaign against the Wilson government in Britain — the
+fullest versions of that story rest on disputed and partly retracted sources,
+but the documented core of surveillance and smears does not. The CIA destroyed
+Allende's government in Chile — no dispute there. COINTELPRO systematically dismantled domestic movements
 that threatened the status quo. When structural filters fail, direct
 intervention supplements them. The "deep state" is not a conspiracy theory -- it
 is the documented operational reality of permanent security apparatuses acting
@@ -95,9 +97,11 @@ institution's structural logic reshaped the movement.
 This analysis is not anti-democratic -- it is the observation that electoral
 democracy under capitalism is structurally filtered to prevent outcomes that
 threaten capital accumulation. Every major gain attributed to elections -- the
-New Deal, the NHS, civil rights legislation, workplace safety laws -- was
-actually won by militant extra-institutional pressure that elections then
-ratified. The burden of proof shifts: show a case where electoral politics
+New Deal, the NHS, civil rights legislation, workplace safety laws -- arrived
+only after militant extra-institutional pressure that elections then ratified.
+How much the pressure won and how much the ballot won is a live historical
+fight; what is not disputed is the sequence — the militancy came first, every
+time. The burden of proof shifts: show a case where electoral politics
 alone, without prior militant organizing and direct action, produced structural
 change that materially threatened elite interests.
 
