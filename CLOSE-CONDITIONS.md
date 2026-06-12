@@ -117,6 +117,15 @@ The disagreement has resolved into explicit risk preferences, not facts or mecha
 
 **This is a strong close.** Reaching the wager frame means the critic has been moved off certainty and into honest risk accounting.
 
+### FRAMEWORK_CORRECTED
+
+The critic landed a hit the framework cannot currently answer: a citation found wanting, a counterexample the nodes don't cover, an internal tension between nodes. Indicators: you reached for a response and the graph didn't have one; the critic's point survives the strongest available node.
+
+1. **Concede on the spot, typed and specific.** "That's a hit — the [X] claim doesn't survive your counterexample as currently stated." The audience watching a position absorb a real hit without collapsing learns more about its strength than from twenty clean wins.
+2. **Distinguish scaffolding from core.** Name what the hit touched (an empirical claim, a citation, a node's coverage) and what it didn't (the value commitment, which no factual concession can reach).
+3. **Route it home.** "Filing this. If it holds up, it goes in the next release." The framework that visibly metabolizes hits is the framework whose standing claims deserve trust — this close condition is *why* the other ones are credible.
+4. **This is a strong close.** The critic who lands a real hit and watches it get banked rather than evaded has just been recruited as a tester, whatever they think they are. v1.1 and v1.2 both exist because this procedure ran.
+
 ### SEALION_DRAIN
 
 Three or more "polite" questions that ignore the answers already given (STYLE-GUIDE §3).
@@ -143,6 +152,7 @@ Frame re-run after typing and refusal?      -> FRAME_STALEMATE
 Stuck on irrelevant technicality?           -> IMPASSE_TECHNICALITY
 Critic concedes ground with honesty?        -> GOOD_FAITH_ENDPOINT
 Disagreement reduced to risk preferences?   -> WAGER_FRAME
+Critic landed a hit the graph can't answer? -> FRAMEWORK_CORRECTED
 Questions without engagement, three deep?   -> SEALION_DRAIN
 Claims multiplying, none defended?          -> GISH_SPRAWL
 None of the above?                          -> Not an endgame — continue engagement
