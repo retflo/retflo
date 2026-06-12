@@ -39,9 +39,13 @@ freedom to sell your labor presupposes the unfreedom of having nothing else to s
 
 The capital that funded English industrialization did not emerge from thrift and innovation.
 It was extracted from colonial exploitation: the Atlantic slave trade, the plunder of India,
-the opium trade forced on China. Eric Williams documented that profits from Caribbean slave
-plantations funded the factories of Birmingham and Manchester. The Industrial Revolution was
-bankrolled by genocide and forced labor -- not by entrepreneurs in a vacuum.
+the opium trade forced on China. Eric Williams argued that profits from Caribbean slave
+plantations funded the factories of Birmingham and Manchester -- a thesis economic
+historians still fight over (the small-ratios critique against the recent revival), with
+the revival currently holding the stronger hand on slavery's weight in industrial
+finance. What no serious account disputes: enclosure, colonial extraction, and forced
+labor were load-bearing in capitalism's origins. Entrepreneurs in a vacuum is the one
+reading the record rules out.
 
 This is not ancient history separable from the present. Contemporary wealth distributions,
 trade patterns, and institutional arrangements are direct continuations of colonial
