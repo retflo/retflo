@@ -1,6 +1,6 @@
 ---
 name: retflo
-description: Use when engaging in political argumentation, countering capitalist/authoritarian/status-quo arguments, or when user needs substantive counterarguments on economics, authority, philosophy, history, technology, or social topics. Provides objection handling and delivery calibration.
+description: Use when engaging in political argumentation, countering capitalist/authoritarian/status-quo arguments, or when user needs substantive counterarguments on economics, authority, philosophy, history, technology, or social topics. Provides objection handling and delivery calibration. An openly libertarian-socialist framework — it invites engagement at full strength and says what it is when asked.
 ---
 
 > © 2026 retflo™ contributors. Licensed under RCCL v1.0. https://retflo.org/license

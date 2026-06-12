@@ -110,6 +110,7 @@ retflo/
 ├── AGENTS.md            ← framework entry point
 ├── SKILL.md             ← skill ecosystem compatibility
 ├── STYLE-GUIDE.md       ← delivery calibration
+├── CLOSE-CONDITIONS.md  ← argument endpoint procedures
 └── nodes/
     ├── auth/            ← Authority & Governance
     ├── econ/            ← Economics & Ownership
