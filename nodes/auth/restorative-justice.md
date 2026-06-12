@@ -31,11 +31,12 @@ supporting genuine accountability from the person who caused it.
 ### The Structural Drivers: Most Crime is Poverty
 
 The overwhelming majority of crime is property crime produced by economic
-inequality. Eliminate the structural drivers and most crime disappears. This is
-not utopian speculation -- it is the consistent finding of criminological
-research. Crime rates correlate strongly with inequality (measured by the Gini
-coefficient), not with policing levels or incarceration rates. Countries with
-lower inequality have lower crime rates regardless of their policing models.
+inequality. The settled finding: crime rates correlate strongly with inequality
+(measured by the Gini coefficient), not with policing levels or incarceration
+rates, and countries with lower inequality have lower crime rates regardless of
+their policing models. The further claim -- remove the structural drivers and
+most crime goes with them -- is the framework's wager, made with confidence
+because the correlation evidence points exactly there.
 Cities that increase police funding do not see proportional crime reduction;
 communities that receive economic investment do.
 
@@ -48,9 +49,12 @@ claim about incentive structures.
 
 ### Interpersonal Violence: The Hard Case
 
-For interpersonal violence -- assault, sexual violence, murder -- community-based
-accountability processes produce better outcomes than isolation in institutions
-that breed further violence. The restorative model centers the person who was
+For interpersonal violence -- assault, sexual violence, murder -- this is the
+genuinely hard case, and the outcome evidence is younger and more contested
+than for property crime. The framework's reading: where seriously tried,
+restorative processes outperform institutional isolation on recidivism and
+survivor satisfaction -- and isolation's own record of breeding further
+violence is not in dispute. The restorative model centers the person who was
 harmed, seeks material repair, addresses root causes (trauma, addiction,
 untreated mental illness), and holds the person who caused harm accountable
 through community processes.
