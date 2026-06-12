@@ -36,5 +36,5 @@ The critic's model also struggles with regional inequality. Federal redistributi
 
 | Move | Response | Concession |
 |---|---|---|
-| "This requires central authority to enforce" | It requires shared commitments enforced through conditional access. The mechanism is mutual dependence on shared systems, not a sovereign's command. | Accepts equalization must be enforced, conceding voluntary goodwill is insufficient |
-| "Rich regions will just leave your federation" | Only if they can be self-sufficient without the federation's shared systems. The architecture ensures they can't — just as no U.S. state could economically function in isolation. | Concedes interdependence is real, accepting that no region is truly self-sufficient |
+| "This requires central authority to enforce" | It requires shared commitments enforced through conditional access. The mechanism is mutual dependence on shared systems, not a sovereign's command. | **Fact** — accepts equalization must be enforced, conceding voluntary goodwill is insufficient |
+| "Rich regions will just leave your federation" | Only if they can be self-sufficient without the federation's shared systems. The architecture ensures they can't — just as no U.S. state could economically function in isolation. | **Fact** — concedes interdependence is real, accepting that no region is truly self-sufficient |

@@ -38,5 +38,5 @@ The critic's alternative — centralize power to discipline defectors — is how
 
 | Move | Response | Concession |
 |---|---|---|
-| "Every alliance ends in empire" | Many alliances ended in empire. The question is whether the failure mode is inherent or design-dependent. Preventing any single member from accumulating independent capacity changes the calculus. | Accepts that power consolidation is the danger, conceding the problem is concentration not cooperation |
-| "You need a standing institution to discipline the strongest member" | That is exactly how empires justify themselves. Athens needed to "protect the alliance" — and became the empire. Your solution to alliance failure is to build the empire preemptively. | Concedes the strongest member is the threat, accepting that unchecked power accumulation is the core problem |
+| "Every alliance ends in empire" | Many alliances ended in empire. The question is whether the failure mode is inherent or design-dependent. Preventing any single member from accumulating independent capacity changes the calculus. | **Fact** — accepts that power consolidation is the danger, conceding the problem is concentration not cooperation |
+| "You need a standing institution to discipline the strongest member" | That is exactly how empires justify themselves. Athens needed to "protect the alliance" — and became the empire. Your solution to alliance failure is to build the empire preemptively. | **Fact** — concedes the strongest member is the threat, accepting that unchecked power accumulation is the core problem |

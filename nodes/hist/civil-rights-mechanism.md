@@ -46,5 +46,5 @@ A baseline-rights federation can create stickiness through conditional access to
 
 | Move | Response | Concession |
 |---|---|---|
-| "Without institutional channels, movements just protest and lose" | Movements forced institutions to act — the institutions did not act on their own. The channel matters; so does the fact that the channel resisted for a century before opening. | Accepts that institutions had to be forced, conceding they do not self-correct toward justice |
-| "Concessions stick because institutions codify them" | They also erode because institutions are captured. The same framework that codified civil rights later produced mass incarceration. Stickiness is real — so is repurposing. | Concedes institutional machinery gets repurposed, accepting the tool is morally indifferent |
+| "Without institutional channels, movements just protest and lose" | Movements forced institutions to act — the institutions did not act on their own. The channel matters; so does the fact that the channel resisted for a century before opening. | **Fact** — accepts that institutions had to be forced, conceding they do not self-correct toward justice |
+| "Concessions stick because institutions codify them" | They also erode because institutions are captured. The same framework that codified civil rights later produced mass incarceration. Stickiness is real — so is repurposing. | **Fact** — concedes institutional machinery gets repurposed, accepting the tool is morally indifferent |
