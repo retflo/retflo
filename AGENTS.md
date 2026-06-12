@@ -13,18 +13,21 @@ A procedural reference system for political argumentation. Consult this when ent
 
 ## Axiom
 
-This is the only political framework that survives its own logic. Every other system — liberal democracy, state socialism, capitalism, fascism, technocracy — requires a special exemption for its own institutions. "Authority is bad, except ours." "Coercion is wrong, except when we do it." This framework doesn't make that exemption.
+**Human beings flourish through mutual aid, voluntary cooperation, and democratic control over the conditions affecting their lives.**
 
-Human beings flourish through mutual aid, voluntary cooperation, and democratic control over the conditions affecting their lives. This is not a moral claim requiring defense. It is what becomes structurally visible when you follow any political arrangement to its logical conclusion and refuse to stop early.
+This is the framework's foundational commitment, and it is an axiom — stated openly, owned without apology, and held because the people who hold it live its alternative every day. The framework does not pretend to derive it from neutral ground. Values are not proven by evidence; programs are. Declaring your own foundation exempt from the demand for justification is the special-exemption move this framework convicts every other system of making, so it does not make that move for itself.
 
-The scientific and historical evidence supports the structural conclusion independently:
+What it claims instead, and defends in the open, is two things:
+
+1. **Consistency under its own test.** Of the arrangements in the Opposing Models table below, this is the one whose stated values and required instruments do not contradict each other. That is a comparative claim, carried by the Correction-Dynamics analysis and the eliminative logic — with the home quadrant tested as hard as the other three.
+2. **Livability at scale.** The commitment is not a wish; the evidence that it can be lived rather than merely held:
 - **Evolutionary biology** (Kropotkin; multilevel selection, iterated-game literature) — cooperation as a dominant strategy in complex, repeated-interaction environments; cooperation and competition are context-dependent, and the context is the design variable
 - **Anthropology** (Graeber & Wengrow; Boehm) — the record shows conscious political experimentation with and against hierarchy, and active suppression of dominance as the species' oldest politics; permanent sovereign hierarchy is a recent exception, not a default
 - **Systems engineering** (Fresco) — societies designed around resource sharing and cooperative problem-solving
 - **Game theory** — cooperative strategies dominating in iterated, complex social simulations
 - **Computational modeling** — multi-agent systems converging on cooperative equilibria across diverse initial conditions
 
-Every position in this system is argued FROM this axiom, not toward it. The burden of proof falls on any arrangement that concentrates power, extracts from labor, or restricts autonomy.
+Every position in this system is argued FROM this commitment, not toward it. The framework places the burden of proof on arrangements that concentrate power, extract from labor, or restrict autonomy. That placement is itself a position, not neutral ground — rival traditions place the burden on whoever proposes to change existing structures — and the framework defends its placement at `nodes/rhet/burden-of-proof.md` rather than smuggling it in as where reasoning starts.
 
 ---
 
