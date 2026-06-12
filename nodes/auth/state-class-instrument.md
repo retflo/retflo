@@ -49,7 +49,7 @@ threats to labor-from-above as administrative.
 ### Follow the Military
 
 Abroad, the military protects trade routes and resource access for corporate
-interests. The history of U.S. military intervention correlates tightly with the
+interests. The history of U.S. military intervention tracks the
 presence of strategic resources and the interests of domestic capital. Smedley
 Butler — a Marine general — wrote in 1935 that he spent his career as "a racketeer
 for capitalism." The pattern has not changed; the public relations have improved.
