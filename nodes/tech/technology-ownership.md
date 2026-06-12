@@ -24,9 +24,10 @@ aliases: ["technology is neutral", "automation will free everyone", "AI will sol
 ## Position
 
 The same technology serves liberation or domination depending on ownership structure. This is
-not a philosophical abstraction -- it is the central observable fact of every technological
-transition in history. Technology amplifies existing power relations; it does not neutralize
-them.
+not a philosophical abstraction -- it is the recurring pattern of technological
+transitions under concentrated ownership, and how universally it holds is the live fight
+in the economics of automation. Technology amplifies existing power relations; it does not
+neutralize them.
 
 ### The Ownership Determinant
 
