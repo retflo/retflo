@@ -54,9 +54,11 @@ centralism:
    abolition. Institutional self-preservation becomes the dominant logic,
    regardless of the original revolutionary intention.
 
-This degradation is not contingent on personality or conditions. It is
-structural: the organizational form selects for these outcomes the way a
-funnel selects for convergence.
+Whether this degradation was contingent on personality or conditions is the
+central fight in the historiography. The framework's answer is the cross-case
+record: the same form, under wildly different conditions, converging on the
+same outcome the way a funnel selects for convergence. The structural reading
+is a wager — and the pattern below is why the framework makes it.
 
 ### The Historical Record: Total Validation
 
@@ -101,10 +103,11 @@ party overrules the class "in its own interest."
 
 Every Leninist experiment reproduced the cascade: USSR, China, Cuba, Vietnam,
 Cambodia, Ethiopia, Angola, Mozambique. Different cultures, different
-conditions, different leaders -- identical organizational outcome. The pattern
-is not explained by individual betrayal or adverse conditions. It is explained
-by organizational structure selecting for certain results regardless of the
-operators' intentions. A machine designed to concentrate power concentrates
+conditions, different leaders -- identical organizational outcome. Individual
+betrayal and adverse conditions were present in every case — and so was the one
+constant, the organizational structure. The circumstantialist reading must
+explain why wildly different circumstances produced identical outcomes; the
+structural reading only has to point at the constant. A machine designed to concentrate power concentrates
 power. The surprise would be if it did not.
 
 ## Objection Handling
