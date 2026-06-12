@@ -28,12 +28,19 @@ sign process. It takes about 30 seconds.
 ## What to contribute
 
 **Argument nodes and connections**
-The graph currently covers 59 arguments across 7 domains. If you see a gap —
+The graph currently covers 66 arguments across 7 domains. If you see a gap —
 an objection that isn't addressed, a connection that isn't mapped, a response
 that could be stronger — open an issue or submit directly.
 
 If you're modifying existing argument content, mark your changes clearly and
 explain your reasoning. The integrity of the argument structure matters.
+
+Node format: every Objection Handling row's Concession cell carries a leading
+`**Fact**` or `**Frame**` tag (see STYLE-GUIDE §4.4 for the distinction), and
+new nodes follow the honest-strength pattern — state the critic's argument at
+full strength, concede what's true, contest the inference. Stress-testing is
+contribution: if you find a node that loses an argument it shouldn't, that's
+a bug report.
 
 **Code**
 Bug fixes, API improvements, visualizer features, tooling, documentation — all

@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://retflo.org/license/"><img src="https://img.shields.io/badge/license-RCCL_v1.0-a04825" alt="License: RCCL v1.0" /></a>
-  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/nodes-59-1a1715" alt="59 nodes" /></a>
-  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/connections-260-1a1715" alt="260 connections" /></a>
+  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/nodes-66-1a1715" alt="66 nodes" /></a>
+  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/connections-287-1a1715" alt="287 connections" /></a>
   <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/domains-7-1a1715" alt="7 domains" /></a>
   <a href="https://retflo.org"><img src="https://img.shields.io/badge/retflo.org-1a1715" alt="retflo.org" /></a>
 </p>
@@ -35,7 +35,7 @@ The same objections to cooperative governance have been recycled for centuries. 
 
 These aren't hard questions. They have structural answers. But those answers have never been organized in a way that connects them — where each response anticipates the next objection and routes to it.
 
-retflo is that structure. A closed dialectical graph that maps the entire objection space, with every path answered and every connection typed. Not a chatbot. Not an app. A protocol — like TCP/IP is a protocol for data, retflo is a protocol for political reasoning.
+retflo is that structure. A dialectical graph that maps the objection space — every path answered, every connection typed, and the strongest opposing arguments included at full strength rather than routed around. Not a chatbot. Not an app. A protocol — like TCP/IP is a protocol for data, retflo is a protocol for political reasoning.
 
 ## Try it
 
@@ -101,7 +101,7 @@ Objection in, structural response out, next move available. The graph is closed 
 | Social | Structural oppression, propaganda, nationalism, education |
 | Technology | Platform ownership, algorithmic governance |
 
-59 arguments. 260 connections. 7 domains.
+66 arguments. 287 connections. 7 domains.
 
 ## Structure
 
