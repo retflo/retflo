@@ -19,7 +19,7 @@ export function makeTools(graph, log) {
         nearest: nearest.map(c => summary(graph, c)),
       };
       if (matches.length === 0) {
-        res.hint = 'No node routed. If this objection seems genuinely unmapped, classify the gap and call submit_miss (kind: alias | edge | node).';
+        res.hint = 'No node routed. If you resolve this objection by other means (direct fetch, your own knowledge), you MUST classify the gap and call submit_miss (kind: alias = phrasing not in aliases, edge = missing connection, node = missing argument) so the graph learns this phrasing.';
       }
       return res;
     },
