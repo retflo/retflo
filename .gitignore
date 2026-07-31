@@ -7,3 +7,4 @@ artifacts/
 .netlify/
 .playwright-mcp/
 tools/
+.worktrees/
