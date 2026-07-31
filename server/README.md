@@ -6,7 +6,7 @@ A Model Context Protocol server that exposes the retflo graph as tools for Claud
 
 The server provides four tools:
 
-- **`search_nodes`** — find nodes in the graph by query text. Returns exact matches and nearest neighbors by semantic distance.
+- **`search_nodes`** — find nodes in the graph by query text. Returns matches via alias substring, tag keyword, and title token overlap scoring, plus the highest-scoring territory for misses.
 - **`get_node`** — fetch a node's full content (title, domain, body, links) by coordinate.
 - **`follow_edge`** — traverse from one node to another along a typed connection. Returns the target node and edge type.
 - **`submit_miss`** — record gaps in the mapping locally (unmapped queries, missing edges, missing nodes). Marked with kind (`alias`, `edge`, or `node`) and optional notes.
@@ -53,7 +53,7 @@ edge_follow: { t, from, to, edge_type }
 unmapped: { t, query, kind, nearest, note? }
   Emitted when submit_miss is called.
   kind is one of: alias, edge, node.
-  nearest is an array of node coordinates offered as fallback routes.
+  nearest is an optional array of node coordinates supplied by the caller (typically from a prior search_nodes result).
   note is an optional string attached to the submission.
 
 user_message: { t, text }
