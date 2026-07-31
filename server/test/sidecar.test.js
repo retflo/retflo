@@ -73,3 +73,58 @@ test('SSE replays existing events then tails live ones', async () => {
   assert.equal(all.at(-1).type, 'search');
   await reader.cancel();
 });
+
+test('SSE /live terminates for historical (non-active) sessions with event: end', async () => {
+  // Create a second log in the same sessionsDir and end it
+  const log2 = new SessionLog({ dir: dirname(log.file), graphVersion: graph.version });
+  log2.record({ type: 'node_fetch', coordinate: 'RHET.BURDEN.2', revisit: true });
+  log2.end();
+
+  // Request its /live while activeLog is the OTHER log (log)
+  const file = basename(log2.file);
+  const res = await fetch(`${base}/sessions/${file}/live`);
+  assert.equal(res.status, 200);
+
+  const reader = res.body.getReader();
+  const dec = new TextDecoder();
+  let fullText = '';
+  let done = false;
+  while (!done) {
+    const { value, done: readerDone } = await reader.read();
+    done = readerDone;
+    if (value) fullText += dec.decode(value);
+  }
+
+  const frames = fullText.split('\n\n').filter(Boolean);
+  // (a) verify all events arrive as data: lines
+  const dataFrames = frames.filter(f => f.startsWith('data: '));
+  assert.ok(dataFrames.length >= 2);
+  const events = dataFrames.map(f => JSON.parse(f.replace(/^data: /, '')));
+  assert.equal(events[0].type, 'session_start');
+  assert.equal(events.at(-1).type, 'session_end');
+
+  // (c) verify event: end frame is present
+  const endFrames = frames.filter(f => f.startsWith('event: end'));
+  assert.equal(endFrames.length, 1);
+
+  // (b) reader reached done (stream terminated)
+  assert.ok(done);
+});
+
+test('GET /sessions with nonexistent sessionsDir returns empty list and survives', async () => {
+  const nonexistent = join(tmpdir(), 'nonexistent-' + Math.random().toString(36).slice(2));
+  const server2 = createSidecar({ graph, sessionsDir: nonexistent, activeLog: null });
+  await new Promise(res => server2.listen(0, '127.0.0.1', res));
+  const base2 = `http://127.0.0.1:${server2.address().port}`;
+
+  // /sessions returns 200 with []
+  const sessions = await (await fetch(`${base2}/sessions`)).json();
+  assert.equal(sessions.length, 0);
+
+  // subsequent /graph request works
+  const g = await (await fetch(`${base2}/graph`)).json();
+  assert.ok(g.version);
+  assert.equal(g.nodes.length, graph.nodes.size);
+
+  server2.close();
+});
