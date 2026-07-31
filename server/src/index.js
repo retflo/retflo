@@ -21,11 +21,18 @@ const log = new SessionLog({ dir: sessionsDir, graphVersion: graph.version });
 const tools = makeTools(graph, log);
 
 const sidecar = createSidecar({ graph, sessionsDir, activeLog: log });
+sidecar.on('error', err => {
+  console.error(`sidecar disabled: ${err.message}`);
+});
 sidecar.listen(port, '127.0.0.1', () => {
   console.error(`sidecar http://127.0.0.1:${sidecar.address().port}/`);
 });
 
-const shutdown = () => { log.end(); sidecar.close(); process.exit(0); };
+const shutdown = () => {
+  log.end();
+  try { sidecar.close(); } catch { /* not listening */ }
+  process.exit(0);
+};
 process.on('SIGTERM', shutdown);
 process.on('SIGINT', shutdown);
 
