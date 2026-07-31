@@ -29,3 +29,8 @@ test('results are capped at limit', () => {
   const { matches } = searchNodes(graph, 'state power hierarchy capitalism property', 3);
   assert.ok(matches.length <= 3);
 });
+
+test('landlord/rent voluntarism phrasing routes to the boomerang node', () => {
+  const { matches } = searchNodes(graph, 'voluntary exchange exit landlord consent coercion');
+  assert.ok(matches.includes('RHET.BOOMERANG.1'), `got ${matches}`);
+});

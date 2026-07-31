@@ -10,7 +10,7 @@ links:
   escalation:
     - target: ECON.PROPERTY.1
       why: "When consistent application of the critic's own definitions reveals that private property replicates state structures, the argument deepens into the property-possession distinction that separates use-rights from dominion."
-aliases: ["anarcho-capitalism is real anarchism", "private property isn't the state", "taxation is theft but rent isn't", "voluntary contracts solve everything", "rename it and the problem disappears"]
+aliases: ["anarcho-capitalism is real anarchism", "private property isn't the state", "taxation is theft but rent isn't", "voluntary contracts solve everything", "rename it and the problem disappears", "rent is a voluntary exchange", "the landlord relationship is based on consent", "nobody is forcing you to rent", "you can always exit the arrangement"]
 ---
 
 # The Definitional Boomerang
