@@ -3,6 +3,11 @@ import { initState, applyEvent, foldTo } from '/fold.js';
 const DOM = { econ:'#d4a24e', auth:'#c65a4d', phil:'#8f7fc4', hist:'#4f9a8c',
               rhet:'#cf7fa8', soc:'#7fae5c', tech:'#5b8fc9' };
 
+// Event-derived strings (tool-call arguments, prompt-injectable) are persisted to
+// the session log and rendered into innerHTML for markup (log lines, chat bubbles).
+// Escape before interpolating into any innerHTML string.
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
 const GRAPH = await (await fetch('/graph')).json();
 document.getElementById('graphmeta').textContent =
   `graph v${GRAPH.version} · ${GRAPH.nodes.length} nodes / ${GRAPH.edges.length} connections`;
@@ -151,7 +156,7 @@ function litEdgeStatic(s, t, type) {
 function chatMsg(role, text, sources) {
   const d = document.createElement('div'); d.className = 'msg ' + role;
   d.innerHTML = '<div class="who">' + (role === 'user' ? 'challenger' : 'graph / defender') + '</div>' +
-    text.replace(/\*(.+?)\*/g, '<i>$1</i>');
+    esc(text).replace(/\*(.+?)\*/g, '<i>$1</i>');
   if (sources && sources.length) {
     const s = document.createElement('div'); s.className = 'srcs';
     sources.forEach(id => {
@@ -186,30 +191,30 @@ function logLine(cls, html, t) {
 function logLineForEvent(ev) {
   switch (ev.type) {
     case 'session_start':
-      logLine('sys', '<span class="k">SESSION</span> ' + ev.session + ' <span class="dim">graph ' + ev.graph_version + '</span>', ev.t);
+      logLine('sys', '<span class="k">SESSION</span> ' + esc(ev.session) + ' <span class="dim">graph ' + esc(ev.graph_version) + '</span>', ev.t);
       break;
     case 'user_message':
-      logLine('sys', '<span class="k">USER</span> <span class="dim">' + ev.text.slice(0, 52) + '…</span>', ev.t);
+      logLine('sys', '<span class="k">USER</span> <span class="dim">' + esc(ev.text.slice(0, 52)) + '…</span>', ev.t);
       break;
     case 'search':
-      logLine('search', '<span class="k">SEARCH</span> ' + ev.query + ' <span class="dim">→ ' + ev.matches.length + ' match' + (ev.matches.length === 1 ? '' : 'es') + '</span>', ev.t);
+      logLine('search', '<span class="k">SEARCH</span> ' + esc(ev.query) + ' <span class="dim">→ ' + ev.matches.length + ' match' + (ev.matches.length === 1 ? '' : 'es') + '</span>', ev.t);
       break;
     case 'node_fetch':
-      logLine('fetch', '<span class="k">FETCH</span> ' + ev.coordinate.toLowerCase() + (ev.revisit ? ' <span class="dim">(revisit)</span>' : ''), ev.t);
+      logLine('fetch', '<span class="k">FETCH</span> ' + esc(ev.coordinate.toLowerCase()) + (ev.revisit ? ' <span class="dim">(revisit)</span>' : ''), ev.t);
       break;
     case 'edge_follow':
-      logLine('edge', '<span class="k">EDGE</span>  ' + ev.from.toLowerCase() + ' ─' + ev.edge_type + '→ ' + ev.to.toLowerCase(), ev.t);
+      logLine('edge', '<span class="k">EDGE</span>  ' + esc(ev.from.toLowerCase()) + ' ─' + esc(ev.edge_type) + '→ ' + esc(ev.to.toLowerCase()), ev.t);
       break;
     case 'unmapped':
-      logLine('unmapped', '<span class="k">ROUTE-MISS</span> ' + ev.query + '<br><span class="dim">↳ queued as ' +
-        (ev.kind || 'node') + ' patch · premise territory: ' + ev.nearest.map(n => n.toLowerCase()).join(', ') + '</span>', ev.t);
+      logLine('unmapped', '<span class="k">ROUTE-MISS</span> ' + esc(ev.query) + '<br><span class="dim">↳ queued as ' +
+        esc(ev.kind || 'node') + ' patch · premise territory: ' + ev.nearest.map(n => esc(n.toLowerCase())).join(', ') + '</span>', ev.t);
       break;
     case 'assistant_message':
-      logLine('reply', '<span class="k">REPLY</span> <span class="dim">sources: ' + (ev.sources ?? []).map(s => s.toLowerCase()).join(', ') + '</span>', ev.t);
+      logLine('reply', '<span class="k">REPLY</span> <span class="dim">sources: ' + (ev.sources ?? []).map(s => esc(s.toLowerCase())).join(', ') + '</span>', ev.t);
       break;
     case 'session_end':
-      logLine('sys', '<span class="k">END</span> <span class="dim">' + ev.stats.fetched + ' nodes fetched · ' +
-        ev.stats.edges + ' edges followed · ' + ev.stats.unmapped + ' unmapped → patch queue</span>', ev.t);
+      logLine('sys', '<span class="k">END</span> <span class="dim">' + esc(ev.stats.fetched) + ' nodes fetched · ' +
+        esc(ev.stats.edges) + ' edges followed · ' + esc(ev.stats.unmapped) + ' unmapped → patch queue</span>', ev.t);
       break;
   }
 }
@@ -336,8 +341,13 @@ scrub.oninput = () => { setPlaying(false); seek(Number(scrub.value)); };
 // ---- sessions + live tail ----
 async function refreshSessions() {
   const list = await (await fetch('/sessions')).json();
-  sessionSel.innerHTML = list.map(s =>
-    `<option value="${s.file}">${s.id.slice(0,8)} · ${s.events} ev</option>`).join('');
+  sessionSel.innerHTML = '';
+  for (const s of list) {
+    const o = document.createElement('option');
+    o.value = s.file;
+    o.textContent = `${s.id.slice(0,8)} · ${s.events} ev`;
+    sessionSel.appendChild(o);
+  }
   return list;
 }
 
