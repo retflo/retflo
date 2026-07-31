@@ -19,7 +19,7 @@ export class SessionLog extends EventEmitter {
   }
 
   record(ev) {
-    const full = { t: this.now() - this.t0, ...ev };
+    const full = { ...ev, t: this.now() - this.t0 };
     if (ev.type === 'node_fetch') { this.stats.fetched += 1; this.seen.add(ev.coordinate); }
     else if (ev.type === 'edge_follow') this.stats.edges += 1;
     else if (ev.type === 'unmapped') this.stats.unmapped += 1;

@@ -11,7 +11,7 @@ The server provides four tools:
 - **`follow_edge`** — traverse from one node to another along a typed connection. Returns the target node and edge type.
 - **`submit_miss`** — record gaps in the mapping locally (unmapped queries, missing edges, missing nodes). Marked with kind (`alias`, `edge`, or `node`) and optional notes.
 
-The server also runs a live traversal visualizer at `http://127.0.0.1:7317/` that replays sessions from disk: session picker, node inspector, edge follower, live tail, step/scrub controls.
+The server also runs a live traversal visualizer at `http://127.0.0.1:7317/` that replays sessions from disk: session picker, live tail via SSE, play/pause, step, restart, speed control, and a scrub timeline.
 
 ## Register with Claude Code
 
@@ -73,11 +73,16 @@ session_end: { t, stats }
 
 The live traversal viewer runs at `http://127.0.0.1:7317/` and provides:
 
-- **Session picker** — list all sessions in `~/.retflo/sessions/` with start time and stats.
-- **Node inspector** — browse a selected node's content, links, domain.
-- **Edge follower** — step through edges and see edge types and revisit status.
-- **Live tail** — watch a session as it unfolds in real time.
-- **Scrub controls** — play, pause, step forward/backward through events; scrub to any point in the timeline.
+- **Session picker** — a dropdown listing sessions in `~/.retflo/sessions/`, each shown as `id · N ev` (event count).
+- **Live follow** — tails the active session over SSE (`/sessions/:file/live`); the "● Live" button glows while following.
+- **Play / pause** — replays the loaded session's events with realistic pacing.
+- **Step** — advances exactly one event at a time.
+- **Restart** — resets playback to the beginning of the session.
+- **Speed control** — 0.6×, 1×, 1.8×, or 3× playback speed.
+- **Scrub timeline** — a range input to seek to any point in the session; folds state up to that timestamp.
+- **Hover tooltips** — hovering a graph node shows its coordinate, domain, and title.
+- **Engine log pane** — a verbatim, scrollable log of tool-call events (search, fetch, edge follow, unmapped, etc.) as they're applied.
+- **Patch-queue counter** — a running count of `unmapped` events (routing/coverage gaps) surfaced in the session.
 
 ## Running the server
 

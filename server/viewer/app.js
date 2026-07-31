@@ -336,7 +336,7 @@ playBtn.onclick = () => {
 };
 stepBtn.onclick = () => { setPlaying(false); advance(); };
 resetBtn.onclick = () => { setPlaying(false); seek(-1); scrub.value = 0; };
-scrub.oninput = () => { setPlaying(false); seek(Number(scrub.value)); };
+scrub.oninput = () => { setPlaying(false); if (following) stopFollow(); seek(Number(scrub.value)); };
 
 // ---- sessions + live tail ----
 async function refreshSessions() {
@@ -357,23 +357,29 @@ async function loadSession(file) {
   const text = await (await fetch(`/sessions/${encodeURIComponent(file)}/events`)).text();
   events = text.trim().split('\n').filter(Boolean).map(JSON.parse);
   scrub.max = tMax();
+  scrub.value = 0;
   seek(-1);
+}
+
+// Turn off live-follow: close the SSE stream (if open) and un-glow the button.
+// The single follow-off codepath, reused by the follow button, session switch,
+// SSE end frame, and scrubbing away from live.
+function stopFollow() {
+  if (es) { es.close(); es = null; }
+  following = false;
+  followBtn.classList.remove('primary');
 }
 
 function follow(file) {
   // SSE replays the whole log then tails; rebuild from scratch to stay deterministic.
   if (es) es.close();
-  events = []; seek(-1);
+  events = []; scrub.value = 0; seek(-1);
   es = new EventSource(`/sessions/${encodeURIComponent(file)}/live`);
   // Historical sessions: the sidecar replays the full log, sends `event: end`,
   // and closes. A raw EventSource auto-reconnects on close and would replay
   // forever, so stop following (and let the browser's retry no-op against a
   // finished stream) once we see the end frame.
-  es.addEventListener('end', () => {
-    es.close();
-    following = false;
-    followBtn.classList.remove('primary');
-  });
+  es.addEventListener('end', stopFollow);
   es.onmessage = m => {
     const ev = JSON.parse(m.data);
     events.push(ev);
@@ -384,9 +390,8 @@ function follow(file) {
   followBtn.classList.add('primary');
 }
 
-sessionSel.onchange = () => { following = false; followBtn.classList.remove('primary'); loadSession(sessionSel.value); };
-followBtn.onclick = () => following ? (following = false, followBtn.classList.remove('primary'), es?.close())
-                                    : follow(sessionSel.value);
+sessionSel.onchange = () => { stopFollow(); loadSession(sessionSel.value); };
+followBtn.onclick = () => following ? stopFollow() : follow(sessionSel.value);
 
 const sessions = await refreshSessions();
 if (sessions.length) { sessionSel.value = sessions[0].file; follow(sessions[0].file); }
