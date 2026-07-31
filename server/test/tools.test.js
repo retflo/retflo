@@ -1,6 +1,6 @@
 import { test, before, beforeEach } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtempSync, readFileSync } from 'node:fs';
+import { mkdtempSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -53,13 +53,14 @@ test('follow_edge validates the typed link and records edge_follow + node_fetch'
   const res = await tools.follow_edge({ from: 'RHET.CIRCULARREALISM.1', to: 'RHET.SURVIVAL.1' });
   assert.equal(res.edge_type, 'flow');
   assert.equal(res.coordinate, 'RHET.SURVIVAL.1');
-  assert.deepEqual(events.slice(1).map(e => e.type), ['edge_follow', 'node_fetch']);
+  assert.deepEqual(events.map(e => e.type), ['edge_follow', 'node_fetch']);
   assert.equal(events.find(e => e.type === 'edge_follow').edge_type, 'flow');
 });
 
 test('follow_edge on a non-existent edge throws, records nothing', async () => {
   await assert.rejects(() => tools.follow_edge({ from: 'RHET.BURDEN.1', to: 'RHET.BURDEN.1' }), /no .*edge/i);
   assert.equal(events.filter(e => e.type === 'edge_follow').length, 0);
+  assert.equal(events.length, 0);
 });
 
 test('submit_miss records an unmapped event locally', async () => {

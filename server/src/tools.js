@@ -35,8 +35,6 @@ export function makeTools(graph, log) {
     async follow_edge({ from, to }) {
       const src = graph.nodes.get(from);
       if (!src) throw new Error(`unknown coordinate: ${from}`);
-      const revisit_src = log.seen.has(from);
-      log.record({ type: 'node_fetch', coordinate: from, revisit: revisit_src });
       const link = src.links.find(l => l.target === to);
       if (!link) throw new Error(`no typed edge from ${from} to ${to}`);
       const tgt = graph.nodes.get(to);
