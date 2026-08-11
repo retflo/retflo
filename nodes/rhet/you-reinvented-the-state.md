@@ -12,7 +12,7 @@ links:
   premise:
     - target: PHIL.COERCION
       why: "The definitional line rests on the coercion analysis: bounded plural escalation is what distinguishes rule enforcement from a sovereign monopoly."
-aliases: ["you reinvented the state", "that's just a government", "if it enforces rules it's a state", "montesquieu got there first", "sounds like government with extra steps", "you just described democracy", "congratulations, you invented courts", "so it IS a state then"]
+aliases: ["you reinvented the state", "that's just a government", "if it enforces rules it's a state", "montesquieu got there first", "sounds like government with extra steps", "you just described democracy", "congratulations, you invented courts", "so it IS a state then", "police by another name", "your councils are just city hall", "dues are taxes with extra steps", "you'd still have bureaucrats", "sounds like a co-op board, and those are hell", "meet the new boss, same as the old boss", "power always re-emerges", "government with vibes"]
 ---
 
 # "You Reinvented the State"

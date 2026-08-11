@@ -11,7 +11,7 @@ links:
   redirect:
     - target: AUTH.FINALITY
       why: "The rules conversation bottoms out at who holds the last word on enforcement, which the scoped-finality analysis handles."
-aliases: ["dispersing wealth requires a giant state", "your remedy for private power is public enormity", "you'd need a leviathan to redistribute forever", "who breaks up the concentrations — and who watches them", "your cure is bigger than the disease", "who breaks up the monopolies, and who watches them"]
+aliases: ["dispersing wealth requires a giant state", "your remedy for private power is public enormity", "you'd need a leviathan to redistribute forever", "who breaks up the concentrations — and who watches them", "your cure is bigger than the disease", "who breaks up the monopolies, and who watches them", "who watches the antitrust regulators", "the SEC is captured anyway", "rules get gamed", "loopholes always win", "tax law proves complexity fails"]
 ---
 
 # Rules vs. Discretion: The Means-End Trap Disarmed

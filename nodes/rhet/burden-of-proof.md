@@ -11,7 +11,7 @@ links:
     - target: RHET.REINVENT
       why: "When the burden flip meets your-system-enforces-rules-too, the definitional interception separates rules from statehood."
 recursion_point: true
-aliases: ["prove your system would work", "the burden is on you to show an alternative", "you're the one proposing change", "the current system works well enough", "if it ain't broke don't fix it", "you have to offer a full blueprint first", "extraordinary claims require extraordinary evidence", "Chesterton's fence"]
+aliases: ["prove your system would work", "the burden is on you to show an alternative", "you're the one proposing change", "the current system works well enough", "if it ain't broke don't fix it", "you have to offer a full blueprint first", "extraordinary claims require extraordinary evidence", "Chesterton's fence", "you're the one proposing to change everything", "the burden is on the radical", "prove it would be better", "the null hypothesis is the status quo", "show me the full blueprint", "utopia needs receipts", "why should I risk what works", "you first", "go start your commune and report back"]
 ---
 
 # Burden of Proof Reversal

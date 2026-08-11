@@ -14,7 +14,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "The full Jim Crow cycle — tolerance, forced concession, repurposing into mass incarceration — demonstrates that the same centralized tool that breaks oppressive blocs becomes the next oppressive bloc's weapon."
-aliases: ["federal troops saved the day", "central authority broke the atrocity", "the state intervened to protect minorities", "Little Rock / federal troops", "Lincoln freed the slaves"]
+aliases: ["federal troops saved the day", "central authority broke the atrocity", "the state intervened to protect minorities", "Little Rock / federal troops", "Lincoln freed the slaves", "the Guard integrated Ole Miss", "federal marshals protected Ruby Bridges", "sometimes only the feds can act", "civil rights needed federal supremacy"]
 ---
 
 # The Benevolent Intervention Narrative

@@ -16,7 +16,7 @@ links:
   retreat:
     - target: RHET.SURVIVAL
       why: "When the historical defeats are analyzed honestly, the critic's fallback is the meta-argument that any system that gets destroyed was never viable — a circularity that needs direct exposure."
-aliases: ["every anarchist experiment failed", "revolutionary catalonia was a mess", "makhno had a command structure", "it always gets crushed", "Catalonia was chaos", "Franco won for a reason", "the anarchists lost the civil war"]
+aliases: ["every anarchist experiment failed", "revolutionary catalonia was a mess", "makhno had a command structure", "it always gets crushed", "Catalonia was chaos", "Franco won for a reason", "the anarchists lost the civil war", "Franco won because the anarchists were disorganized", "the anarchists shot priests", "the collectives coerced the peasants", "Orwell showed the infighting", "the POUM purges", "anarchists win revolutions and lose the peace"]
 ---
 
 # Military Defeat as Governance Disproof

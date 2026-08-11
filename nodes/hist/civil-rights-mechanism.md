@@ -16,7 +16,7 @@ links:
   escalation:
     - target: AUTH.CLASS
       why: "Civil rights mechanism pushed to conclusion reaches the class instrument analysis"
-aliases: ["civil rights proves institutions work", "movements need institutional channels", "the Civil Rights Act fixed it", "Brown v Board ended segregation", "MLK worked within the system"]
+aliases: ["civil rights proves institutions work", "movements need institutional channels", "the Civil Rights Act fixed it", "Brown v Board ended segregation", "MLK worked within the system", "LBJ signed it, credit where due", "the courts led on civil rights", "Brown came before Montgomery", "the Voting Rights Act worked until they gutted it", "we fixed racism with laws"]
 ---
 
 # The Civil Rights Mechanism: Pressure vs. Institutions

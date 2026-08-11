@@ -17,7 +17,7 @@ links:
   escalation:
     - target: AUTH.CLASS
       why: "'CAN BE captured' deepens to 'BUILT for this purpose'"
-aliases: ["institutions can be reformed", "fix the state don't abolish it", "institutional depth", "change it from the inside", "the arc of history bends toward justice", "we've made so much progress", "institutions are all that stand between us and chaos"]
+aliases: ["institutions can be reformed", "fix the state don't abolish it", "institutional depth", "change it from the inside", "the arc of history bends toward justice", "we've made so much progress", "institutions are all that stand between us and chaos", "the system self-corrects", "the pendulum always swings back", "the checks caught Nixon", "the courts blocked him", "the institutions held", "democracy is resilient", "progress is inevitable", "every generation is better off", "look how far we've come"]
 ---
 
 # Inertia vs. Capture: The Reform Gamble

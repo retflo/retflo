@@ -16,7 +16,7 @@ links:
       why: "Contemporary imperialism extends the same state violence that created capitalism through colonial conquest and primitive accumulation, revealing a continuous pattern rather than separate phenomena."
     - target: ECON.PROFIT
       why: "Imperial surplus extraction is the international expression of domestic profit extraction, applying the same structural mechanism across borders when domestic markets cannot absorb overproduction."
-aliases: ["we need to protect our interests abroad", "military intervention is humanitarian", "free trade benefits everyone", "globalization reduces poverty", "America is the world's police", "they hate us for our freedom", "sweatshops are better than no jobs", "colonialism built their railroads", "why does the US topple governments"]
+aliases: ["we need to protect our interests abroad", "military intervention is humanitarian", "free trade benefits everyone", "globalization reduces poverty", "America is the world's police", "they hate us for our freedom", "sweatshops are better than no jobs", "colonialism built their railroads", "why does the US topple governments", "we defend the free world", "pax americana", "the world needs a policeman", "isolationism causes wars", "WWII proves intervention works", "the Marshall Plan rebuilt Europe", "military bases keep the peace", "freedom of navigation", "they'd attack us if we pulled back", "blood for oil was a conspiracy theory", "cheap goods are good for us, honestly"]
 ---
 
 # Imperialism as Capitalism's Foreign Policy

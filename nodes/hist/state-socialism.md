@@ -13,7 +13,7 @@ links:
       why: "The state socialism analysis is the strongest historical evidence for the prefigurative claim that authoritarian organizational forms produce authoritarian outcomes regardless of stated intentions."
     - target: AUTH.CLASS
       why: "Bakunin's prediction that state ownership creates a new ruling class deepens into the general structural argument that the state is inherently a class instrument, not a neutral tool capturable for liberation."
-aliases: ["communism failed", "the USSR proves socialism doesn't work", "state ownership is socialism", "China shows central planning works", "what about Cuba/Venezuela", "socialism has never worked", "what about Venezuela", "real communism has never been tried", "100 million dead", "go live in North Korea", "socialism is when no food", "China lifted millions out of poverty though"]
+aliases: ["communism failed", "the USSR proves socialism doesn't work", "state ownership is socialism", "China shows central planning works", "what about Cuba/Venezuela", "socialism has never worked", "what about Venezuela", "real communism has never been tried", "100 million dead", "go live in North Korea", "socialism is when no food", "China lifted millions out of poverty though", "Stalin industrialized a peasant country", "the USSR beat Hitler", "Sputnik", "Cuban healthcare and literacy", "at least everyone had housing", "people miss the USSR", "shock therapy killed more than communism", "the 90s were worse for Russians", "Vietnam is doing fine", "actually existing socialism", "tankie", "Kronstadt was necessary", "Makhno betrayed the revolution"]
 ---
 
 # State Socialism as State Capitalism: Bakunin's Prophecy

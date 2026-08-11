@@ -12,7 +12,7 @@ links:
     - target: RHET.BOOMERANG
       why: "The chain's endgame relabel meets the consistency test: a category that absorbs every position describes nothing."
 recursion_point: true
-aliases: ["so you're basically a liberal now", "you've conceded the whole debate", "we've arrived at a wealth tax debate", "welcome to constitutional politics", "your position has collapsed into mine", "so we agree, you just want better policy", "you're describing social democracy", "we're not so different, you and I"]
+aliases: ["so you're basically a liberal now", "you've conceded the whole debate", "we've arrived at a wealth tax debate", "welcome to constitutional politics", "your position has collapsed into mine", "so we agree, you just want better policy", "you're describing social democracy", "we're not so different, you and I", "so you admit coordination is needed", "we agree more than you think", "you're a liberal with extra steps", "welcome to social democracy", "sounds like what we have, plus reforms", "you've basically conceded", "so we're just arguing degree"]
 ---
 
 # The Collapse Chain: When Concessions Are Assembled Into Capture

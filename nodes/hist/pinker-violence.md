@@ -16,7 +16,7 @@ links:
   retreat:
     - target: PHIL.NATURE
       why: "When the statistical attribution is contested, critics retreat to the premise that humans are inherently violent and only centralized authority suppresses this nature."
-aliases: ["states reduced violence", "per-capita violence was higher before states", "civilization reduced war deaths", "better angels", "Pinker / Better Angels", "Hobbes was right, life was nasty brutish and short"]
+aliases: ["states reduced violence", "per-capita violence was higher before states", "civilization reduced war deaths", "better angels", "Pinker / Better Angels", "Hobbes was right, life was nasty brutish and short", "the long peace", "nuclear weapons kept the peace", "we live in the safest era ever", "medieval life was constant murder", "the data says violence declined, cope"]
 ---
 
 # The Violence-Decline Narrative

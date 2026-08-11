@@ -24,7 +24,7 @@ links:
   retreat:
     - target: AUTH.CHECKSBALANCES
       why: "Critics cornered on local tyranny pivot to arguing checks and balances prevent majoritarian lock-in"
-aliases: ["local majority oppression", "tyranny of the majority", "who protects minorities", "what if the local majority is wrong", "what stops a racist town in your system", "states rights led to Jim Crow", "who protects the minority from the majority", "sundown towns"]
+aliases: ["local majority oppression", "tyranny of the majority", "who protects minorities", "what if the local majority is wrong", "what stops a racist town in your system", "states rights led to Jim Crow", "who protects the minority from the majority", "sundown towns", "what if a town bans abortion", "what if a town goes fascist", "cults are just voluntary communities, right?", "Jonestown", "the FLDS compounds", "small towns are already like this", "HOA tyranny is real", "who saves the kids in the compound"]
 ---
 
 # Local Tyranny: The Majoritarian Lock-In Problem

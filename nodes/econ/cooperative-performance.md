@@ -14,7 +14,7 @@ links:
   premise:
     - target: ECON.SELFMANAGEMENT
       why: "Workers can manage complex enterprises without bosses"
-aliases: ["socialism can't calculate prices", "central planning always fails", "workers can't run businesses", "cooperatives are less efficient", "you need bosses for complex enterprises", "if co-ops were better there'd be more of them", "who allocates capital without markets", "Mises proved socialism can't work", "co-ops can't scale or raise money"]
+aliases: ["socialism can't calculate prices", "central planning always fails", "workers can't run businesses", "cooperatives are less efficient", "you need bosses for complex enterprises", "if co-ops were better there'd be more of them", "who allocates capital without markets", "Mises proved socialism can't work", "co-ops can't scale or raise money", "co-ops are hippie grocery stores", "ESOPs already exist", "profit sharing is enough", "employees want wages, not ownership", "co-ops pay worse", "who takes the risk in a co-op", "startups need founders with equity", "venture capital couldn't exist", "innovation needs concentrated bets", "the founder deserves control", "Mondragon is Basque culture, you can't copy it"]
 ---
 
 # Cooperative Economic Performance: Calculation and Self-Management

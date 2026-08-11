@@ -15,7 +15,7 @@ links:
   retreat:
     - target: AUTH.EMERGENCY
       why: "Critics cornered on enforcement pivot to 'but what about emergencies?'"
-aliases: ["who enforces the sunset clause", "who removes the commander", "enforcement paradox", "quis custodiet", "who guards the guards", "paper rules can't stop a man with a gun"]
+aliases: ["who enforces the sunset clause", "who removes the commander", "enforcement paradox", "quis custodiet", "who guards the guards", "paper rules can't stop a man with a gun", "your sanctions are just a siege", "starving a region hurts its civilians", "what if both regions claim the other breached", "who adjudicates the cutoff"]
 ---
 
 # The Enforcement Problem: "Who Enforces the Sunset Clause?"

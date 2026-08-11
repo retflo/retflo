@@ -13,7 +13,7 @@ links:
     - target: AUTH.INERTIA
       why: "For the concentrated side's crash examined honestly, the reform gamble's erosion record holds the receipts."
 recursion_point: true
-aliases: ["which failure mode", "tyranny vs collapse", "the wager", "risk preference", "better the devil you know", "at least our system is tested"]
+aliases: ["which failure mode", "tyranny vs collapse", "the wager", "risk preference", "better the devil you know", "at least our system is tested", "don't rock the boat", "transition costs would be catastrophic", "what's your disaster recovery plan", "black swans favor the known system"]
 ---
 
 # Failure Modes: The Wager Frame

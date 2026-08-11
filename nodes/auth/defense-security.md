@@ -17,7 +17,7 @@ links:
       why: "Critics who accept decentralized defense is possible retreat to arguing it requires a disciplined vanguard party to organize, reintroducing centralized command through the back door."
     - target: AUTH.EMERGENCY
       why: "The defense debate naturally escalates to crisis scenarios where the critic argues only standing sovereign authority can respond fast enough to existential threats."
-aliases: ["your system can't defend itself", "who defends against invasion", "external military threat", "centralization built civilization", "China would invade you in a week", "war needs a chain of command", "you can't fight a war by committee", "peace through strength"]
+aliases: ["your system can't defend itself", "who defends against invasion", "external military threat", "centralization built civilization", "China would invade you in a week", "war needs a chain of command", "you can't fight a war by committee", "peace through strength", "Switzerland has an army though", "porcupine defense", "Ukraine proves you need a state military", "guerrillas can't stop tank columns", "drones changed everything", "what about nukes", "who holds the nuclear codes in your system", "the Taliban outlasted the US", "Vietnam beat a superpower", "asymmetric warfare works"]
 ---
 
 # Defense and Security Without a Standing Sovereign

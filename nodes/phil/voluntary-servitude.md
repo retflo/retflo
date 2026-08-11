@@ -9,7 +9,7 @@ links:
     - target: ECON.HOUSING
       why: "For the cliff behind consent in its most common form, housing precarity holds the lived case."
 recursion_point: true
-aliases: ["nobody forces you to work there", "voluntary exchange is voluntary", "if you don't like it leave", "contracts are freedom", "the labor market is voluntary", "work is a choice", "slavery was forced, jobs aren't", "you agreed to the terms", "you signed the lease"]
+aliases: ["nobody forces you to work there", "voluntary exchange is voluntary", "if you don't like it leave", "contracts are freedom", "the labor market is voluntary", "work is a choice", "slavery was forced, jobs aren't", "you agreed to the terms", "you signed the lease", "I actually like my job", "work gives life meaning", "everyone has to work, that's life", "hunter-gatherers had to work to survive too", "you'd have obligations under anarchism too", "someone has to do it", "quiet quitting", "antiwork is just lazy", "nobody wants to work anymore", "UBI would make people lazy", "the dignity of work"]
 ---
 
 # Voluntarism Requires Equality: Consent Under Asymmetry

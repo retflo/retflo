@@ -12,7 +12,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "Consolidation problem pushed past design reaches the failure modes wager"
-aliases: ["delian league became athenian empire", "alliances produce empires", "NATO is really an empire"]
+aliases: ["delian league became athenian empire", "alliances produce empires", "NATO is really an empire", "the EU is becoming an empire", "every alliance has a hegemon", "the Warsaw Pact", "America is the Athens of NATO"]
 ---
 
 # The Delian League Problem: Alliance → Empire

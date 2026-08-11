@@ -16,7 +16,7 @@ links:
       why: "When pushed past technology-specific arguments, the ownership question reaches the foundational distinction between property and possession that determines who controls productive tools."
     - target: AUTH.CLASS
       why: "Technology concentration under current ownership reveals the state as enforcer of the property arrangements that enable a small class to monopolize the productivity gains of automation and AI."
-aliases: ["technology is neutral", "automation will free everyone", "AI will solve inequality", "technology creates progress", "Luddites were wrong", "AI will take all the jobs", "UBI will fix automation", "technology always creates new jobs", "you can't stop progress", "AI safety / AI will kill us", "open source is communism", "big tech censorship"]
+aliases: ["technology is neutral", "automation will free everyone", "AI will solve inequality", "technology creates progress", "Luddites were wrong", "AI will take all the jobs", "UBI will fix automation", "technology always creates new jobs", "you can't stop progress", "AI safety / AI will kill us", "open source is communism", "big tech censorship", "AI is stealing art", "AI will replace programmers", "learn to code", "ChatGPT took my job", "post-scarcity is coming", "fully automated luxury communism", "techno-feudalism", "enshittification", "if it's free, you're the product", "surveillance capitalism", "data is the new oil", "my smart home spies on me", "self-checkout made ME the employee", "algorithms decide everything now", "big tech runs the government", "break up big tech", "decentralize the internet", "web3 was a scam", "open weights vs closed models", "who owns the training data"]
 ---
 
 # Technology Under Different Ownership: Liberation or Domination

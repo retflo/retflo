@@ -11,7 +11,7 @@ links:
     - target: ECON.HOUSING
       why: "For the ratchet's most visible everyday case, housing holds the loop as lived: scarcity inflating values that fund the defense of scarcity."
 recursion_point: true
-aliases: ["some inequality is natural", "growth lifts all boats", "inequality drives innovation", "the rich earned their wealth", "billionaires shouldn't exist", "wealth gap keeps growing, why", "a rising tide lifts all boats", "trickle-down economics", "envy politics / politics of resentment"]
+aliases: ["some inequality is natural", "growth lifts all boats", "inequality drives innovation", "the rich earned their wealth", "billionaires shouldn't exist", "wealth gap keeps growing, why", "a rising tide lifts all boats", "trickle-down economics", "envy politics / politics of resentment", "billionaires earned it", "Musk works 100 hours a week", "is Taylor Swift evil too", "wealth isn't zero sum", "the pie grows", "global poverty is down", "the millionaire next door", "the top 1% pay most of the taxes", "a wealth tax would crash the economy", "they'd just leave", "capital gains fund your pension", "inequality is the price of dynamism"]
 ---
 
 # The Inequality Ratchet: Self-Reinforcing Concentration

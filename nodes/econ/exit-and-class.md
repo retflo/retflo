@@ -15,7 +15,7 @@ links:
   resolution:
     - target: AUTH.FEDERATION
       why: "The exit critique resolves in the design: baseline rights that travel with the person plus regional equalization make leaving a right instead of a luxury."
-aliases: ["exit privileges the wealthy", "market for governance", "voting with your feet", "just quit and get a better job", "vote with your feet", "America, love it or leave it", "just move to a cheaper city"]
+aliases: ["exit privileges the wealthy", "market for governance", "voting with your feet", "just quit and get a better job", "vote with your feet", "America, love it or leave it", "just move to a cheaper city", "states compete for residents", "the California exodus", "taxes drive people out", "Galt's Gulch", "who is John Galt", "the productive will just leave", "brain drain", "capital flight is rational behavior"]
 ---
 
 # Exit, Class, and Baseline Rights

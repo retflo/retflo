@@ -11,7 +11,7 @@ links:
     - target: PHIL.PRAXIS
       why: "After the manufactured-consent diagnosis, the exit is practice: resisting authority is the deconditioning, so the actionable node takes the handoff."
 recursion_point: true
-aliases: ["people choose hierarchy freely", "human nature proves hierarchy is necessary", "most people want to be led", "education prepares citizens for democracy", "culture naturally reflects human preferences", "school teaches you how to think", "kids need discipline", "homeschooling ruins socialization", "people watch what they want to watch", "nobody's forcing you to consume media", "that's just how school works", "unschooling is child neglect"]
+aliases: ["people choose hierarchy freely", "human nature proves hierarchy is necessary", "most people want to be led", "education prepares citizens for democracy", "culture naturally reflects human preferences", "school teaches you how to think", "kids need discipline", "homeschooling ruins socialization", "people watch what they want to watch", "nobody's forcing you to consume media", "that's just how school works", "unschooling is child neglect", "school prepares you for real life", "kids need to learn respect", "I was raised that way and turned out fine", "participation trophies ruined a generation", "kids these days", "phones destroyed attention spans", "college indoctrinates kids", "school teaches algebra but not taxes", "grades measure merit", "suspension teaches consequences"]
 ---
 
 # Cultural Reproduction: How Hierarchy Manufactures Consent

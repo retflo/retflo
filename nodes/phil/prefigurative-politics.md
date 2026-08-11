@@ -9,7 +9,7 @@ links:
     - target: PHIL.COERCION
       why: "When means-ends unity meets the defense-requires-force objection, the bounded escalation analysis answers."
 recursion_point: true
-aliases: ["you need a vanguard party", "the revolution needs leadership", "democratic centralism works", "you can't build socialism without a transitional state", "the ends justify the means", "we need discipline to win", "you can't fight tanks with consensus", "after the revolution we'll democratize", "temporary measures", "Stalin was a betrayal, not an outcome"]
+aliases: ["you need a vanguard party", "the revolution needs leadership", "democratic centralism works", "you can't build socialism without a transitional state", "the ends justify the means", "we need discipline to win", "you can't fight tanks with consensus", "after the revolution we'll democratize", "temporary measures", "Stalin was a betrayal, not an outcome", "revolutions eat their children", "the Bolsheviks won though", "Lenin got results", "discipline beat the White armies", "horizontalism lost Spain", "Occupy had no demands", "leaderless movements fizzle", "someone always leads informally anyway", "the tyranny of structurelessness", "the CNT joined the government", "Makhno was just a warlord", "prefiguration is a privilege", "no time to prefigure, fascism is now"]
 ---
 
 # Means-Ends Unity: The Prefigurative Argument

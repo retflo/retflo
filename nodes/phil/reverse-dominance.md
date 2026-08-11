@@ -15,7 +15,7 @@ links:
   redirect:
     - target: AUTH.FEDERATION
       why: "The band's anti-dominance mechanism hands off to its modern engineering: recall, mandates, and scoped finality as the coalition built for strangers."
-aliases: ["humans naturally form hierarchies", "someone always takes charge", "alpha males", "dominance is hardwired", "egalitarian societies are a myth", "there's always an alpha", "lobster hierarchy", "chimps have hierarchies", "every office has a boss for a reason", "hunter-gatherers were violent too"]
+aliases: ["humans naturally form hierarchies", "someone always takes charge", "alpha males", "dominance is hardwired", "egalitarian societies are a myth", "there's always an alpha", "lobster hierarchy", "chimps have hierarchies", "every office has a boss for a reason", "hunter-gatherers were violent too", "pecking order", "the strong do what they can", "big man theory of history", "someone always ends up in charge", "every friend group has a leader", "kids form hierarchies on playgrounds", "prison yards prove natural hierarchy", "even communes end up with leaders", "egalitarianism is just hierarchy suppressed", "doesn't Boehm prove dominance is natural"]
 ---
 
 # Reverse Dominance: Equality Is Enforced, Not Innate

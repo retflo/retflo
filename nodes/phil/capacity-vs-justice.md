@@ -12,7 +12,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "When the capacity debate reaches stalemate, it deepens into which system's failure mode — tyranny at scale vs. slow coordination — is the safer wager."
-aliases: ["justice without capacity is aspiration", "you need power to implement justice", "power is the only language they understand", "you need the state to enforce rights", "who ended slavery? the union army", "weakness invites abuse"]
+aliases: ["justice without capacity is aspiration", "you need power to implement justice", "power is the only language they understand", "you need the state to enforce rights", "who ended slavery? the union army", "weakness invites abuse", "power concedes nothing without a demand", "you and what army", "good luck enforcing that", "paper rights need teeth", "stopping the Holocaust took armies", "who stops the next Hitler", "ICE won't dissolve itself", "the rich won't give it up peacefully"]
 ---
 
 # Capacity vs. Justice

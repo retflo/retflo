@@ -16,7 +16,7 @@ links:
   premise:
     - target: AUTH.DEFENSE
       why: "The honest assessment rests on the defense analysis: rotating command under civilian oversight is what the YPG and YPJ actually practice."
-aliases: ["what about rojava", "what about the zapatistas", "show me a real example", "name one that works", "name one country where it works", "Rojava is a US proxy", "the Zapatistas are just a tourist thing", "if it worked it would have spread", "cherry-picked examples"]
+aliases: ["what about rojava", "what about the zapatistas", "show me a real example", "name one that works", "name one country where it works", "Rojava is a US proxy", "the Zapatistas are just a tourist thing", "if it worked it would have spread", "cherry-picked examples", "Rojava isn't actually anarchist", "the Zapatistas are just indigenous governance", "Cheran", "Exarcheia", "Freetown Christiania", "what about the kibbutzim", "Catalonia lasted three years", "these are all tiny", "none of them run an industrial economy", "they'd collapse without capitalist smartphones", "show me an anarchist semiconductor fab"]
 ---
 
 # Evaluating Partial Implementations

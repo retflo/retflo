@@ -16,7 +16,7 @@ links:
   premise:
     - target: RHET.REINVENT
       why: "The ladder analysis presupposes the definitional line: enforcement exists in any order, while statehood is a specific institutional form."
-aliases: ["fines lead to force", "all enforcement is coercion", "you need violence to enforce rules", "what happens if I just refuse", "rules without enforcement are suggestions", "so you'd use violence too", "gotcha, you admit you'd coerce people"]
+aliases: ["fines lead to force", "all enforcement is coercion", "you need violence to enforce rules", "what happens if I just refuse", "rules without enforcement are suggestions", "so you'd use violence too", "gotcha, you admit you'd coerce people", "so you WOULD use force", "violence is violence", "your fines are violence with paperwork", "who watches your watchmen", "what stops the ladder becoming a cage", "restrained force is still force", "the mask always slips", "power corrupts your ladder too"]
 ---
 
 # The Coercion Chain: Bounded Escalation vs. Sovereign Monopoly

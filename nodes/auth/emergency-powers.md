@@ -15,7 +15,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "When the ratchet problem is pushed past institutional design, it reaches the deeper question of which system's failure mode is more survivable -- concentrated or distributed."
-aliases: ["emergency powers ratchet", "PATRIOT Act was temporary", "who acts in a crisis", "decisive action", "COVID proved you need central authority", "war doesn't wait for a vote", "9/11 changed everything"]
+aliases: ["emergency powers ratchet", "PATRIOT Act was temporary", "who acts in a crisis", "decisive action", "COVID proved you need central authority", "war doesn't wait for a vote", "9/11 changed everything", "wartime powers won the war", "Lincoln suspended habeas corpus and saved the union", "climate change needs emergency powers", "the state of exception"]
 ---
 
 # Emergency Powers and the Ratchet Problem

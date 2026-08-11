@@ -11,7 +11,7 @@ links:
     - target: HIST.COLLAPSE
       why: "Collapse cases invoked as survival evidence hand off to the regime-breakdown analysis: factions fighting over state remnants are not bottom-up organization."
 recursion_point: true
-aliases: ["surviving is the test", "your system gets crushed", "any system that can't defend itself isn't viable", "might makes right", "if your system was better it would have won", "history picked the winner", "evolution of societies"]
+aliases: ["surviving is the test", "your system gets crushed", "any system that can't defend itself isn't viable", "might makes right", "if your system was better it would have won", "history picked the winner", "evolution of societies", "history is written by the winners", "losers don't get to lecture", "if anarchism worked it would exist by now", "evolution selects societies too", "nature red in tooth and claw", "your ideas lost the argument of history", "the ash heap of history"]
 ---
 
 # The Survival Test: Circular Reasoning

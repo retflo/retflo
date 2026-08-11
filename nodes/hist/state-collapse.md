@@ -12,7 +12,7 @@ links:
   retreat:
     - target: PHIL.NATURE
       why: "When the distinction between violent regime breakdown and bottom-up self-organization is established, critics retreat to asserting that warlordism proves humans naturally dominate without a sovereign."
-aliases: ["somalia proves anarchy fails", "libya", "power vacuum", "warlords", "Mad Max", "look at Haiti"]
+aliases: ["somalia proves anarchy fails", "libya", "power vacuum", "warlords", "Mad Max", "look at Haiti", "Lebanon has no government and look at it", "Yemen", "when police went on strike, crime spiked", "it would be The Purge"]
 ---
 
 # State Collapse: Somalia, Libya, and the Warlord Argument

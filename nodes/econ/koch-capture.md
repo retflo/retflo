@@ -14,7 +14,7 @@ links:
   escalation:
     - target: AUTH.CLASS
       why: "Serial capture pushed past design reaches whether the state inherently serves the capturing class"
-aliases: ["distributed systems are easier to capture", "money buys local politics", "many undefended targets", "oligarchs capture one by one", "Koch brothers / dark money", "billionaires would just buy your communes"]
+aliases: ["distributed systems are easier to capture", "money buys local politics", "many undefended targets", "oligarchs capture one by one", "Koch brothers / dark money", "billionaires would just buy your communes", "school boards got captured by activists", "city councils are bought by developers", "one company owns the whole town", "district attorneys bought by donors"]
 ---
 
 # Serial Capture: The Many-Targets Argument

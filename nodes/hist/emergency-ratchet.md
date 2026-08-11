@@ -12,7 +12,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "The emergency ratchet is the strongest historical evidence that concentrated power's failure mode — irreversible capture through crisis accumulation — is structurally amplified by design."
-aliases: ["temporary powers become permanent", "emergency ratchet history", "patriot act", "the PATRIOT Act is still here", "Rome's dictators / crossing the Rubicon"]
+aliases: ["temporary powers become permanent", "emergency ratchet history", "patriot act", "the PATRIOT Act is still here", "Rome's dictators / crossing the Rubicon", "FISA courts", "the TSA is forever", "the income tax was temporary once", "the war on terror never ended"]
 ---
 
 # The Emergency Powers Ratchet: Historical Evidence

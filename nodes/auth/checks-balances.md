@@ -20,7 +20,7 @@ links:
   retreat:
     - target: AUTH.EMERGENCY
       why: "Critics who concede that distributed counter-power can handle routine governance pivot to crisis scenarios where inertia becomes a liability and someone must act unilaterally."
-aliases: ["checks and balances already exist", "separation of powers", "friction is the point", "separation of powers works", "the courts will stop him", "the founders designed it this way"]
+aliases: ["checks and balances already exist", "separation of powers", "friction is the point", "separation of powers works", "the courts will stop him", "the founders designed it this way", "the constitution protects us", "the founders were geniuses", "ambition counters ambition", "no one is above the law", "the guardrails held"]
 ---
 
 # Checks, Balances, and the Inertia Problem

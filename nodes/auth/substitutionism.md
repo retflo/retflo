@@ -14,7 +14,7 @@ links:
       why: "The vanguard critique deepens into the principle that organizational form prefigures political outcome -- a hierarchical revolution cannot produce a non-hierarchical society."
     - target: AUTH.CLASS
       why: "The substitutionism cascade reveals that the vanguard party becomes a new ruling class, connecting to the broader analysis of how state structures serve class interests regardless of stated ideology."
-aliases: ["the revolution needs a party", "democratic centralism works", "workers need leadership", "the party represents the class", "Lenin proved it works", "we need organization to win", "anarchists lose because they lack discipline", "the USSR industrialized fast", "read Lenin", "tankie discourse"]
+aliases: ["the revolution needs a party", "democratic centralism works", "workers need leadership", "the party represents the class", "Lenin proved it works", "we need organization to win", "anarchists lose because they lack discipline", "the USSR industrialized fast", "read Lenin", "tankie discourse", "democratic centralism is just democracy with follow-through", "the party is the memory of the class", "spontaneity gets crushed", "what's your org structure then", "cadre discipline wins wars", "What Is To Be Done", "workers only reach trade-union consciousness on their own", "the masses need leadership", "the CPC lifted 800 million out of poverty", "Cuba survived because of the party", "Vietnam won because of discipline", "horizontalists can't hold power", "who defends the revolution without a party"]
 ---
 
 # The Substitutionism Cascade: Why Vanguardism Produces Tyranny

@@ -7,7 +7,7 @@ links:
     - target: HIST.DEPENDENCY
       why: "When the violent origin is dismissed as ancient history, the dependency analysis answers: the same framework still enforces the distribution the violence created."
 recursion_point: true
-aliases: ["capitalism developed naturally", "markets created prosperity", "property rights evolved organically", "primitive accumulation is ancient history", "capitalism lifted billions out of poverty", "capitalism is just human nature plus freedom", "wealth was earned generation by generation", "colonialism was bad but that's over"]
+aliases: ["capitalism developed naturally", "markets created prosperity", "property rights evolved organically", "primitive accumulation is ancient history", "capitalism lifted billions out of poverty", "capitalism is just human nature plus freedom", "wealth was earned generation by generation", "colonialism was bad but that's over", "primitive accumulation is a marxist myth", "enclosure raised productivity", "the commons were inefficient", "colonialism built their infrastructure", "slavery existed everywhere historically", "every nation was built on conquest", "you can't judge the past by today's morals", "the industrial revolution lifted everyone eventually"]
 ---
 
 # The Historical Origins of Capitalism: State Violence, Not Organic Markets

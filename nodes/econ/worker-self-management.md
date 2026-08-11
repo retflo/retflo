@@ -17,7 +17,7 @@ links:
   escalation:
     - target: ECON.PROPERTY
       why: "Self-management challenges not just workplace hierarchy but the underlying property relation that grants non-workers ownership of productive assets, deepening the debate from organizational design to ownership structure."
-aliases: ["how would your workplace actually work", "workers can't manage complex operations", "you need managers", "who makes decisions in your factory", "socialism means government runs everything", "who takes out the trash in your utopia", "someone has to make the hard calls", "designed by committee", "my coworkers can barely do their jobs", "what if nobody wants to do the gross work", "my boss actually knows more than me"]
+aliases: ["how would your workplace actually work", "workers can't manage complex operations", "you need managers", "who makes decisions in your factory", "socialism means government runs everything", "who takes out the trash in your utopia", "someone has to make the hard calls", "designed by committee", "my coworkers can barely do their jobs", "what if nobody wants to do the gross work", "my boss actually knows more than me", "who hires and fires", "who sets the salaries", "meetings about meetings", "too many chefs", "what about lazy coworkers", "the free rider problem", "someone has to be accountable", "where does the buck stop", "holacracy failed at Zappos", "Valve has a secret hierarchy", "flat companies always re-grow bosses", "someone still has to clean the toilets", "who does the dirty work", "what if the vote is wrong", "expertise matters more than votes"]
 ---
 
 # Worker Self-Management: How Workplace Democracy Works

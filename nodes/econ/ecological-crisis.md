@@ -10,7 +10,7 @@ links:
     - target: ECON.PROPERTY
       why: "Once grow-or-die is established, the argument deepens to who owns the engine: the accumulation imperative is rooted in the ownership structure that makes growth mandatory, which the property-possession distinction isolates."
 recursion_point: true
-aliases: ["green capitalism will fix it", "the market will solve climate change", "regulation handles externalities", "technology will save us", "growth is necessary for prosperity", "capitalism will innovate our way out", "electric cars will save us", "carbon taxes work", "degrowth means poverty", "just recycle / personal footprint", "corporations did this, not me"]
+aliases: ["green capitalism will fix it", "the market will solve climate change", "regulation handles externalities", "technology will save us", "growth is necessary for prosperity", "capitalism will innovate our way out", "electric cars will save us", "carbon taxes work", "degrowth means poverty", "just recycle / personal footprint", "corporations did this, not me", "nuclear will save us", "we just need fusion", "carbon capture will fix it", "the planet will be fine, humans won't", "doomerism helps nobody", "China pollutes more than us", "my paper straw doesn't matter", "just have fewer kids", "overpopulation is the real problem", "degrowthers want us in mud huts", "green jobs will fix it", "veganism is the answer"]
 ---
 
 # Ecological Crisis as Structural Feature

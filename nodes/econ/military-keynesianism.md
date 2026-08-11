@@ -12,7 +12,7 @@ links:
   escalation:
     - target: AUTH.CLASS
       why: "Military Keynesianism reveals the state choosing corporate welfare over social spending not by accident but by structural design, deepening the argument that the state functions as a class instrument."
-aliases: ["defense spending creates jobs", "we need a strong military", "military spending drives innovation", "the military protects our freedom", "the military is the biggest socialist program", "defense contractors are a scam", "why does the Pentagon fail every audit"]
+aliases: ["defense spending creates jobs", "we need a strong military", "military spending drives innovation", "the military protects our freedom", "the military is the biggest socialist program", "defense contractors are a scam", "why does the Pentagon fail every audit", "defense jobs feed families", "my whole town lives on the base", "veterans earned their benefits", "Eisenhower warned us", "the military-industrial complex", "war is a racket", "audit the Pentagon"]
 ---
 
 # Military Keynesianism: Corporate Welfare as National Defense

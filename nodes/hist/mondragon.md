@@ -18,7 +18,7 @@ links:
   premise:
     - target: AUTH.SCALE
       why: "The gravity answer rests on the scale case: Mondragon proves federated structures operate at industrial scale, whatever framework surrounds them."
-aliases: ["it only works because of the state", "cooperatives inside a state", "uses state law", "wouldn't exist without the state", "you criticize capitalism yet you participate in it", "Mondragon still uses Spanish courts", "co-ops still pay taxes", "you use roads and schools"]
+aliases: ["it only works because of the state", "cooperatives inside a state", "uses state law", "wouldn't exist without the state", "you criticize capitalism yet you participate in it", "Mondragon still uses Spanish courts", "co-ops still pay taxes", "you use roads and schools", "your phone was made by capitalism", "tweeting your revolution from an iPhone", "co-ops use banks", "you drive on public roads though", "everything you have exists because of the system you hate", "don't bite the hand that feeds you"]
 ---
 
 # The State Dependency Argument

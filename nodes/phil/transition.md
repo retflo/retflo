@@ -16,7 +16,7 @@ links:
   escalation:
     - target: PHIL.PREFIGURATIVE
       why: "When the transition debate deepens past strategy to principle, it reaches the structural claim that organizational form determines outcome — authoritarian means cannot produce libertarian ends."
-aliases: ["how do you get there from here", "what's your transition plan", "revolution is impossible in modern states", "you can't just overthrow everything", "be realistic about change", "so what, we all just join co-ops?", "you can't opt out of capitalism", "dual power", "the state will just crush your communes", "how do we actually win", "is voting or revolution the answer"]
+aliases: ["how do you get there from here", "what's your transition plan", "revolution is impossible in modern states", "you can't just overthrow everything", "be realistic about change", "so what, we all just join co-ops?", "you can't opt out of capitalism", "dual power", "the state will just crush your communes", "how do we actually win", "is voting or revolution the answer", "so we just wait for co-ops to win?", "capitalism will crush you before the tipping point", "Amazon will underprice your co-ops", "dual power is LARPing", "mutual aid is charity with extra steps", "the revolution needs a spark, not a garden", "reform or revolution", "Luxemburg vs Bernstein", "we need state power first", "what's the actual timeline", "I'll be dead before your tipping point", "accelerationism", "collapse will do the work for us"]
 ---
 
 # The Transition Question: Building the New Within the Shell of the Old

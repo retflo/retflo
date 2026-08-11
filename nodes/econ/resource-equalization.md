@@ -11,7 +11,7 @@ links:
   resolution:
     - target: AUTH.FEDERATION
       why: "Equalization resolves into federation compacts: formula-based sharing as a condition of shared systems, with no central redistributor to capture."
-aliases: ["how do you equalize resources", "rich regions vs poor regions", "fiscal federalism", "why would rich regions ever share", "redistribution needs a central government"]
+aliases: ["how do you equalize resources", "rich regions vs poor regions", "fiscal federalism", "why would rich regions ever share", "redistribution needs a central government", "why would Texas pay for Mississippi", "equalization payments breed resentment", "Germany's east-west transfers", "EU cohesion funds", "handouts create dependent regions"]
 ---
 
 # Resource Equalization Without Central Redistribution

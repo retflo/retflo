@@ -15,7 +15,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "When participation design solutions are acknowledged as untested at civilizational scale, the debate deepens into which untested system carries the safer failure mode."
-aliases: ["people will get tired", "participation fatigue", "requires engagement forever", "species that wants to go home after work", "normal people have jobs", "must be nice to have the time", "I just want to go home after work", "most people don't care about politics", "endless meetings", "decision fatigue", "democracy is exhausting", "people burned out after occupy"]
+aliases: ["people will get tired", "participation fatigue", "requires engagement forever", "species that wants to go home after work", "normal people have jobs", "must be nice to have the time", "I just want to go home after work", "most people don't care about politics", "endless meetings", "decision fatigue", "democracy is exhausting", "people burned out after occupy", "ain't nobody got time for that", "I work sixty hours a week", "single parents can't go to assemblies", "people can barely vote once a year", "bowling alone", "nobody goes to town halls now", "HOA meetings are three people and a lawyer", "union meetings are empty", "you overestimate people", "most people just want Netflix and quiet", "politics junkies are a weird minority", "normies don't care"]
 ---
 
 # The Participation Problem

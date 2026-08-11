@@ -21,7 +21,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES
       why: "When the federation debate reaches an impasse on structural guarantees, it deepens into which system's inevitable failures are more survivable."
-aliases: ["federal republic with extra steps", "what's the difference", "how would your system actually work", "what replaces the government", "describe the alternative concretely"]
+aliases: ["federal republic with extra steps", "what's the difference", "how would your system actually work", "what replaces the government", "describe the alternative concretely", "sounds like the UN, and the UN is useless", "the EU with extra steps", "Switzerland already does this", "the Iroquois confederacy", "sounds nice on paper", "who prints the money", "what currency would you even use", "who runs the courts", "is this just states' rights", "sounds like a DAO"]
 ---
 
 # Federation vs. State: The Four Hard Features

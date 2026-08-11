@@ -13,7 +13,7 @@ links:
       why: "Once coordination costs are shown to have collapsed, the general question of what can now scale hands off to the federation mechanisms."
     - target: AUTH.FINALITY
       why: "The commons run scoped, forkable last words, and claiming those kernels as evidence hands the finality question its working examples."
-aliases: ["coase proved hierarchy is efficient", "firms exist because command is cheaper", "consensus doesn't scale", "decision costs favor hierarchy", "if horizontal coordination worked markets would have dissolved firms", "firms exist because hierarchy is efficient", "Wikipedia is unreliable anyway", "open source is just free labor for corporations"]
+aliases: ["coase proved hierarchy is efficient", "firms exist because command is cheaper", "consensus doesn't scale", "decision costs favor hierarchy", "if horizontal coordination worked markets would have dissolved firms", "firms exist because hierarchy is efficient", "Wikipedia is unreliable anyway", "open source is just free labor for corporations", "open source is five guys in Nebraska", "Linux is corporate now", "Red Hat and IBM bought it all", "volunteer projects die", "who pays open source developers"]
 ---
 
 # Coordination Costs Cut Both Ways: Coase in 2026

@@ -21,7 +21,7 @@ links:
     - target: HIST.EMERGENCY
       why: "The kernel's capacity ratchets upward through crises even as its insulation falls — the two trends must be argued together or a prepared critic will play them against each other."
 recursion_point: true
-aliases: ["someone has to have the final say", "the buck stops somewhere", "who decides when arbiters disagree", "a sovereign center is unavoidable", "nozick proved the minimal state emerges from anarchy", "who watches the watchmen", "turtles all the way down", "someone signs the death warrant"]
+aliases: ["someone has to have the final say", "the buck stops somewhere", "who decides when arbiters disagree", "a sovereign center is unavoidable", "nozick proved the minimal state emerges from anarchy", "who watches the watchmen", "turtles all the way down", "someone signs the death warrant", "the buck stops here", "someone has to sign the order", "courts of final appeal exist for a reason", "the regress has to end somewhere", "who breaks the tie", "power abhors a vacuum", "decisiveness wins wars"]
 ---
 
 # The Finality Kernel: Conceding the Last Word, Contesting Everything Else

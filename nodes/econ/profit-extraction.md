@@ -9,7 +9,7 @@ links:
     - target: ECON.EXIT
       why: "The just-quit defense of profit hands off to the exit analysis: an exit that costs housing and healthcare is a door painted on a wall."
 recursion_point: true
-aliases: ["profit is earned", "entrepreneurs deserve their wealth", "risk justifies reward", "innovation requires profit incentive", "owners create jobs", "profit is the reward for risk", "the rich earned it", "job creators", "he built that company from nothing", "CEOs work harder than you", "why shouldn't investors get a return", "no shareholders, no companies"]
+aliases: ["profit is earned", "entrepreneurs deserve their wealth", "risk justifies reward", "innovation requires profit incentive", "owners create jobs", "profit is the reward for risk", "the rich earned it", "job creators", "he built that company from nothing", "CEOs work harder than you", "why shouldn't investors get a return", "no shareholders, no companies", "profit funds the next factory", "reinvestment requires profit", "margins are actually thin", "small business profit is just a wage", "the market sets CEO pay", "no profit, no jobs", "they signed the contract", "supply and demand sets wages", "your wage is what your labor is worth", "if you were worth more you'd be paid more", "just get skills", "learn a trade", "unions make companies uncompetitive"]
 ---
 
 # The Profit Extraction Problem

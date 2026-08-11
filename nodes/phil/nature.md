@@ -14,7 +14,7 @@ links:
     - target: PHIL.DOMINANCE
       why: "For the load-bearing anthropology behind the counters, the reverse-dominance record holds the mechanism: equality actively enforced, not passively enjoyed."
 recursion_point: true
-aliases: ["human nature is selfish", "people are naturally competitive", "without authority humans would kill each other", "greed is human", "communism ignores human nature", "someone will always want more", "power corrupts", "we're just apes", "evolutionary psychology says", "Lord of the Flies", "people are basically good"]
+aliases: ["human nature is selfish", "people are naturally competitive", "without authority humans would kill each other", "greed is human", "communism ignores human nature", "someone will always want more", "power corrupts", "we're just apes", "evolutionary psychology says", "Lord of the Flies", "people are basically good", "Hobbes was right", "war of all against all", "Rousseau was naive", "humans are fallen creatures", "original sin", "evolution made us competitive", "survival of the fittest", "look at primate dominance hierarchies", "the Milgram experiment proves people obey", "the Stanford prison experiment", "people loot during disasters", "toddlers don't share", "scarcity brings out the worst in people", "power reveals who people really are"]
 ---
 
 # Human Nature: The Pre-Answered Argument
