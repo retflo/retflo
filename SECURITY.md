@@ -24,5 +24,4 @@ issue here so the notice can be updated.
 
 If you find a genuine security problem in this repository or on retflo.org, open
 an issue, or contact the maintainer through the address listed at
-https://retflo.org. There is no bug bounty; this is a solo, non-commercial
-project, and reports are handled as time allows.
+https://retflo.org.
