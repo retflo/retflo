@@ -31,16 +31,16 @@
 
 ## Why this exists
 
-The same objections to cooperative governance have been recycled for centuries. "Human nature is selfish." "It can't scale." "Be realistic." The arguments don't change because they don't need to — repetition is the mechanism.
+The same objections to cooperative governance have been recycled for centuries. "Human nature is selfish." "It can't scale." "Be realistic." The arguments don't change because they don't need to: repetition is the mechanism.
 
-These aren't hard questions. They have structural answers. But those answers have never been organized in a way that connects them — where each response anticipates the next objection and routes to it.
+These aren't hard questions. They have structural answers. But those answers have never been organized in a way that connects them, where each response anticipates the next objection and routes to it.
 
-retflo is that structure. A dialectical graph that maps the objection space — every path answered, every connection typed, and the strongest opposing arguments included at full strength rather than routed around. Not a chatbot. Not an app. A protocol — like TCP/IP is a protocol for data, retflo is a protocol for political reasoning.
+retflo is that structure. A dialectical graph that maps the objection space: every path answered, every connection typed, and the strongest opposing arguments included at full strength rather than routed around. Not a chatbot. Not an app. A protocol: like TCP/IP is a protocol for data, retflo is a protocol for political reasoning.
 
 ## Try it
 
-- [**Explore the graph**](https://retflo.org/visualizer/) — interactive, no setup needed
-- [**Read the arguments**](https://retflo.org/nodes/) — browse by domain
+- [**Explore the graph**](https://retflo.org/visualizer/): interactive, no setup needed
+- [**Read the arguments**](https://retflo.org/nodes/): browse by domain
 - [**Tell any LLM**](https://retflo.org/agents) to read `retflo.org/agents` and debate you
 - [**Install as a skill**](#install) for your coding agent
 
@@ -62,16 +62,16 @@ npx skills add retflo/retflo -g -a gemini-cli
 
 For manual installation and other methods, see the [install docs](https://retflo.org/docs/install/).
 
-This repo contains the nodes, routing table, and engagement rules — everything an LLM needs to navigate the framework. Also available through the [website](https://retflo.org), the [API](https://retflo.org/docs/api-reference/), and the [visualizer](https://retflo.org/visualizer/).
+This repo contains the nodes, routing table, and engagement rules: everything an LLM needs to navigate the framework. Also available through the [website](https://retflo.org), the [API](https://retflo.org/docs/api-reference/), and the [visualizer](https://retflo.org/visualizer/).
 
 ## How it works
 
 [`AGENTS.md`](AGENTS.md) is the entry point. It contains the routing table that maps common objections to nodes, plus the engagement rules and delivery calibration.
 
 Each node has:
-- **Position** — the substantive case
-- **Objection handling** — a Move / Response / Concession table
-- **Typed connections** — links to follow-up nodes across domains
+- **Position**: the substantive case
+- **Objection handling**: a Move / Response / Concession table
+- **Typed connections**: links to follow-up nodes across domains
 
 Nodes capture argument patterns, not instances. "China has a navy" and "Russia has nukes" route to the same node: external military threat.
 
@@ -87,7 +87,7 @@ flowchart LR
     D --> G["auth/federation-vs-state"]
 ```
 
-Objection in, structural response out, next move available. The graph is closed — follow any objection far enough and it routes back to territory the framework already covers.
+Objection in, structural response out, next move available. The graph is closed: follow any objection far enough and it routes back to territory the framework already covers.
 
 ## Domains
 
@@ -123,7 +123,7 @@ retflo/
 
 ## License
 
-[Retflo Cooperative Commons License (RCCL) v1.0](https://retflo.org/license/) — free for individuals, worker cooperatives, and democratic organizations. Commercial licensing available for investor-owned entities.
+[Retflo Cooperative Commons License (RCCL) v1.0](https://retflo.org/license/): free for individuals, worker cooperatives, and democratic organizations. Commercial licensing available for investor-owned entities.
 
 ---
 

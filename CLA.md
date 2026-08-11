@@ -10,9 +10,9 @@
 
 This Contributor License Agreement ("Agreement") governs the terms under which
 you contribute to the Retflo project. It is designed to give the Steward the
-rights necessary to maintain, distribute, and defend the Work — including the
+rights necessary to maintain, distribute, and defend the Work, including the
 right to issue Commercial Licenses to entities that would otherwise be prohibited
-from using it under the Retflo Cooperative Commons License (RCCL) — while
+from using it under the Retflo Cooperative Commons License (RCCL), while
 ensuring that you retain copyright ownership of your own contributions.
 
 Commercial licensing revenue generated under this Agreement is intended to fund
@@ -30,9 +30,9 @@ acceptance of all terms herein.
 
 ## Part I: Definitions
 
-**1.1 "Contribution"** means any original work of authorship — including software,
+**1.1 "Contribution"** means any original work of authorship (including software,
 code, documentation, argument nodes, connection data, translations, or other
-content — that you intentionally submit to the Steward for inclusion in the Work.
+content) that you intentionally submit to the Steward for inclusion in the Work.
 "Submit" means any form of communication sent to the Steward or the project's
 public repository, including electronic communication, pull requests, issue
 submissions, and direct transfer.
@@ -66,8 +66,8 @@ royalty-free, irrevocable, perpetual, non-exclusive license to:
   sublicense, and distribute your Contribution and Derivative Works thereof, as
   part of the Work or independently;
 
-  (b) Issue Commercial Licenses to third parties permitting use of the Work —
-  including your Contribution as incorporated into the Work — under terms other
+  (b) Issue Commercial Licenses to third parties permitting use of the Work,
+  including your Contribution as incorporated into the Work, under terms other
   than the RCCL, as described in Part IV;
 
   (c) Enforce the copyright in the Work, including your Contribution as
@@ -93,15 +93,15 @@ Once you submit a Contribution, you may not unilaterally revoke the rights
 granted to the Steward or to the public under this Agreement.
 
 **3.2 Rationale.** Irrevocability is essential to the integrity of the project.
-Downstream users — worker cooperatives, educators, organizers — build on the Work
+Downstream users (worker cooperatives, educators, organizers) build on the Work
 in reliance on its continued availability. Revocability would create systemic
 risk for those users that this Agreement is designed to prevent.
 
-**3.3 Exception — project mission violation.** Notwithstanding Section 3.1, if
+**3.3 Exception: project mission violation.** Notwithstanding Section 3.1, if
 the Steward materially and persistently violates the commercial revenue
 obligations stated in Section 7, you may, after providing written notice and a
 ninety (90) day cure period, revoke the grant under Section 2.2(b) (the
-commercial licensing right) only — as applied to future Commercial Licenses not
+commercial licensing right) only, as applied to future Commercial Licenses not
 yet executed. Revocation does not affect:
 
   (a) Commercial Licenses already issued before revocation;
@@ -113,7 +113,7 @@ yet executed. Revocation does not affect:
 ## Part IV: Commercial Licensing
 
 **4.1 Right to issue Commercial Licenses.** The Steward may issue Commercial
-Licenses to Prohibited Entities — including investor-owned corporations,
+Licenses to Prohibited Entities, including investor-owned corporations,
 publicly traded companies, or any other entity that does not qualify as a
 Cooperative Entity under the RCCL. Such licenses permit the licensee to use the
 Work, including your Contribution as incorporated, under terms other than the
@@ -209,8 +209,8 @@ remaining provisions continue in full force and effect.
 the entire agreement between You and the Steward regarding your Contributions.
 
 **8.4 Steward succession.** If the Steward is unable or unwilling to continue
-maintaining the project, they may designate a successor Steward — which must be
-a Cooperative Entity as defined in the RCCL — to assume all rights and
+maintaining the project, they may designate a successor Steward, which must be
+a Cooperative Entity as defined in the RCCL, to assume all rights and
 obligations under this Agreement. Any such transfer must be publicly announced
 and documented. No successor may be a Prohibited Entity.
 
