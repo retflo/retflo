@@ -1,19 +1,19 @@
 ---
-coordinate: PHIL.DOMINANCE.1
+coordinate: PHIL.DOMINANCE
 tags: [boehm, reverse-dominance, egalitarianism, anti-dominance, foragers, norms, vigilance, kropotkin, coalition]
 domain: phil
 links:
   flow:
-    - target: PHIL.NATURE.1
+    - target: PHIL.NATURE
       why: "Reverse dominance is the anthropological mechanism behind the mutual-aid record — equality was actively produced, not passively enjoyed, which answers 'natural hierarchy' at its root."
-    - target: AUTH.FINALITY.1
+    - target: AUTH.FINALITY
       why: "The anti-dominance coalition is collective, undelegated finality — the oldest answer to 'who decides last,' and the reason Nozick's decay chain is a design failure rather than a theorem."
-    - target: SOC.REPRODUCTION.1
+    - target: SOC.REPRODUCTION
       why: "Sustaining the anti-dominance ethic across generations requires cultural reproduction machinery — the same mechanism the framework analyzes when hierarchy uses it."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "The coalition's leveling instrument can hit deviance as easily as dominance — collective undelegated finality with no appeal is the majoritarian lock-in problem at band scale."
   redirect:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The band's anti-dominance mechanism hands off to its modern engineering: recall, mandates, and scoped finality as the coalition built for strangers."
 aliases: ["humans naturally form hierarchies", "someone always takes charge", "alpha males", "dominance is hardwired", "egalitarian societies are a myth", "there's always an alpha", "lobster hierarchy", "chimps have hierarchies", "every office has a boss for a reason", "hunter-gatherers were violent too"]
 ---

@@ -1,15 +1,15 @@
 ---
-coordinate: ECON.EQUALIZATION.1
+coordinate: ECON.EQUALIZATION
 tags: [equalization, redistribution, funding, public-finance, inequality, regions]
 domain: econ
 links:
   flow:
-    - target: ECON.EXIT.1
+    - target: ECON.EXIT
       why: "Equalization mechanisms address the class-sorting problem that makes exit a privilege rather than a right, closing the loop on whether distributed governance can avoid reproducing wealth hierarchies."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "Without equalization, resource-starved jurisdictions lack the capacity to resist local capture or provide alternatives, making regional inequality a precondition for majoritarian lock-in."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Equalization resolves into federation compacts: formula-based sharing as a condition of shared systems, with no central redistributor to capture."
 aliases: ["how do you equalize resources", "rich regions vs poor regions", "fiscal federalism", "why would rich regions ever share", "redistribution needs a central government"]
 ---

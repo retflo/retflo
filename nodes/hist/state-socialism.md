@@ -1,17 +1,17 @@
 ---
-coordinate: HIST.STATESOCIALISM.1
+coordinate: HIST.STATESOCIALISM
 tags: [state-socialism, state-capitalism, ussr, bakunin, bureaucracy, red-bureaucracy, nationalization, withering-away]
 domain: hist
 links:
   flow:
-    - target: HIST.COLLAPSE.1
+    - target: HIST.COLLAPSE
       why: "Critics conflate anarchist critique of state socialism with right-wing 'communism failed' arguments, requiring distinction between top-down collapse and the structural analysis of why nationalization reproduces hierarchy."
-    - target: HIST.VIOLENCE.1
+    - target: HIST.VIOLENCE
       why: "State socialist regimes are frequently cited as evidence that centralized authority reduces violence, requiring the counter that these regimes' internal violence — gulags, purges, forced collectivization — belongs in the net calculation."
   escalation:
-    - target: PHIL.PREFIGURATIVE.1
+    - target: PHIL.PREFIGURATIVE
       why: "The state socialism analysis is the strongest historical evidence for the prefigurative claim that authoritarian organizational forms produce authoritarian outcomes regardless of stated intentions."
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Bakunin's prediction that state ownership creates a new ruling class deepens into the general structural argument that the state is inherently a class instrument, not a neutral tool capturable for liberation."
 aliases: ["communism failed", "the USSR proves socialism doesn't work", "state ownership is socialism", "China shows central planning works", "what about Cuba/Venezuela", "socialism has never worked", "what about Venezuela", "real communism has never been tried", "100 million dead", "go live in North Korea", "socialism is when no food", "China lifted millions out of poverty though"]
 ---

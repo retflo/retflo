@@ -1,20 +1,20 @@
 ---
-coordinate: SOC.OPPRESSION.1
+coordinate: SOC.OPPRESSION
 tags: [racism, sexism, oppression, class-weapon, divide-and-rule, intersectionality, scapegoat, structural]
 domain: soc
 links:
   flow:
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "Structural oppression reveals that coercion operates through institutional channels — policing, lending, hiring — not just through the enforcement escalation chain the critic focuses on."
-    - target: SOC.REPRODUCTION.1
+    - target: SOC.REPRODUCTION
       why: "Identity-based oppression persists across generations because education, media, and socialization reproduce the ideological categories that justify it — the manufacturing of prejudice as institutional output."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Federation's baseline rights and distributed counter-power answer structural oppression"
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "When bigotry is exposed as structurally functional for ruling classes, the argument deepens to the claim that the state is the institutional vehicle through which class power organizes and deploys identity-based division."
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "The economic function of oppression — justifying extraction, dividing workers, scapegoating minorities for structural harms — is grounded in the property system that creates the material asymmetries identity categories rationalize."
 aliases: ["racism is just individual prejudice", "identity politics divides us", "class reductionism solves everything", "prejudice is natural", "we should focus on economics not social issues", "racism is just ignorance", "wokeness killed the left", "stop making everything about race", "the working class abandoned the Democrats over identity politics", "class first, identity later", "immigrants are taking the jobs", "DEI hires", "a female CEO is progress", "representation matters", "why is everything identity politics now"]
 ---

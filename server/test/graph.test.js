@@ -9,7 +9,7 @@ const REPO = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 test('loads all node files with parsed frontmatter', async () => {
   const graph = await loadGraph(REPO);
   assert.equal(graph.nodes.size, 66);
-  const n = graph.nodes.get('RHET.CIRCULARREALISM.1');
+  const n = graph.nodes.get('RHET.CIRCULARREALISM');
   assert.ok(n, 'circular realism node present');
   assert.equal(n.domain, 'rhet');
   assert.ok(n.title.length > 0);
@@ -19,8 +19,8 @@ test('loads all node files with parsed frontmatter', async () => {
 
 test('links are normalized to {type, target, why?}', async () => {
   const graph = await loadGraph(REPO);
-  const n = graph.nodes.get('RHET.CIRCULARREALISM.1');
-  const flow = n.links.find(l => l.type === 'flow' && l.target === 'RHET.SURVIVAL.1');
+  const n = graph.nodes.get('RHET.CIRCULARREALISM');
+  const flow = n.links.find(l => l.type === 'flow' && l.target === 'RHET.SURVIVAL');
   assert.ok(flow, 'flow link to survival test exists');
   assert.equal(typeof flow.why, 'string');
 });

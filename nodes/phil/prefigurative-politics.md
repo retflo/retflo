@@ -1,12 +1,12 @@
 ---
-coordinate: PHIL.PREFIGURATIVE.1
+coordinate: PHIL.PREFIGURATIVE
 tags: [prefiguration, means-ends, vanguardism, democratic-centralism, substitutionism, method, organization]
 domain: phil
 links:
   redirect:
-    - target: HIST.DEFEAT.1
+    - target: HIST.DEFEAT
       why: "Historical gotchas about wartime hierarchy in anarchist experiments hand off to the defeats file, where the honest concessions live."
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "When means-ends unity meets the defense-requires-force objection, the bounded escalation analysis answers."
 recursion_point: true
 aliases: ["you need a vanguard party", "the revolution needs leadership", "democratic centralism works", "you can't build socialism without a transitional state", "the ends justify the means", "we need discipline to win", "you can't fight tanks with consensus", "after the revolution we'll democratize", "temporary measures", "Stalin was a betrayal, not an outcome"]

@@ -1,25 +1,25 @@
 ---
-coordinate: AUTH.FEDERATION.1
+coordinate: AUTH.FEDERATION
 tags: [federation, state, checks-balances, sovereignty, pluralism, legal-order, finality]
 domain: auth
 links:
   flow:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "The critic's first structural challenge to federation is asking who enforces compliance when a node defects from the compact."
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "Critics who accept federation's four hard features challenge whether the model can coordinate effectively at continental or global scale."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "The federation model faces the hard case of a local majority democratically choosing oppression when no central sovereign exists to override them."
-    - target: AUTH.EMERGENCY.1
+    - target: AUTH.EMERGENCY
       why: "Critics test federated governance against crisis scenarios where negotiated compacts seem too slow for existential threats."
-    - target: AUTH.JUSTICE.1
+    - target: AUTH.JUSTICE
       why: "Federation's pluralist legal order raises the practical question of how harm is addressed without a centralized criminal justice apparatus."
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "Critics who run out of structural objections collapse the distinction by declaring federation is just a state with more steps."
-    - target: ECON.SELFMANAGEMENT.1
+    - target: ECON.SELFMANAGEMENT
       why: "Federation's governance model at the political level naturally connects to how workplaces coordinate economic decisions through analogous delegated structures."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "When the federation debate reaches an impasse on structural guarantees, it deepens into which system's inevitable failures are more survivable."
 aliases: ["federal republic with extra steps", "what's the difference", "how would your system actually work", "what replaces the government", "describe the alternative concretely"]
 ---

@@ -1,25 +1,25 @@
 ---
-coordinate: AUTH.ELECTORAL.1
+coordinate: AUTH.ELECTORAL
 tags: [elections, voting, electoralism, capital-flight, bureaucracy, structural-barriers, abstentionism, direct-action]
 domain: auth
 links:
   flow:
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Critics who accept elections are structurally filtered fall back to arguing the system is self-correcting through institutional reform over time."
-    - target: AUTH.INCUMBENCY.1
+    - target: AUTH.INCUMBENCY
       why: "The electoral critique's structural tilt analysis applies at local scale, where incumbency advantages in turnout and procedural access produce systematic exclusion."
-    - target: RHET.CIRCULARREALISM.1
+    - target: RHET.CIRCULARREALISM
       why: "Critics defending elections often argue alternatives are unrealistic because they haven't been tried, using the absence of alternatives as proof they can't work."
-    - target: ECON.HOUSING.1
+    - target: ECON.HOUSING
       why: "Incumbency and structural tilt manifest concretely in housing policy"
   premise:
-    - target: PHIL.PRAXIS.1
+    - target: PHIL.PRAXIS
       why: "Both nodes share the foundational claim that structural gains are won through direct action and militant organizing, not through electoral mechanics alone."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "When pushed past the three structural walls, the electoral critique reaches the deeper claim that the state itself is a class instrument, not a neutral arena that elections could redirect."
   retreat:
-    - target: AUTH.VANGUARD.1
+    - target: AUTH.VANGUARD
       why: "Left critics who accept the electoral critique sometimes pivot to arguing a disciplined party can seize the state apparatus and redirect it, reproducing the centralization problem."
 aliases: ["just vote", "work within the system", "elect better representatives", "democracy means voting", "if you don't vote you can't complain", "this is the most important election of our lifetime", "vote blue no matter who", "not voting is a vote for the bad guy", "change the party from within", "we just need better candidates", "Bernie would have won", "what about Scandinavia", "local elections are winnable", "harm reduction voting", "you're privileged enough not to care about elections", "abstention is apathy"]
 ---
@@ -114,4 +114,4 @@ change that materially threatened elite interests.
 | "What about Scandinavian social democracy?" | Scandinavian social democracy was built by militant labor movements (general strikes, factory occupations) and funded by Cold War geopolitics that made concessions rational for capital. As those conditions eroded, so did the social democratic settlement -- privatization, austerity, and welfare retrenchment followed. The model depended on conditions that no longer obtain and was already retreating before the neoliberal turn. | **Contested** — concedes that social democracies achieved real gains for workers; whether those gains trace to militant labor leverage or to electoral mechanics is genuinely disputed historiography -- the framework reads the strike waves and the post-Cold-War retreat as evidence the settlement tracked organized labor's power, and a case of the settlement holding without that leverage would move it |
 | "Local elections can produce real change" | Local change within a national and global capitalist framework is constrained by the same capital-flight logic at smaller scale. Cities that raise minimum wages or strengthen tenant protections face business relocation threats. The structural walls are fractal -- they operate at every level. Local organizing is valuable, but its value comes from the organizing, not the elections. | **Fact** — concedes that local politics offers more accessible leverage -- accepts the tactical point while insisting the structural constraints scale down |
 | "You're privileged enough not to care about elections" | The communities most harmed by the current system are also those most consistently betrayed by electoral promises. Mass incarceration expanded under Democrats and Republicans alike. Deportation machinery was built by both parties. The critique of electoralism comes from analyzing who elections actually serve, not from indifference to suffering. Harm reduction voting is defensible; mistaking it for a strategy is not. | **Frame** — concedes that electoral outcomes produce differential harm -- accepts the moral seriousness of harm reduction while insisting that conflating harm reduction with transformation is the actual privilege |
-| "Renters / newcomers can win through the existing democratic process if they organize" | Renters have political tools — elections, ballot measures, coalition building — and structural disadvantages: less time, less money, less stability, higher churn, and lower turnout. Homeowners are overrepresented in local institutions not because they care more but because the system rewards stability, availability, and proximity to power. When the group with the most stable housing and most free time repeatedly blocks housing for everyone else and calls it "democracy working through conflict," the process is not neutral — it is structurally biased toward undersupply. The result: a permanent minority veto through process, winning not by persuasion but by exhaustion → AUTH.INCUMBENCY.1 | **Fact** — concedes that electoral and organizing tools exist for renters — accepts the availability of political mechanisms while conceding the question is whether the structural tilt makes those mechanisms sufficient or merely ornamental against organized incumbency |
+| "Renters / newcomers can win through the existing democratic process if they organize" | Renters have political tools — elections, ballot measures, coalition building — and structural disadvantages: less time, less money, less stability, higher churn, and lower turnout. Homeowners are overrepresented in local institutions not because they care more but because the system rewards stability, availability, and proximity to power. When the group with the most stable housing and most free time repeatedly blocks housing for everyone else and calls it "democracy working through conflict," the process is not neutral — it is structurally biased toward undersupply. The result: a permanent minority veto through process, winning not by persuasion but by exhaustion → AUTH.INCUMBENCY | **Fact** — concedes that electoral and organizing tools exist for renters — accepts the availability of political mechanisms while conceding the question is whether the structural tilt makes those mechanisms sufficient or merely ornamental against organized incumbency |

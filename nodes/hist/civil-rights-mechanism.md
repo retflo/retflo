@@ -1,20 +1,20 @@
 ---
-coordinate: HIST.CIVILRIGHTS.1
+coordinate: HIST.CIVILRIGHTS
 tags: [civil-rights, mass-mobilization, institutional-change, movement-pressure, concession]
 domain: hist
 links:
   flow:
-    - target: AUTH.CHECKSBALANCES.1
+    - target: AUTH.CHECKSBALANCES
       why: "Critics who accept that movements forced institutional action cite the institutional codification of gains as proof that checks and balances are indispensable for durable reform."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Crisis-reform-erosion cycle maps to the inertia-vs-capture analysis"
   premise:
-    - target: HIST.INTERVENTION.1
+    - target: HIST.INTERVENTION
       why: "The mechanism analysis rests on the intervention pattern: authority tolerated the injustice, conceded under pressure, and repurposed the machinery after."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "The mechanism analysis presupposes the local-tyranny problem it answers: Jim Crow was the captured jurisdiction the movement had to break."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Civil rights mechanism pushed to conclusion reaches the class instrument analysis"
 aliases: ["civil rights proves institutions work", "movements need institutional channels", "the Civil Rights Act fixed it", "Brown v Board ended segregation", "MLK worked within the system"]
 ---

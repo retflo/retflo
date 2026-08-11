@@ -1,18 +1,18 @@
 ---
-coordinate: AUTH.CLASS.1
+coordinate: AUTH.CLASS
 tags: [state, class, instrument, ruling-class, neutrality, enforcement, priorities, structural]
 domain: auth
 links:
   redirect:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Once the class-instrument analysis lands, the constructive question of what governs without a guard to hire hands off to the federation design."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "For critics who accept capture but not built-for-it, the softer inertia-vs-capture analysis carries the argument without requiring the stronger premise."
-    - target: ECON.SERIALCAPTURE.1
+    - target: ECON.SERIALCAPTURE
       why: "When the class claim needs documentary evidence of purchase, the serial-capture case file holds the receipts."
-    - target: HIST.INTERVENTION.1
+    - target: HIST.INTERVENTION
       why: "The federal-troops-saved-the-day counterexample hands off to the full intervention cycle: tolerate, concede under pressure, repurpose the machinery."
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "After proving the state protects property arrangements, the property-possession distinction provides the constructive analysis"
 recursion_point: true
 aliases: ["the state protects everyone equally", "government is neutral", "democratic government represents the people", "the law applies to everyone the same", "the law applies equally to everyone", "we're a nation of laws", "the government protects the little guy", "just get money out of politics", "deep state", "why do cops protect empty buildings and not people"]
@@ -58,9 +58,9 @@ presence of strategic resources and the interests of domestic capital. Smedley
 Butler — a Marine general — wrote in 1935 that he spent his career as "a racketeer
 for capitalism." The pattern has not changed; the public relations have improved.
 
-### Distinction from AUTH.INERTIA.1
+### Distinction from AUTH.INERTIA
 
-This differs from AUTH.INERTIA.1 (institutional capture): that node says the state
+This differs from AUTH.INERTIA (institutional capture): that node says the state
 CAN BE captured by interests. This node says the state was BUILT for this purpose.
 The distinction is critical — one implies the tool can be used differently with
 better operators, the other implies the tool's design precludes neutral use. A

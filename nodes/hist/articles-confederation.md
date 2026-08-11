@@ -1,15 +1,15 @@
 ---
-coordinate: HIST.ARTICLES.1
+coordinate: HIST.ARTICLES
 tags: [articles-of-confederation, "1787", federation, centralization, peacetime, constitution, ratification]
 domain: hist
 links:
   flow:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The Articles' task-specific failure supports minimum-necessary delegation under maximum constraint — which is the federation design position, not its refutation."
   redirect:
-    - target: RHET.SURVIVAL.1
+    - target: RHET.SURVIVAL
       why: "Reading the Articles' replacement as horizontalism refuted uses survival as the verdict, which is the circularity the survival test exposes."
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "When 1787 is generalized into a law about confederations, the general scale analysis takes the question with the full comparative record."
 aliases: ["the articles of confederation failed", "horizontal federation centralized itself voluntarily", "it failed in peacetime with no conqueror", "1787 proves you need a sovereign center", "1787 proves it", "even the founders gave up on confederation"]
 ---

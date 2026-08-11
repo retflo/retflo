@@ -11,12 +11,12 @@ before(async () => { graph = await loadGraph(REPO); });
 
 test('exact alias phrase routes to its node', () => {
   const { matches } = searchNodes(graph, 'prove your system would work');
-  assert.ok(matches.includes('RHET.BURDEN.1'), `got ${matches}`);
+  assert.ok(matches.includes('RHET.BURDEN'), `got ${matches}`);
 });
 
 test('alias embedded in a longer objection still routes', () => {
   const { matches } = searchNodes(graph, "look, the burden is on you to show an alternative that works");
-  assert.ok(matches.includes('RHET.BURDEN.1'), `got ${matches}`);
+  assert.ok(matches.includes('RHET.BURDEN'), `got ${matches}`);
 });
 
 test('nonsense query misses but still yields nearest territory', () => {
@@ -32,5 +32,5 @@ test('results are capped at limit', () => {
 
 test('landlord/rent voluntarism phrasing routes to the boomerang node', () => {
   const { matches } = searchNodes(graph, 'voluntary exchange exit landlord consent coercion');
-  assert.ok(matches.includes('RHET.BOOMERANG.1'), `got ${matches}`);
+  assert.ok(matches.includes('RHET.BOOMERANG'), `got ${matches}`);
 });

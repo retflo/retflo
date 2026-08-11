@@ -1,20 +1,20 @@
 ---
-coordinate: HIST.VIOLENCE.1
+coordinate: HIST.VIOLENCE
 tags: [violence-decline, statistical-attribution, state-formation, war-mortality, archaeological-evidence, net-violence]
 domain: hist
 links:
   flow:
-    - target: HIST.COLLAPSE.1
+    - target: HIST.COLLAPSE
       why: "Critics citing violence-decline statistics often invoke state collapse cases as evidence of what happens without centralized authority, conflating data questions with the warlord argument."
-    - target: AUTH.DEFENSE.1
+    - target: AUTH.DEFENSE
       why: "The violence-decline narrative's strongest residual claim is that centralized military capacity deters inter-group violence in ways distributed systems cannot replicate."
-    - target: HIST.INTERVENTION.1
+    - target: HIST.INTERVENTION
       why: "Violence-decline and benevolent-intervention narratives both credit centralized authority through statistical attribution"
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The violence debate resolves at the design: keeping the documented decline in everyday violence without the wars, camps, and police states in the sovereign's own ledger."
   retreat:
-    - target: PHIL.NATURE.1
+    - target: PHIL.NATURE
       why: "When the statistical attribution is contested, critics retreat to the premise that humans are inherently violent and only centralized authority suppresses this nature."
 aliases: ["states reduced violence", "per-capita violence was higher before states", "civilization reduced war deaths", "better angels", "Pinker / Better Angels", "Hobbes was right, life was nasty brutish and short"]
 ---

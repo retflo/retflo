@@ -1,17 +1,17 @@
 ---
-coordinate: PHIL.NATURE.1
+coordinate: PHIL.NATURE
 tags: [human-nature, selfishness, cooperation, mutual-aid, kropotkin, evolutionary-biology, anthropology]
 domain: phil
 links:
   flow:
-    - target: SOC.REPRODUCTION.1
+    - target: SOC.REPRODUCTION
       why: "Institutional design shapes dominant behavior — cultural reproduction is the mechanism"
   redirect:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "When the critic keeps pessimism about people, the wager converts it: imperfect humans are the argument against giving any of them a throne."
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Once nature arguments are off the table, the fight relocates to institutional design, where the architecture built for imperfect people waits."
-    - target: PHIL.DOMINANCE.1
+    - target: PHIL.DOMINANCE
       why: "For the load-bearing anthropology behind the counters, the reverse-dominance record holds the mechanism: equality actively enforced, not passively enjoyed."
 recursion_point: true
 aliases: ["human nature is selfish", "people are naturally competitive", "without authority humans would kill each other", "greed is human", "communism ignores human nature", "someone will always want more", "power corrupts", "we're just apes", "evolutionary psychology says", "Lord of the Flies", "people are basically good"]

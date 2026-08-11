@@ -1,20 +1,20 @@
 ---
-coordinate: PHIL.TRANSITION.1
+coordinate: PHIL.TRANSITION
 tags: [transition, dual-power, counter-institutions, prefigurative, revolution, construction, building]
 domain: phil
 links:
   flow:
-    - target: PHIL.PRAXIS.1
+    - target: PHIL.PRAXIS
       why: "The transition strategy of building counter-institutions requires direct action as its method — construction proceeds through collective self-activity, not reform or vanguardism."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Critics challenge whether counter-institutions can overcome the inertia of entrenched systems that actively resist being made redundant."
-    - target: ECON.SELFMANAGEMENT.1
+    - target: ECON.SELFMANAGEMENT
       why: "Worker cooperatives are the economic backbone of the dual-power construction strategy, demonstrating that productive enterprises can function without an owner class."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Building federated counter-institutions — federation is the structural answer"
   escalation:
-    - target: PHIL.PREFIGURATIVE.1
+    - target: PHIL.PREFIGURATIVE
       why: "When the transition debate deepens past strategy to principle, it reaches the structural claim that organizational form determines outcome — authoritarian means cannot produce libertarian ends."
 aliases: ["how do you get there from here", "what's your transition plan", "revolution is impossible in modern states", "you can't just overthrow everything", "be realistic about change", "so what, we all just join co-ops?", "you can't opt out of capitalism", "dual power", "the state will just crush your communes", "how do we actually win", "is voting or revolution the answer"]
 ---
@@ -97,7 +97,7 @@ with clear boundaries):
 
 ### The Suppression Record
 
-Every serious attempt at this transition has been destroyed by military force — Catalonia by fascists, the Free Territory by Bolsheviks, Chile by a CIA-backed coup. At every scale where it was attempted, what ended the transition was external force, not internal collapse — that reading is contested for the hardest case (historians argue over the Catalan collectives' internal strains), and the framework argues it on the record rather than assuming it. What is not contested: none of these experiments was permitted to run to its own conclusion. Citing the absence of a completed civilizational transition as evidence of design failure is the survival-test circularity (RHET.SURVIVAL.1): measuring governance quality by compatibility with empire.
+Every serious attempt at this transition has been destroyed by military force — Catalonia by fascists, the Free Territory by Bolsheviks, Chile by a CIA-backed coup. At every scale where it was attempted, what ended the transition was external force, not internal collapse — that reading is contested for the hardest case (historians argue over the Catalan collectives' internal strains), and the framework argues it on the record rather than assuming it. What is not contested: none of these experiments was permitted to run to its own conclusion. Citing the absence of a completed civilizational transition as evidence of design failure is the survival-test circularity (RHET.SURVIVAL): measuring governance quality by compatibility with empire.
 
 The engineering works at every scale tested: neighborhood assemblies, worker cooperatives, federated mutual aid networks, autonomous zones under wartime conditions. The untested step is civilizational scale — and it is untested because states kill it, not because it failed.
 

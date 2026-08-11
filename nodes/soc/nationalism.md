@@ -1,18 +1,18 @@
 ---
-coordinate: SOC.NATIONALISM.1
+coordinate: SOC.NATIONALISM
 tags: [nationalism, nation-state, class-weapon, immigration, borders, cultural-identity, patriotism, solidarity]
 domain: soc
 links:
   flow:
-    - target: SOC.OPPRESSION.1
+    - target: SOC.OPPRESSION
       why: "Nationalism operationalizes the division mechanism of structural oppression — redirecting class anger horizontally across national boundaries rather than vertically at ruling classes."
-    - target: ECON.IMPERIALISM.1
+    - target: ECON.IMPERIALISM
       why: "The 'national interest' framing is the ideological wrapper that converts domestic capital's overseas extraction into a project the entire nation supposedly shares."
   premise:
-    - target: SOC.MEDIA.1
+    - target: SOC.MEDIA
       why: "Institutional structures manufacture ideological loyalty"
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "When nationalism is exposed as manufactured loyalty, the argument deepens to the structural claim that the state exists as a class instrument and national identity is one of its legitimation tools."
 aliases: ["we need to protect our national interests", "immigration threatens our culture", "patriotism is natural", "national identity matters", "borders protect workers", "kneeling disrespects the flag", "America first", "why do you hate your country", "support the troops", "open borders would destroy wages", "you can love your culture without the state"]
 ---

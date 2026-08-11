@@ -1,28 +1,28 @@
 ---
-coordinate: AUTH.LOCALTYRANNY.1
+coordinate: AUTH.LOCALTYRANNY
 tags: [local-tyranny, minority-rights, majoritarian-lock-in, racist-bloc, desegregation, federal-override, civil-rights]
 domain: auth
 links:
   flow:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "The local tyranny problem forces the concrete question of how federated enforcement actually compels a non-compliant jurisdiction to respect baseline rights."
-    - target: AUTH.INCUMBENCY.1
+    - target: AUTH.INCUMBENCY
       why: "Local tyranny's internal majoritarian lock-in connects to the incumbency veto's external exclusion, as both use local democratic process to enforce domination."
-    - target: AUTH.JUSTICE.1
+    - target: AUTH.JUSTICE
       why: "When local tyranny produces harm, the justice question arises: how does a federated system provide accountability and repair without a centralized punitive apparatus."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The captured-town problem resolves in the design: baseline rights as membership conditions, sanctuary for the persecuted, and conditional access that isolates the oppressor."
   premise:
-    - target: HIST.INTERVENTION.1
+    - target: HIST.INTERVENTION
       why: "The response builds on the benevolent-intervention record: the same central machinery that broke one atrocity tolerated it first and was repurposed after."
-    - target: HIST.CIVILRIGHTS.1
+    - target: HIST.CIVILRIGHTS
       why: "The response builds on the civil-rights record: institutions conceded under movement pressure rather than self-correcting toward justice."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "The local tyranny impasse -- slower federated response vs. catastrophic sovereign capture risk -- ultimately reduces to which system's failure mode is more survivable."
   retreat:
-    - target: AUTH.CHECKSBALANCES.1
+    - target: AUTH.CHECKSBALANCES
       why: "Critics cornered on local tyranny pivot to arguing checks and balances prevent majoritarian lock-in"
 aliases: ["local majority oppression", "tyranny of the majority", "who protects minorities", "what if the local majority is wrong", "what stops a racist town in your system", "states rights led to Jim Crow", "who protects the minority from the majority", "sundown towns"]
 ---
@@ -67,4 +67,4 @@ Under a sovereign monopoly: if the oppressive faction captures the center, it wi
 | "Central authority broke [specific atrocity]. Your system can't do that." | The same apparatus tolerated the atrocity for decades before breaking it, and later repurposed its enforcement machinery. You're celebrating a tool for one necessary job while ignoring it remained available for every other job. | **Fact** — concedes that the atrocity persisted under the sovereign model for decades — accepts that centralized authority is not reliably pro-justice, only intermittently so |
 | "Containment means millions live under oppression while you wait" | Yes. That is morally serious. The counter-question: when the sovereign model fails — and it routinely does — millions live under oppression with no exit, no sanctuary, and the full weight of centralized enforcement maintaining it. Which failure mode is worse? | **Fact** — concedes that speed is the decisive variable — accepts the tradeoff frame, which means they must also accept the catastrophe risk of sovereign failure |
 | "Your rights-enforcing bloc might be smaller than the oppressive bloc" | True in some scenarios. Also true that if the oppressive bloc captures the center in a sovereign model, it wins everywhere at once. Under plural enforcement, the blast radius is limited. | **Fact** — concedes that bloc size matters — accepts that outcomes depend on power balance, not on system design alone, which undermines the claim that sovereignty inherently protects minorities |
-| "Our neighborhood / city should decide what happens here — it's self-governance" | Local self-governance ends where it imposes predictable, large-scale harms on non-members. When a neighborhood uses the state to enforce housing scarcity, the costs don't stay within its borders — they spill across the region as rent inflation, displacement, longer commutes, overcrowding, and homelessness churn. This is the same jurisdictional logic that prevents towns from dumping sewage downstream or running their own voting rights rules. The "local" in "local control" conveniently excludes everyone the control prices out — they are locals too, or would be if allowed → AUTH.INCUMBENCY.1 | **Fact** — concedes that local governance has legitimate value — accepts the principle while conceding the question is whether "self-governance" includes the right to externalize harm to non-members, which most governance frameworks reject |
+| "Our neighborhood / city should decide what happens here — it's self-governance" | Local self-governance ends where it imposes predictable, large-scale harms on non-members. When a neighborhood uses the state to enforce housing scarcity, the costs don't stay within its borders — they spill across the region as rent inflation, displacement, longer commutes, overcrowding, and homelessness churn. This is the same jurisdictional logic that prevents towns from dumping sewage downstream or running their own voting rights rules. The "local" in "local control" conveniently excludes everyone the control prices out — they are locals too, or would be if allowed → AUTH.INCUMBENCY | **Fact** — concedes that local governance has legitimate value — accepts the principle while conceding the question is whether "self-governance" includes the right to externalize harm to non-members, which most governance frameworks reject |

@@ -1,14 +1,14 @@
 ---
-coordinate: ECON.PROPERTY.1
+coordinate: ECON.PROPERTY
 tags: [property, possession, proudhon, personal-property, productive-property, conflation, ownership]
 domain: econ
 links:
   redirect:
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "When the critic asks who enforces the possession line without police, the bounded escalation ladder answers."
-    - target: ECON.EXIT.1
+    - target: ECON.EXIT
       why: "When property arrangements are defended with just-leave, the exit analysis measures what leaving actually costs."
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "When enforcing any ownership line is equated with rebuilding the state, the four-feature definition intercepts the collapse."
 recursion_point: true
 aliases: ["anarchists want to take your stuff", "private property is a right", "what about my house", "property is freedom", "who decides what's personal vs. private", "anarchists want to take your toothbrush", "so I can't own anything?", "communists want to take my house", "keep your hands off my stuff", "I worked for what I have", "my home is my castle", "would you share your toothbrush", "where's the line? my lawnmower?", "can I own two houses?", "what about my small business", "what about family farms", "my 401k makes me a capitalist", "temporarily embarrassed millionaires", "property is theft contradicts itself", "abolish private property", "seize the means of production", "renting my spare room makes me a landlord?", "if I build it, it's mine", "my kids deserve what I earned", "property rights are human rights", "what happens to my house under anarchism", "do anarchists believe in ownership at all"]

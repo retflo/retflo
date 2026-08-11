@@ -1,16 +1,16 @@
 ---
-coordinate: HIST.COLLAPSE.1
+coordinate: HIST.COLLAPSE
 tags: [state-collapse, somalia, libya, warlords, failed-states, power-vacuum]
 domain: hist
 links:
   flow:
-    - target: AUTH.DEFENSE.1
+    - target: AUTH.DEFENSE
       why: "Critics use state collapse cases to argue that without centralized military authority, armed factions inevitably dominate — making defense the residual claim after the 'anarchy = chaos' conflation is exposed."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The warlord cases resolve at the design: organized federated capacity is precisely what a power vacuum lacks."
   retreat:
-    - target: PHIL.NATURE.1
+    - target: PHIL.NATURE
       why: "When the distinction between violent regime breakdown and bottom-up self-organization is established, critics retreat to asserting that warlordism proves humans naturally dominate without a sovereign."
 aliases: ["somalia proves anarchy fails", "libya", "power vacuum", "warlords", "Mad Max", "look at Haiti"]
 ---

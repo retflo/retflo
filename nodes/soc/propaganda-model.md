@@ -1,20 +1,20 @@
 ---
-coordinate: SOC.MEDIA.1
+coordinate: SOC.MEDIA
 tags: [media, propaganda-model, chomsky, herman, filters, manufacturing-consent, structural-bias, advertising]
 domain: soc
 links:
   flow:
-    - target: SOC.OPPRESSION.1
+    - target: SOC.OPPRESSION
       why: "Media structural filters amplify identity-based division by making scapegoating narratives the path of least resistance for content that satisfies ownership, advertising, and sourcing constraints."
-    - target: TECH.OWNERSHIP.1
+    - target: TECH.OWNERSHIP
       why: "The platform recapture of social media demonstrates that whoever controls information infrastructure controls the information environment, making technology ownership the material basis of the propaganda model."
   premise:
-    - target: SOC.NATIONALISM.1
+    - target: SOC.NATIONALISM
       why: "Institutional structures manufacture ideological loyalty"
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "When media structural bias is established, the argument deepens to the question of why ownership class interests systematically shape information — because the state functions as that class's institutional vehicle."
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "Media ownership as a structural filter is a specific instance of property concentration granting control over essential social functions — the same dynamic the property-possession distinction exposes."
 aliases: ["the media is liberal", "we have a free press", "that's a conspiracy theory", "journalists are independent", "social media gives everyone a voice", "mainstream media lies", "do your own research", "why don't they cover strikes", "the news is owned by like five companies", "legacy media vs independent media", "algorithms radicalize people"]
 ---

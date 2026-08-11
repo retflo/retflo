@@ -1,18 +1,18 @@
 ---
-coordinate: ECON.SERIALCAPTURE.1
+coordinate: ECON.SERIALCAPTURE
 tags: [serial-capture, oligarchic-capture, distributed-vulnerability, money-in-politics, anti-corruption, coordinated-wealth]
 domain: econ
 links:
   flow:
-    - target: AUTH.CHECKSBALANCES.1
+    - target: AUTH.CHECKSBALANCES
       why: "The serial capture problem forces the question of whether distributed counter-power mechanisms can resist coordinated wealth better than centralized checks and balances that present a single capture target."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Serial capture demonstrates the specific mechanism by which institutional inertia protects captured governance: once wealth purchases a rule, the same inertia that slows reform preserves the capture."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The many-targets worry resolves in the design: funding floors, transparent budgets, and cross-jurisdiction review make serial purchase expensive, visible, and reversible."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Serial capture pushed past design reaches whether the state inherently serves the capturing class"
 aliases: ["distributed systems are easier to capture", "money buys local politics", "many undefended targets", "oligarchs capture one by one", "Koch brothers / dark money", "billionaires would just buy your communes"]
 ---

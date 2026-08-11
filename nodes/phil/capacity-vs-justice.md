@@ -1,16 +1,16 @@
 ---
-coordinate: PHIL.CAPACITY.1
+coordinate: PHIL.CAPACITY
 tags: [capacity, justice, power, legitimacy, apollo, mobilization]
 domain: phil
 links:
   retreat:
-    - target: AUTH.DEFENSE.1
+    - target: AUTH.DEFENSE
       why: "Critics who concede capacity is not morally directional retreat to military defense as the one domain where centralized capacity is irreplaceable."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The capacity question resolves at federated, recallable capacity: the hammer with hands on it that can be taken back."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "When the capacity debate reaches stalemate, it deepens into which system's failure mode — tyranny at scale vs. slow coordination — is the safer wager."
 aliases: ["justice without capacity is aspiration", "you need power to implement justice", "power is the only language they understand", "you need the state to enforce rights", "who ended slavery? the union army", "weakness invites abuse"]
 ---

@@ -1,17 +1,17 @@
 ---
-coordinate: AUTH.JUSTICE.1
+coordinate: AUTH.JUSTICE
 tags: [justice, restorative, punitive, crime, prison, community, accountability, harm-reduction]
 domain: auth
 links:
   flow:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "Restorative justice raises the practical enforcement question: when community accountability processes are defied, who has the capacity and authority to compel compliance."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "Community-based justice faces the risk that local majorities weaponize restorative processes against minorities, reproducing local tyranny with therapeutic language."
   escalation:
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "When pushed on what happens when restorative processes fail, the justice debate reaches the deeper philosophical question of whether any social order can exist without a coercion chain."
-    - target: SOC.OPPRESSION.1
+    - target: SOC.OPPRESSION
       why: "The class function of punitive justice connects to the broader structural oppression analysis, where the criminal justice system is one apparatus among many that reproduce social hierarchy."
 aliases: ["what about crime", "without police who stops criminals", "what about murderers", "prisons keep us safe", "you need punishment as deterrent", "who will protect us", "defund the police went great", "some people are just evil", "what about psychopaths", "if someone hurt your family you'd want them locked up", "police keep us safe", "law and order", "prison abolition is insane", "restorative justice is a slap on the wrist", "what happens to rapists in your system", "how does justice work without courts", "what do you do with someone who won't stop"]
 ---

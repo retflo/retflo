@@ -1,17 +1,17 @@
 ---
-coordinate: RHET.DIGNITY.1
+coordinate: RHET.DIGNITY
 tags: [dignity, status, shame, bootlicker, gadsden, self-ownership, vocabulary-capture, anti-domination, prestige]
 domain: rhet
 links:
   flow:
-    - target: PHIL.DOMINANCE.1
+    - target: PHIL.DOMINANCE
       why: "The shame-and-ostracism machinery this node maps is Boehm's anti-dominance mechanism operating at the rhetorical layer — same engine, same capture risks."
-    - target: ECON.EXIT.1
+    - target: ECON.EXIT
       why: "The 'at least I can quit my job' reply runs on exit — whose actual thinness is the measure of the employer's leverage."
   redirect:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Once the anti-domination instinct is affirmed, counting the daily treadings leads to the authority most people actually live under."
-    - target: PHIL.NATURE.1
+    - target: PHIL.NATURE
       why: "The discipline rule rests on the framework's own anthropology: the defender of the arrangement is exhibiting incentive-shaped behavior, not a defective soul."
 aliases: ["government is the real tyranny", "don't tread on me", "at least I can quit my job", "you're just trying to shame people", "nobody tells me what to do", "I kneel to no one", "be your own boss", "wage cuck / corporate simp", "the grindset / hustle culture pride", "real men don't complain about their jobs", "I bow to my boss because he earned it", "libertarians love freedom more than you", "you're just jealous of successful people"]
 ---

@@ -1,20 +1,20 @@
 ---
-coordinate: ECON.COMMONS.1
+coordinate: ECON.COMMONS
 tags: [commons, ostrom, tragedy, communal, governance, shared-resources, enclosure, management]
 domain: econ
 links:
   flow:
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "Critics who accept commons governance works locally pivot to asking whether it can coordinate at regional or national scale without centralized authority."
-    - target: ECON.SELFMANAGEMENT.1
+    - target: ECON.SELFMANAGEMENT
       why: "Ostrom's design principles for communal resource governance map directly onto workplace democracy, extending the model from shared resources to shared production."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Federated structures provide the governance solution for shared resources"
   escalation:
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "When the critic concedes communal management works, the debate deepens to whether the property-possession distinction justifies treating productive assets differently from personal possessions."
-    - target: ECON.ECOLOGY.1
+    - target: ECON.ECOLOGY
       why: "Successful commons management sharpens the ecological question: if communal governance outperforms privatization for shared resources, the growth imperative rather than ownership form becomes the core ecological threat."
 aliases: ["tragedy of the commons", "communal ownership means nobody cares", "without private property resources are wasted", "privatization protects resources", "nobody washes a rental car", "public bathrooms prove communal fails"]
 ---

@@ -1,15 +1,15 @@
 ---
-coordinate: ECON.RULES.1
+coordinate: ECON.RULES
 tags: [rules, discretion, leviathan, predistribution, antitrust, contract-law, means-ends, state-power]
 domain: econ
 links:
   flow:
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "The existing state already coercively enforces ownership rules everywhere, forever — the property distinction reveals whose rules those currently are."
-    - target: ECON.INEQUALITYRATCHET.1
+    - target: ECON.INEQUALITYRATCHET
       why: "Concentration as equilibrium tendency is why dispersal must be structural rule rather than episodic intervention."
   redirect:
-    - target: AUTH.FINALITY.1
+    - target: AUTH.FINALITY
       why: "The rules conversation bottoms out at who holds the last word on enforcement, which the scoped-finality analysis handles."
 aliases: ["dispersing wealth requires a giant state", "your remedy for private power is public enormity", "you'd need a leviathan to redistribute forever", "who breaks up the concentrations — and who watches them", "your cure is bigger than the disease", "who breaks up the monopolies, and who watches them"]
 ---

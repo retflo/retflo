@@ -12,7 +12,7 @@ export function createMcpServer(tools) {
   }, async args => text(await tools.search_nodes(args)));
 
   server.registerTool('get_node', {
-    description: 'Fetch a retflo node body and its typed links by coordinate (e.g. RHET.BURDEN.1). If you are moving to a node listed in a fetched node\'s links, use follow_edge instead — it records the typed traversal.',
+    description: 'Fetch a retflo node body and its typed links by coordinate (e.g. RHET.BURDEN). If you are moving to a node listed in a fetched node\'s links, use follow_edge instead — it records the typed traversal.',
     inputSchema: { coordinate: z.string() },
   }, async args => text(await tools.get_node(args)));
 

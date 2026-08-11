@@ -1,20 +1,20 @@
 ---
-coordinate: HIST.DEFEAT.1
+coordinate: HIST.DEFEAT
 tags: [military-defeat, crushed-experiments, catalonia, makhno, selective-history, survival-fallacy, wartime-hierarchy]
 domain: hist
 links:
   flow:
-    - target: AUTH.DEFENSE.1
+    - target: AUTH.DEFENSE
       why: "Critics who accept that military defeat does not disprove governance theory pivot to asking how distributed systems defend themselves against hostile states."
-    - target: HIST.COLLAPSE.1
+    - target: HIST.COLLAPSE
       why: "The 'every experiment was crushed' argument often blurs military defeat into state collapse cases like Somalia, conflating external destruction with internal failure."
-    - target: ECON.SELFMANAGEMENT.1
+    - target: ECON.SELFMANAGEMENT
       why: "Catalonia's collectives demonstrate worker self-management functioned under wartime conditions"
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The defeats resolve into the design lesson they paid for: federation and mutual defense as survival requirements, not afterthoughts."
   retreat:
-    - target: RHET.SURVIVAL.1
+    - target: RHET.SURVIVAL
       why: "When the historical defeats are analyzed honestly, the critic's fallback is the meta-argument that any system that gets destroyed was never viable — a circularity that needs direct exposure."
 aliases: ["every anarchist experiment failed", "revolutionary catalonia was a mess", "makhno had a command structure", "it always gets crushed", "Catalonia was chaos", "Franco won for a reason", "the anarchists lost the civil war"]
 ---

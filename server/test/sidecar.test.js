@@ -15,7 +15,7 @@ before(async () => {
   graph = await loadGraph(REPO);
   const dir = mkdtempSync(join(tmpdir(), 'retflo-'));
   log = new SessionLog({ dir, graphVersion: graph.version });
-  log.record({ type: 'node_fetch', coordinate: 'RHET.BURDEN.1', revisit: false });
+  log.record({ type: 'node_fetch', coordinate: 'RHET.BURDEN', revisit: false });
   server = createSidecar({ graph, sessionsDir: dir, activeLog: log });
   await new Promise(res => server.listen(0, '127.0.0.1', res));
   base = `http://127.0.0.1:${server.address().port}`;

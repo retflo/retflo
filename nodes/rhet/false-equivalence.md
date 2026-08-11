@@ -1,17 +1,17 @@
 ---
-coordinate: RHET.EQUIVALENCE.1
+coordinate: RHET.EQUIVALENCE
 tags: [false-equivalence, both-sides, neutrality, asymmetry, status-quo, centrism]
 domain: rhet
 links:
   flow:
-    - target: RHET.CIRCULARREALISM.1
+    - target: RHET.CIRCULARREALISM
       why: "The both-sides posture often embeds circular realism — treating the current arrangement as the neutral center and measuring all positions by distance from it."
-    - target: AUTH.ELECTORAL.1
+    - target: AUTH.ELECTORAL
       why: "Critics who accept asymmetry exists but insist on working within the system channel the false-equivalence debate into the electoral critique's structural filters."
   escalation:
-    - target: RHET.BURDEN.1
+    - target: RHET.BURDEN
       why: "When false equivalence is exposed, the argument deepens to who bears the burden of proof — the system producing documented asymmetric harms, or the critic naming those harms."
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "The structural function of false neutrality — serving whoever holds more power by discouraging engagement — deepens into the analysis of the state as the institutional vehicle through which that concentrated power operates."
 aliases: ["both sides are the same", "both sides are cringe", "I'm not left or right", "extremes on both sides", "the truth is in the middle", "I don't do politics", "politicians are all crooks", "horseshoe theory", "the far left is just as bad as the far right", "I just want everyone to get along", "enlightened centrist"]
 ---

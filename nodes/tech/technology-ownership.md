@@ -1,20 +1,20 @@
 ---
-coordinate: TECH.OWNERSHIP.1
+coordinate: TECH.OWNERSHIP
 tags: [technology, ownership, automation, surveillance, liberation, domination, platform, digital-commons]
 domain: tech
 links:
   flow:
-    - target: SOC.MEDIA.1
+    - target: SOC.MEDIA
       why: "Technology ownership's information asymmetry concretizes in media, where platform monopolies and algorithmic curation reproduce the propaganda model's manufacturing of consent."
-    - target: ECON.COMMONS.1
+    - target: ECON.COMMONS
       why: "Digital commons governance connects to the broader commons management framework"
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Democratically governed information infrastructure resolves at federation"
   escalation:
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "When pushed past technology-specific arguments, the ownership question reaches the foundational distinction between property and possession that determines who controls productive tools."
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Technology concentration under current ownership reveals the state as enforcer of the property arrangements that enable a small class to monopolize the productivity gains of automation and AI."
 aliases: ["technology is neutral", "automation will free everyone", "AI will solve inequality", "technology creates progress", "Luddites were wrong", "AI will take all the jobs", "UBI will fix automation", "technology always creates new jobs", "you can't stop progress", "AI safety / AI will kill us", "open source is communism", "big tech censorship"]
 ---

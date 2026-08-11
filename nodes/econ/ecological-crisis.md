@@ -1,13 +1,13 @@
 ---
-coordinate: ECON.ECOLOGY.1
+coordinate: ECON.ECOLOGY
 tags: [ecology, growth, climate, externalities, accumulation, green-capitalism, sustainability, bookchin]
 domain: econ
 links:
   redirect:
-    - target: RHET.CIRCULARREALISM.1
+    - target: RHET.CIRCULARREALISM
       why: "When degrowth is dismissed as unrealistic, the realism claim is the circle: realistic defined as compatible with the growth system causing the damage."
   escalation:
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "Once grow-or-die is established, the argument deepens to who owns the engine: the accumulation imperative is rooted in the ownership structure that makes growth mandatory, which the property-possession distinction isolates."
 recursion_point: true
 aliases: ["green capitalism will fix it", "the market will solve climate change", "regulation handles externalities", "technology will save us", "growth is necessary for prosperity", "capitalism will innovate our way out", "electric cars will save us", "carbon taxes work", "degrowth means poverty", "just recycle / personal footprint", "corporations did this, not me"]

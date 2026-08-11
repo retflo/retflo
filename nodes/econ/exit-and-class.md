@@ -1,19 +1,19 @@
 ---
-coordinate: ECON.EXIT.1
+coordinate: ECON.EXIT
 tags: [exit, mobility, class, wealth, voice, baseline-rights, resource-equalization]
 domain: econ
 links:
   flow:
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "If exit is insufficient as accountability, the critic asks what prevents a local majority from oppressing minorities who cannot meaningfully leave."
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "The admission that exit requires material preconditions raises the question of whether baseline enforcement constitutes its own coercion chain."
-    - target: ECON.EQUALIZATION.1
+    - target: ECON.EQUALIZATION
       why: "Exit without resource equalization becomes class sorting, making equalization the structural precondition for exit to function as a release valve rather than a privilege."
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "The market-for-governance critique exposes that treating jurisdictional choice like consumer choice gives more votes to those with more capital, requiring the property-possession distinction to resolve."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The exit critique resolves in the design: baseline rights that travel with the person plus regional equalization make leaving a right instead of a luxury."
 aliases: ["exit privileges the wealthy", "market for governance", "voting with your feet", "just quit and get a better job", "vote with your feet", "America, love it or leave it", "just move to a cheaper city"]
 ---

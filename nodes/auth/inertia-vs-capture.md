@@ -1,21 +1,21 @@
 ---
-coordinate: AUTH.INERTIA.1
+coordinate: AUTH.INERTIA
 tags: [inertia, capture, decay, bureaucracy, apathy, reform]
 domain: auth
 links:
   flow:
-    - target: AUTH.CHECKSBALANCES.1
+    - target: AUTH.CHECKSBALANCES
       why: "Critics who defend institutional reform argue the existing checks-and-balances architecture provides the friction needed to prevent capture, which the inertia analysis directly challenges."
-    - target: AUTH.INCUMBENCY.1
+    - target: AUTH.INCUMBENCY
       why: "The reform gamble's cycle of crisis-reform-erosion manifests concretely in local governance where institutional inertia protects incumbent advantages against democratic pressure."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The reform-versus-abolish fight resolves at a third option: an architecture whose failures stay local and recoverable instead of compounding toward capture."
   premise:
-    - target: PHIL.PARTICIPATION.1
+    - target: PHIL.PARTICIPATION
       why: "Both nodes share the foundational tension that distributed systems require sustained civic engagement, making participation fatigue the central design constraint."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "'CAN BE captured' deepens to 'BUILT for this purpose'"
 aliases: ["institutions can be reformed", "fix the state don't abolish it", "institutional depth", "change it from the inside", "the arc of history bends toward justice", "we've made so much progress", "institutions are all that stand between us and chaos"]
 ---
@@ -56,4 +56,4 @@ The mirror: bureaucracies let tired societies coast — straight into capture. C
 | "My system is a proven system with known defects" | "Known defects" is doing a lot of work. Known and normalized are different. The defects include mass incarceration, surveillance states, and captured regulatory agencies. These are not bugs — they are the predictable trajectory of concentrated power. | **Fact** — concedes the system has defects — accepts the comparison is between failure modes, not between a working system and an untested one |
 | "People will get tired and your system collapses" | Episodic participation, automated accountability, strong defaults. The system does not require heroic vigilance — it requires good architecture. And your system, when people get tired, doesn't "coast safely" — it coasts into capture. | **Fact** — accepts civic fatigue is real — concedes their system also degrades under low participation (just differently) |
 | "Your system shatters under serious pressure" | Distributed systems fail locally and recover locally. Centralized systems fail catastrophically. When a centralized system fails, everything fails at once. | **Fact** — accepts that systems face pressure — concedes the question is about failure modes, not whether failure occurs |
-| "Discretion / local hearings / public process ensures accountability" | Discretionary review is not accountability — it is leverage. It is the mechanism by which organized incumbents convert time, connections, and procedural knowledge into control over outcomes. The evidence: discretionary processes consistently reduce housing production, add years to timelines, and produce outcomes that favor whoever can afford to play the hearing game. Accountability comes from enforceable rules applied consistently plus elections and audits — not from case-by-case bargaining where the loudest, most-resourced voice wins. If you care about competence, prefer standardized rules and measurable delivery, because those are auditable. Discretion is where incompetence and favoritism hide → AUTH.INCUMBENCY.1 | **Fact** — concedes that public input has legitimate value — accepts the principle while conceding the question is whether "input" means "meaningful participation" or "veto power for whoever shows up," and whether the process is systematically captured |
+| "Discretion / local hearings / public process ensures accountability" | Discretionary review is not accountability — it is leverage. It is the mechanism by which organized incumbents convert time, connections, and procedural knowledge into control over outcomes. The evidence: discretionary processes consistently reduce housing production, add years to timelines, and produce outcomes that favor whoever can afford to play the hearing game. Accountability comes from enforceable rules applied consistently plus elections and audits — not from case-by-case bargaining where the loudest, most-resourced voice wins. If you care about competence, prefer standardized rules and measurable delivery, because those are auditable. Discretion is where incompetence and favoritism hide → AUTH.INCUMBENCY | **Fact** — concedes that public input has legitimate value — accepts the principle while conceding the question is whether "input" means "meaningful participation" or "veto power for whoever shows up," and whether the process is systematically captured |

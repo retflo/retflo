@@ -1,20 +1,20 @@
 ---
-coordinate: PHIL.COERCION.1
+coordinate: PHIL.COERCION
 tags: [coercion, escalation, enforcement, sanctions, bounded-force, violence-monopoly]
 domain: phil
 links:
   flow:
-    - target: PHIL.CAPACITY.1
+    - target: PHIL.CAPACITY
       why: "Critics who accept bounded coercion pivot to asking whether distributed enforcement has sufficient capacity to handle serious resistance."
-    - target: PHIL.VOLUNTARISM.1
+    - target: PHIL.VOLUNTARISM
       why: "The 'I own myself therefore I can sell my labor' objection redirects the coercion discussion from enforcement escalation to the preconditions of genuine consent."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The bounded ladder resolves inside the federation architecture, where escalation rules, review, and recall live."
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "The coercion chain's enforcement escalation question leads to the split-command architecture answer"
   premise:
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "The ladder analysis presupposes the definitional line: enforcement exists in any order, while statehood is a specific institutional form."
 aliases: ["fines lead to force", "all enforcement is coercion", "you need violence to enforce rules", "what happens if I just refuse", "rules without enforcement are suggestions", "so you'd use violence too", "gotcha, you admit you'd coerce people"]
 ---

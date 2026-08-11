@@ -1,18 +1,18 @@
 ---
-coordinate: HIST.INTERVENTION.1
+coordinate: HIST.INTERVENTION
 tags: [benevolent-intervention, central-authority-triumph, selective-history, tool-repurposing, civil-rights, jim-crow, carceral-state]
 domain: hist
 links:
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The intervention narrative resolves at the design: cross-federation pressure and sanctuary break atrocities without building machinery that gets repurposed."
   premise:
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "The pattern analysis presupposes the local-tyranny problem: the atrocity the authority eventually broke was a captured jurisdiction it long tolerated."
-    - target: HIST.CIVILRIGHTS.1
+    - target: HIST.CIVILRIGHTS
       why: "The pattern generalizes the civil-rights record: the flagship case where pressure forced the concession the institution later took credit for."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "The full Jim Crow cycle — tolerance, forced concession, repurposing into mass incarceration — demonstrates that the same centralized tool that breaks oppressive blocs becomes the next oppressive bloc's weapon."
 aliases: ["federal troops saved the day", "central authority broke the atrocity", "the state intervened to protect minorities", "Little Rock / federal troops", "Lincoln freed the slaves"]
 ---

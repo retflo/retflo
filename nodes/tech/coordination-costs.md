@@ -1,17 +1,17 @@
 ---
-coordinate: TECH.COORDINATION.1
+coordinate: TECH.COORDINATION
 tags: [coase, transaction-costs, benkler, peer-production, hierarchy, networks, firms, open-source, latency]
 domain: tech
 links:
   flow:
-    - target: TECH.OWNERSHIP.1
+    - target: TECH.OWNERSHIP
       why: "Falling coordination costs determine what's organizationally possible; ownership structure determines who captures it — the two analyses compose."
-    - target: ECON.COOPERATIVE.1
+    - target: ECON.COOPERATIVE
       why: "If optimal organizational boundaries shift with coordination technology, the co-op scarcity question becomes historical and financial, not organizational."
   redirect:
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "Once coordination costs are shown to have collapsed, the general question of what can now scale hands off to the federation mechanisms."
-    - target: AUTH.FINALITY.1
+    - target: AUTH.FINALITY
       why: "The commons run scoped, forkable last words, and claiming those kernels as evidence hands the finality question its working examples."
 aliases: ["coase proved hierarchy is efficient", "firms exist because command is cheaper", "consensus doesn't scale", "decision costs favor hierarchy", "if horizontal coordination worked markets would have dissolved firms", "firms exist because hierarchy is efficient", "Wikipedia is unreliable anyway", "open source is just free labor for corporations"]
 ---

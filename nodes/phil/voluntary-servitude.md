@@ -1,12 +1,12 @@
 ---
-coordinate: PHIL.VOLUNTARISM.1
+coordinate: PHIL.VOLUNTARISM
 tags: [voluntarism, consent, asymmetry, servitude, contract, equality, precondition, coercion]
 domain: phil
 links:
   redirect:
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "When the consent conversation turns to enforcement mechanics, the escalation ladder takes the handoff."
-    - target: ECON.HOUSING.1
+    - target: ECON.HOUSING
       why: "For the cliff behind consent in its most common form, housing precarity holds the lived case."
 recursion_point: true
 aliases: ["nobody forces you to work there", "voluntary exchange is voluntary", "if you don't like it leave", "contracts are freedom", "the labor market is voluntary", "work is a choice", "slavery was forced, jobs aren't", "you agreed to the terms", "you signed the lease"]
@@ -22,9 +22,9 @@ contract is destitution, the "choice" to work is structurally coerced regardless
 of the absence of a visible gun. The gun is not pointed at you — but the cliff
 is behind you, and the person offering the rope sets the terms.
 
-### Distinction from PHIL.COERCION.1
+### Distinction from PHIL.COERCION
 
-This node extends PHIL.COERCION.1 but is structurally distinct. PHIL.COERCION.1
+This node extends PHIL.COERCION but is structurally distinct. PHIL.COERCION
 addresses the escalation chain of enforcement — fines lead to force, all
 governance involves coercion. This node addresses the preconditions for meaningful
 consent. The structural question is not "does enforcement escalate?" but "when is
@@ -94,4 +94,4 @@ possibility of becoming an exploiter.
 | "Wage labor is just a contract between free parties" | Freedom of contract requires freedom of the parties. When one party needs the deal to survive and the other can wait indefinitely, the "contract" is dictation with the form of agreement. Formal freedom without material equality produces substantive servitude. | **Fact** — concedes the contract is formally voluntary — accepts the debate is about whether formal voluntarism without material equality constitutes genuine freedom |
 | "Both parties benefit from employment" | Both parties in a mugging "benefit" — the victim keeps their life, the mugger gets the wallet. Mutual benefit under asymmetric conditions does not demonstrate justice. The question is not whether both gain something, but whether the division reflects the parties' relative contributions or their relative power. | **Fact** — concedes that workers receive wages — accepts the question shifts to whether the wage reflects contribution or bargaining position |
 | "Self-ownership means you can sell your labor" | If self-ownership is alienable, it cannot ground inalienable rights. If it is inalienable, you cannot sell command over yourself. Right-libertarianism needs self-ownership to be simultaneously alienable (to justify wage labor) and inalienable (to ground property rights). It cannot be both. | **Fact** — concedes self-ownership is a coherent concept — accepts the debate is about its implications, which cuts against wage labor rather than for it |
-| "You're free to organize / strike / participate — that's what democracy is for" | Formal freedoms require material preconditions. If your housing is precarious, you cannot strike (you'll lose your home). If you're working three jobs to make rent, you cannot attend meetings. If moving means losing your kids' school, you cannot exit a bad situation. Housing stability is the operating system: without it, every other "freedom" is conditional on your landlord's goodwill, your employer's patience, or your ability to absorb a rent shock. Consent under material precarity is not consent — it is compliance under duress → ECON.HOUSING.1 | **Fact** — concedes formal freedoms exist — accepts the legal framework while accepting the debate is about whether material conditions make those freedoms exercisable or merely theoretical |
+| "You're free to organize / strike / participate — that's what democracy is for" | Formal freedoms require material preconditions. If your housing is precarious, you cannot strike (you'll lose your home). If you're working three jobs to make rent, you cannot attend meetings. If moving means losing your kids' school, you cannot exit a bad situation. Housing stability is the operating system: without it, every other "freedom" is conditional on your landlord's goodwill, your employer's patience, or your ability to absorb a rent shock. Consent under material precarity is not consent — it is compliance under duress → ECON.HOUSING | **Fact** — concedes formal freedoms exist — accepts the legal framework while accepting the debate is about whether material conditions make those freedoms exercisable or merely theoretical |

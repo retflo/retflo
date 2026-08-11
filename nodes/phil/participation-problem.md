@@ -1,19 +1,19 @@
 ---
-coordinate: PHIL.PARTICIPATION.1
+coordinate: PHIL.PARTICIPATION
 tags: [participation, engagement, apathy, burnout, civic-duty, democratic-fatigue, attention]
 domain: phil
 links:
   flow:
-    - target: PHIL.TRANSITION.1
+    - target: PHIL.TRANSITION
       why: "Critics who accept the design responses to participation fatigue ask how you build these institutions from scratch within a system that actively discourages civic capacity."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The fatigue conversation resolves at the architecture holding the design responses: episodic assemblies, automated accountability, and safe defaults."
   premise:
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Both analyses rest on the same constraint: distributed systems must survive the tired, which makes participation design and capture resistance one problem."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "When participation design solutions are acknowledged as untested at civilizational scale, the debate deepens into which untested system carries the safer failure mode."
 aliases: ["people will get tired", "participation fatigue", "requires engagement forever", "species that wants to go home after work", "normal people have jobs", "must be nice to have the time", "I just want to go home after work", "most people don't care about politics", "endless meetings", "decision fatigue", "democracy is exhausting", "people burned out after occupy"]
 ---

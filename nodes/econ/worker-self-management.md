@@ -1,21 +1,21 @@
 ---
-coordinate: ECON.SELFMANAGEMENT.1
+coordinate: ECON.SELFMANAGEMENT
 tags: [self-management, syndicates, workplace-democracy, assemblies, delegates, socialization, nationalization]
 domain: econ
 links:
   flow:
-    - target: ECON.COOPERATIVE.1
+    - target: ECON.COOPERATIVE
       why: "The operational description of self-management needs empirical grounding in cooperative performance data to answer the critic's demand for evidence that democratic workplaces actually compete."
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "Critics who accept workplace democracy at the enterprise level ask how self-managed firms coordinate supply chains, standards, and resource allocation across an entire economy."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Workplace democracy resolves into the same connective architecture: inter-cooperative federation mirroring the political design."
   premise:
-    - target: ECON.COOPERATIVE.1
+    - target: ECON.COOPERATIVE
       why: "Workers can manage complex enterprises without bosses"
   escalation:
-    - target: ECON.PROPERTY.1
+    - target: ECON.PROPERTY
       why: "Self-management challenges not just workplace hierarchy but the underlying property relation that grants non-workers ownership of productive assets, deepening the debate from organizational design to ownership structure."
 aliases: ["how would your workplace actually work", "workers can't manage complex operations", "you need managers", "who makes decisions in your factory", "socialism means government runs everything", "who takes out the trash in your utopia", "someone has to make the hard calls", "designed by committee", "my coworkers can barely do their jobs", "what if nobody wants to do the gross work", "my boss actually knows more than me"]
 ---

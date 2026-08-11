@@ -30,7 +30,7 @@ test('record stamps monotonic offsets and appends JSONL', () => {
   now.advance(500);
   log.record({ type: 'search', query: 'x', matches: [] });
   now.advance(300);
-  log.record({ type: 'node_fetch', coordinate: 'RHET.BURDEN.1', revisit: false });
+  log.record({ type: 'node_fetch', coordinate: 'RHET.BURDEN', revisit: false });
   const lines = readFileSync(log.file, 'utf8').trim().split('\n').map(JSON.parse);
   assert.deepEqual(lines.map(l => l.t), [0, 500, 800]);
 });

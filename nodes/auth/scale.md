@@ -1,20 +1,20 @@
 ---
-coordinate: AUTH.SCALE.1
+coordinate: AUTH.SCALE
 tags: [scale, federation, coordination, polycentric, ostrom, complexity]
 domain: auth
 links:
   flow:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "Once the critic accepts federation can coordinate at scale, they challenge who enforces the rules when a powerful node defects from the federated compact."
-    - target: HIST.IMPLEMENTATION.1
+    - target: HIST.IMPLEMENTATION
       why: "Rojava provides a living test case of federated coordination under wartime pressure, directly addressing whether distributed governance can function beyond small-scale commons."
-    - target: ECON.COMMONS.1
+    - target: ECON.COMMONS
       why: "Scale coordination mechanisms apply to commons governance"
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The scale conversation resolves at the federation design: delegation with recall, subsidiarity, and coordination without a sovereign center."
   premise:
-    - target: HIST.DEPENDENCY.1
+    - target: HIST.DEPENDENCY
       why: "Mondragon demonstrates that federated worker-owned structures can operate at industrial scale with billions in revenue, though its state dependency raises questions about full autonomy."
 aliases: ["anarchism can't scale", "consensus doesn't work at scale", "you'd spend your life in meetings", "try that with 300 million people", "it only works in small groups", "who builds the roads", "who coordinates supply chains", "modern economies are too complex", "you need government for big projects", "cities can't run on assemblies", "someone has to be in charge", "consensus is impossible", "too many cooks / herding cats", "the UN can't even agree"]
 ---

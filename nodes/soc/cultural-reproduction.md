@@ -1,14 +1,14 @@
 ---
-coordinate: SOC.REPRODUCTION.1
+coordinate: SOC.REPRODUCTION
 tags: [education, culture, reproduction, conditioning, pedagogy, media, socialization, obedience]
 domain: soc
 links:
   redirect:
-    - target: SOC.OPPRESSION.1
+    - target: SOC.OPPRESSION
       why: "From the general conditioning machine to its specific payload: the identity categories and scapegoat reflexes the division mechanism needs."
-    - target: SOC.MEDIA.1
+    - target: SOC.MEDIA
       why: "When the conditioning conversation is about news and platforms rather than schooling, the propaganda-model machinery takes it."
-    - target: PHIL.PRAXIS.1
+    - target: PHIL.PRAXIS
       why: "After the manufactured-consent diagnosis, the exit is practice: resisting authority is the deconditioning, so the actionable node takes the handoff."
 recursion_point: true
 aliases: ["people choose hierarchy freely", "human nature proves hierarchy is necessary", "most people want to be led", "education prepares citizens for democracy", "culture naturally reflects human preferences", "school teaches you how to think", "kids need discipline", "homeschooling ruins socialization", "people watch what they want to watch", "nobody's forcing you to consume media", "that's just how school works", "unschooling is child neglect"]
@@ -22,7 +22,7 @@ Hierarchy reproduces itself through education, media, and socialization:
 authoritarian pedagogy produces citizens habituated to obedience, while the
 resulting deference is cited as evidence that hierarchy is natural or freely
 chosen. The system manufactures the consent it then points to as voluntary.
-This is the mechanism by which PHIL.NATURE.1's "human nature" argument is
+This is the mechanism by which PHIL.NATURE's "human nature" argument is
 industrially produced.
 
 ### The Schooling Machine
@@ -58,7 +58,7 @@ machine fits the factory.
 ### The Media Loop
 
 Media reinforces existing power arrangements through structural filters (see
-SOC.MEDIA.1 for the full propaganda model analysis). But beyond content
+SOC.MEDIA for the full propaganda model analysis). But beyond content
 filtering, media operates as a socialization technology: it normalizes
 hierarchy, individualizes systemic problems, and presents the existing order as
 the only possible arrangement.

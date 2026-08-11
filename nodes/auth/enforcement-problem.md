@@ -1,19 +1,19 @@
 ---
-coordinate: AUTH.ENFORCEMENT.1
+coordinate: AUTH.ENFORCEMENT
 tags: [enforcement, sunset-clause, coercion, split-command, accountability, mandate]
 domain: auth
 links:
   flow:
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "When the anarchist describes split-command architecture and dual-key logistics, the critic claims this is functionally a state with different branding."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Split command and dual-key logistics are federation plumbing; the enforcement answer lives inside the architecture rather than beside it."
   premise:
-    - target: AUTH.CHECKSBALANCES.1
+    - target: AUTH.CHECKSBALANCES
       why: "The enforcement machinery presupposes distributed counter-power: split command is checks and balances applied to coercive capacity itself."
   retreat:
-    - target: AUTH.EMERGENCY.1
+    - target: AUTH.EMERGENCY
       why: "Critics cornered on enforcement pivot to 'but what about emergencies?'"
 aliases: ["who enforces the sunset clause", "who removes the commander", "enforcement paradox", "quis custodiet", "who guards the guards", "paper rules can't stop a man with a gun"]
 ---

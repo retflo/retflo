@@ -1,24 +1,24 @@
 ---
-coordinate: AUTH.CHECKSBALANCES.1
+coordinate: AUTH.CHECKSBALANCES
 tags: [checks-balances, separation-of-powers, counter-power, institutions, inertia, friction]
 domain: auth
 links:
   flow:
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "When the anarchist describes distributed counter-power with auditable friction, the critic collapses the distinction by claiming any rule-enforcement system is just a state."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "Inertia discussion flows to the full inertia-vs-capture analysis"
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The checks conversation resolves at federation: the safety gear is kept and strengthened while the sovereign wearing it is removed."
   premise:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "Checks are only real if something enforces them; the split-command machinery turns institutional friction from a diagram into a constraint."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Pushed past institutional design, reaches whether inertia serves class interests"
   retreat:
-    - target: AUTH.EMERGENCY.1
+    - target: AUTH.EMERGENCY
       why: "Critics who concede that distributed counter-power can handle routine governance pivot to crisis scenarios where inertia becomes a liability and someone must act unilaterally."
 aliases: ["checks and balances already exist", "separation of powers", "friction is the point", "separation of powers works", "the courts will stop him", "the founders designed it this way"]
 ---

@@ -1,14 +1,14 @@
 ---
-coordinate: RHET.BURDEN.1
+coordinate: RHET.BURDEN
 tags: [burden-of-proof, justification, hierarchy, default, natural, imposed, enlightenment]
 domain: rhet
 links:
   redirect:
-    - target: RHET.CIRCULARREALISM.1
+    - target: RHET.CIRCULARREALISM
       why: "The prove-your-alternative demand treats the current arrangement as the tested baseline, which is the circular realism the burden flip exposes."
-    - target: PHIL.COERCION.1
+    - target: PHIL.COERCION
       why: "What actually bears the burden is the claim to compel, which the coercion analysis specifies."
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "When the burden flip meets your-system-enforces-rules-too, the definitional interception separates rules from statehood."
 recursion_point: true
 aliases: ["prove your system would work", "the burden is on you to show an alternative", "you're the one proposing change", "the current system works well enough", "if it ain't broke don't fix it", "you have to offer a full blueprint first", "extraordinary claims require extraordinary evidence", "Chesterton's fence"]
@@ -90,6 +90,6 @@ in exactly the opposite direction from what the critic intends.
 | "Prove your alternative works first" | Diagnosis precedes prescription. The current system causes documented harms: exploitation, ecological destruction, political capture, mass incarceration. The burden is on defenders to explain why those harms are acceptable, not on critics to present a fully specified alternative before the critique is heard. | **Fact** — concedes that alternatives should eventually be discussed — accepts the debate sequence matters, and diagnosis must precede prescription |
 | "The current system has been tested and it works" | "Works" for whom? By what metric? Mass incarceration, ecological collapse, wealth concentration, imperial violence — these are not side effects of a working system; they are the system working as designed. If "tested" means "exists," then every historical injustice was "tested." | **Fact** — concedes the system exists and persists — accepts the question is whether persistence demonstrates merit or merely demonstrates the difficulty of changing entrenched power |
 | "You're making the extraordinary claim" | The claim that concentrated power over other people is justified is the extraordinary claim. The claim that no one has the right to rule you without genuine consent is the premise every democratic society already accepts. The anarchist applies the existing premise consistently. | **Fact** — concedes that anarchism proposes structural change — accepts the debate is about which position is actually extraordinary, which reframes the burden |
-| "Pragmatism means accepting what works" | This is RHET.CIRCULARREALISM.1 — circular realism. "What works" is defined as "what currently exists," making the argument circular. Every structural improvement in history was dismissed as impractical by those benefiting from the existing arrangement. See that node for the full treatment. | **Frame** — concedes that pragmatism is a legitimate value — accepts the question is whether "pragmatism" is being used descriptively or as a thought-terminating cliche, which opens it to examination |
+| "Pragmatism means accepting what works" | This is RHET.CIRCULARREALISM — circular realism. "What works" is defined as "what currently exists," making the argument circular. Every structural improvement in history was dismissed as impractical by those benefiting from the existing arrangement. See that node for the full treatment. | **Frame** — concedes that pragmatism is a legitimate value — accepts the question is whether "pragmatism" is being used descriptively or as a thought-terminating cliche, which opens it to examination |
 | "Innocent until proven guilty applies to institutions too" | Institutions are not persons — they are power arrangements imposed on persons. The presumption of innocence protects individuals from institutional power. Extending it to institutions inverts the protection: it shields power from scrutiny rather than shielding people from power. The analogy runs backward. | **Frame** — concedes that some standard of evidence should apply — accepts the debate is about the direction of the presumption, which is a structural question about who is being protected from whom |
 | "The current system works well enough" | "Well enough" for whom? Not for the incarcerated, the uninsured, the indebted, the ecologically displaced, the globally exploited. "Well enough" is a statement of position — it means "well enough for me." Making that explicit is the first step toward honest evaluation. | **Fact** — concedes the system functions for some — accepts the question is about the distribution of costs and benefits, which requires examining who bears the costs |

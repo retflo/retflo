@@ -1,18 +1,18 @@
 ---
-coordinate: ECON.COOPERATIVE.1
+coordinate: ECON.COOPERATIVE
 tags: [cooperatives, calculation, self-management, productivity, mondragon, mises, efficiency, performance]
 domain: econ
 links:
   flow:
-    - target: ECON.MARKETS.1
+    - target: ECON.MARKETS
       why: "Cooperative performance data provides the existence proof that market coordination works without capitalist ownership, grounding the markets-versus-capitalism separation in empirical evidence."
-    - target: HIST.DEPENDENCY.1
+    - target: HIST.DEPENDENCY
       why: "Critics who accept cooperative performance pivot to arguing these examples only succeed because they operate within state-provided legal and financial frameworks."
   retreat:
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "When cooperative efficiency is conceded at the firm level, critics retreat to questioning whether democratic coordination can handle economy-wide complexity."
   premise:
-    - target: ECON.SELFMANAGEMENT.1
+    - target: ECON.SELFMANAGEMENT
       why: "Workers can manage complex enterprises without bosses"
 aliases: ["socialism can't calculate prices", "central planning always fails", "workers can't run businesses", "cooperatives are less efficient", "you need bosses for complex enterprises", "if co-ops were better there'd be more of them", "who allocates capital without markets", "Mises proved socialism can't work", "co-ops can't scale or raise money"]
 ---

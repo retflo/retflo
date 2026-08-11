@@ -1,20 +1,20 @@
 ---
-coordinate: ECON.IMPERIALISM.1
+coordinate: ECON.IMPERIALISM
 tags: [imperialism, expansion, military, intervention, surplus, foreign-policy, colonialism, neoliberalism]
 domain: econ
 links:
   flow:
-    - target: SOC.NATIONALISM.1
+    - target: SOC.NATIONALISM
       why: "Imperial expansion requires manufacturing domestic consent through nationalist identification so that workers support wars fought for their employers' profit margins."
   premise:
-    - target: ECON.MILITARY.1
+    - target: ECON.MILITARY
       why: "The imperial analysis rests on the military-Keynesian funding loop: the fleet that guards extraction abroad is financed as corporate welfare at home."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "When imperialism's economic logic is exposed, the argument deepens to the structural question of whether the state inherently serves capital's interests in its foreign policy, not just incidentally."
-    - target: HIST.ORIGINS.1
+    - target: HIST.ORIGINS
       why: "Contemporary imperialism extends the same state violence that created capitalism through colonial conquest and primitive accumulation, revealing a continuous pattern rather than separate phenomena."
-    - target: ECON.PROFIT.1
+    - target: ECON.PROFIT
       why: "Imperial surplus extraction is the international expression of domestic profit extraction, applying the same structural mechanism across borders when domestic markets cannot absorb overproduction."
 aliases: ["we need to protect our interests abroad", "military intervention is humanitarian", "free trade benefits everyone", "globalization reduces poverty", "America is the world's police", "they hate us for our freedom", "sweatshops are better than no jobs", "colonialism built their railroads", "why does the US topple governments"]
 ---

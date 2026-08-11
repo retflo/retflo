@@ -1,19 +1,19 @@
 ---
-coordinate: AUTH.EMERGENCY.1
+coordinate: AUTH.EMERGENCY
 tags: [emergency, crisis, ratchet, temporary-authority, sunset-clause, mobilization, patriot-act]
 domain: auth
 links:
   flow:
-    - target: AUTH.ENFORCEMENT.1
+    - target: AUTH.ENFORCEMENT
       why: "The critic's natural follow-up to bounded emergency authority is asking who actually enforces the sunset clause when the emergency commander refuses to step down."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Crisis authority resolves at federation as a built-in feature: scoped command that expires by default, publishes its actions, and requires affirmative renewal."
   premise:
-    - target: HIST.EMERGENCY.1
+    - target: HIST.EMERGENCY
       why: "The design argument rests on the historical ratchet record: the timer exists because temporary powers have almost never been returned voluntarily."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "When the ratchet problem is pushed past institutional design, it reaches the deeper question of which system's failure mode is more survivable -- concentrated or distributed."
 aliases: ["emergency powers ratchet", "PATRIOT Act was temporary", "who acts in a crisis", "decisive action", "COVID proved you need central authority", "war doesn't wait for a vote", "9/11 changed everything"]
 ---

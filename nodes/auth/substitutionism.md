@@ -1,18 +1,18 @@
 ---
-coordinate: AUTH.VANGUARD.1
+coordinate: AUTH.VANGUARD
 tags: [vanguardism, substitutionism, leninist, party, democratic-centralism, cascade, bureaucracy, bolshevik]
 domain: auth
 links:
   flow:
-    - target: HIST.STATESOCIALISM.1
+    - target: HIST.STATESOCIALISM
       why: "The substitutionism cascade's theoretical prediction is validated by the full historical record of Leninist states, where every instance reproduced the same bureaucratic centralism."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The organization question resolves at federation: discipline and coordination built with recall, mandate, and rotation so the deciding group cannot shrink."
   escalation:
-    - target: PHIL.PREFIGURATIVE.1
+    - target: PHIL.PREFIGURATIVE
       why: "The vanguard critique deepens into the principle that organizational form prefigures political outcome -- a hierarchical revolution cannot produce a non-hierarchical society."
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "The substitutionism cascade reveals that the vanguard party becomes a new ruling class, connecting to the broader analysis of how state structures serve class interests regardless of stated ideology."
 aliases: ["the revolution needs a party", "democratic centralism works", "workers need leadership", "the party represents the class", "Lenin proved it works", "we need organization to win", "anarchists lose because they lack discipline", "the USSR industrialized fast", "read Lenin", "tankie discourse"]
 ---

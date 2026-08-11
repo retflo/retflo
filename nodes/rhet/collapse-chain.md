@@ -1,15 +1,15 @@
 ---
-coordinate: RHET.COLLAPSE.1
+coordinate: RHET.COLLAPSE
 tags: [framing, narrowing-chain, frame-capture, category-expansion, concessions, taxonomy, absorption]
 domain: rhet
 links:
   flow:
-    - target: AUTH.FINALITY.1
+    - target: AUTH.FINALITY
       why: "The chain's anchor concession is the finality kernel — engage it there at full strength, then return here when the critic tries to cash the concession as a position surrender."
   redirect:
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "The chain's frame steps are the relabeling move in sequence form, and the interception applies mid-chain."
-    - target: RHET.BOOMERANG.1
+    - target: RHET.BOOMERANG
       why: "The chain's endgame relabel meets the consistency test: a category that absorbs every position describes nothing."
 recursion_point: true
 aliases: ["so you're basically a liberal now", "you've conceded the whole debate", "we've arrived at a wealth tax debate", "welcome to constitutional politics", "your position has collapsed into mine", "so we agree, you just want better policy", "you're describing social democracy", "we're not so different, you and I"]

@@ -1,16 +1,16 @@
 ---
-coordinate: ECON.MILITARY.1
+coordinate: ECON.MILITARY
 tags: [military, keynesianism, corporate-welfare, defense-spending, industrial-policy, pentagon, subsidy]
 domain: econ
 links:
   flow:
-    - target: AUTH.DEFENSE.1
+    - target: AUTH.DEFENSE
       why: "Exposing the Pentagon system as corporate welfare reframes the defense debate: the critic must defend not just military necessity but the specific channeling of public investment through weapons programs rather than civilian infrastructure."
   premise:
-    - target: ECON.IMPERIALISM.1
+    - target: ECON.IMPERIALISM
       why: "The domestic funding loop presupposes the imperial system it finances: overproduction seeking foreign outlets is what the fleet exists to secure."
   escalation:
-    - target: AUTH.CLASS.1
+    - target: AUTH.CLASS
       why: "Military Keynesianism reveals the state choosing corporate welfare over social spending not by accident but by structural design, deepening the argument that the state functions as a class instrument."
 aliases: ["defense spending creates jobs", "we need a strong military", "military spending drives innovation", "the military protects our freedom", "the military is the biggest socialist program", "defense contractors are a scam", "why does the Pentagon fail every audit"]
 ---
@@ -27,7 +27,7 @@ The military and its domestic extensions (National Guard, militarized police, in
 
 ### Function Two: External Expansion
 
-The military secures foreign markets and resources for corporate interests, providing the enforcement arm for the imperial dynamics described in ECON.IMPERIALISM.1. From the Marine Corps' own Major General Smedley Butler — "I was a racketeer, a gangster for capitalism" — to the transparent connection between Gulf War interventions and petroleum access, the military functions as a global enforcement mechanism for capital. US military bases in over 80 countries are not defensive positions; they are the infrastructure of economic dominance.
+The military secures foreign markets and resources for corporate interests, providing the enforcement arm for the imperial dynamics described in ECON.IMPERIALISM. From the Marine Corps' own Major General Smedley Butler — "I was a racketeer, a gangster for capitalism" — to the transparent connection between Gulf War interventions and petroleum access, the military functions as a global enforcement mechanism for capital. US military bases in over 80 countries are not defensive positions; they are the infrastructure of economic dominance.
 
 ### Function Three: Covert Industrial Policy
 

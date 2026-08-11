@@ -1,16 +1,16 @@
 ---
-coordinate: PHIL.FAILUREMODES.1
+coordinate: PHIL.FAILUREMODES
 tags: [failure-modes, wager, risk, tyranny, collapse, blast-radius, correction-dynamics]
 domain: phil
 links:
   redirect:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Once the wager lands, the design that embodies the survivable failure mode is waiting."
-    - target: AUTH.LOCALTYRANNY.1
+    - target: AUTH.LOCALTYRANNY
       why: "For the distributed side's crash examined honestly, the captured-town case holds the details and the costs."
-    - target: AUTH.EMERGENCY.1
+    - target: AUTH.EMERGENCY
       why: "For the sharpest sub-case of the wager, crisis authority, the bounded emergency design holds the answer."
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "For the concentrated side's crash examined honestly, the reform gamble's erosion record holds the receipts."
 recursion_point: true
 aliases: ["which failure mode", "tyranny vs collapse", "the wager", "risk preference", "better the devil you know", "at least our system is tested"]

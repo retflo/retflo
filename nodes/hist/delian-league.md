@@ -1,16 +1,16 @@
 ---
-coordinate: HIST.DELIANLEAGUE.1
+coordinate: HIST.DELIANLEAGUE
 tags: [delian-league, athens, alliance, empire, consolidation, nato]
 domain: hist
 links:
   flow:
-    - target: AUTH.INERTIA.1
+    - target: AUTH.INERTIA
       why: "The Delian League pattern — alliance hardens into empire once one member outgrows collective discipline — is the historical case study for how institutional inertia enables consolidation."
   resolution:
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "The alliance-to-empire pattern resolves at the design: accumulation limits, anti-consolidation rules, and conditional interdependence are the anti-Athens engineering."
   escalation:
-    - target: PHIL.FAILUREMODES.1
+    - target: PHIL.FAILUREMODES
       why: "Consolidation problem pushed past design reaches the failure modes wager"
 aliases: ["delian league became athenian empire", "alliances produce empires", "NATO is really an empire"]
 ---

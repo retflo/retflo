@@ -1,24 +1,24 @@
 ---
-coordinate: AUTH.FINALITY.1
+coordinate: AUTH.FINALITY
 tags: [sovereignty, finality, last-word, hobbes, weber, tilly, nozick, kernel, regress, arbiter]
 domain: auth
 links:
   flow:
-    - target: RHET.COLLAPSE.1
+    - target: RHET.COLLAPSE
       why: "The kernel concession is the first link in the narrowing chain — the critic's next move is 'so you're a constitutional liberal,' which must be intercepted as frame capture."
-    - target: AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION
       why: "Domain-scoped finality is the engineering answer to the regress — finality where it matters without a single apex that can rewrite everything."
-    - target: PHIL.DOMINANCE.1
+    - target: PHIL.DOMINANCE
       why: "Collective, undelegated finality is the oldest form of the last word — the anti-dominance coalition holds it without a sovereign delegate."
   redirect:
-    - target: RHET.REINVENT.1
+    - target: RHET.REINVENT
       why: "When conceding the kernel gets converted into conceding the state, the four-feature definition separates a scoped last word from a sovereign machine."
-    - target: RHET.SURVIVAL.1
+    - target: RHET.SURVIVAL
       why: "When the rackets-that-won observation gets read as rackets-were-right, the survival-test circularity check keeps the concession scoped to capacity rather than verdicts."
   escalation:
-    - target: AUTH.SCALE.1
+    - target: AUTH.SCALE
       why: "Once the kernel is scoped, the remaining dispute is empirical: how small can it get at what scale of strangers?"
-    - target: HIST.EMERGENCY.1
+    - target: HIST.EMERGENCY
       why: "The kernel's capacity ratchets upward through crises even as its insulation falls — the two trends must be argued together or a prepared critic will play them against each other."
 recursion_point: true
 aliases: ["someone has to have the final say", "the buck stops somewhere", "who decides when arbiters disagree", "a sovereign center is unavoidable", "nozick proved the minimal state emerges from anarchy", "who watches the watchmen", "turtles all the way down", "someone signs the death warrant"]
