@@ -10,11 +10,13 @@ links:
       why: "The violence-decline narrative's strongest residual claim is that centralized military capacity deters inter-group violence in ways distributed systems cannot replicate."
     - target: HIST.INTERVENTION.1
       why: "Violence-decline and benevolent-intervention narratives both credit centralized authority through statistical attribution"
-  resolution: [AUTH.FEDERATION.1]
-  escalation:
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The violence debate resolves at the design: keeping the documented decline in everyday violence without the wars, camps, and police states in the sovereign's own ledger."
+  retreat:
     - target: PHIL.NATURE.1
       why: "When the statistical attribution is contested, critics retreat to the premise that humans are inherently violent and only centralized authority suppresses this nature."
-aliases: ["states reduced violence", "per-capita violence was higher before states", "civilization reduced war deaths", "better angels"]
+aliases: ["states reduced violence", "per-capita violence was higher before states", "civilization reduced war deaths", "better angels", "Pinker / Better Angels", "Hobbes was right, life was nasty brutish and short"]
 ---
 
 # The Violence-Decline Narrative

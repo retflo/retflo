@@ -6,16 +6,15 @@ links:
   flow:
     - target: HIST.STATESOCIALISM.1
       why: "The substitutionism cascade's theoretical prediction is validated by the full historical record of Leninist states, where every instance reproduced the same bureaucratic centralism."
-  resolution: [AUTH.FEDERATION.1]
-  premise:
-    - target: HIST.STATESOCIALISM.1
-      why: "Organizational form determines political outcome"
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The organization question resolves at federation: discipline and coordination built with recall, mandate, and rotation so the deciding group cannot shrink."
   escalation:
     - target: PHIL.PREFIGURATIVE.1
       why: "The vanguard critique deepens into the principle that organizational form prefigures political outcome -- a hierarchical revolution cannot produce a non-hierarchical society."
     - target: AUTH.CLASS.1
       why: "The substitutionism cascade reveals that the vanguard party becomes a new ruling class, connecting to the broader analysis of how state structures serve class interests regardless of stated ideology."
-aliases: ["the revolution needs a party", "democratic centralism works", "workers need leadership", "the party represents the class", "Lenin proved it works"]
+aliases: ["the revolution needs a party", "democratic centralism works", "workers need leadership", "the party represents the class", "Lenin proved it works", "we need organization to win", "anarchists lose because they lack discipline", "the USSR industrialized fast", "read Lenin", "tankie discourse"]
 ---
 
 # The Substitutionism Cascade: Why Vanguardism Produces Tyranny

@@ -3,9 +3,15 @@ coordinate: ECON.PROPERTY.1
 tags: [property, possession, proudhon, personal-property, productive-property, conflation, ownership]
 domain: econ
 links:
-  redirect: [PHIL.COERCION.1, ECON.EXIT.1, RHET.REINVENT.1]
+  redirect:
+    - target: PHIL.COERCION.1
+      why: "When the critic asks who enforces the possession line without police, the bounded escalation ladder answers."
+    - target: ECON.EXIT.1
+      why: "When property arrangements are defended with just-leave, the exit analysis measures what leaving actually costs."
+    - target: RHET.REINVENT.1
+      why: "When enforcing any ownership line is equated with rebuilding the state, the four-feature definition intercepts the collapse."
 recursion_point: true
-aliases: ["anarchists want to take your stuff", "private property is a right", "what about my house", "property is freedom", "who decides what's personal vs. private"]
+aliases: ["anarchists want to take your stuff", "private property is a right", "what about my house", "property is freedom", "who decides what's personal vs. private", "anarchists want to take your toothbrush", "so I can't own anything?", "communists want to take my house", "keep your hands off my stuff", "I worked for what I have", "my home is my castle", "would you share your toothbrush", "where's the line? my lawnmower?", "can I own two houses?", "what about my small business", "what about family farms", "my 401k makes me a capitalist", "temporarily embarrassed millionaires", "property is theft contradicts itself", "abolish private property", "seize the means of production", "renting my spare room makes me a landlord?", "if I build it, it's mine", "my kids deserve what I earned", "property rights are human rights", "what happens to my house under anarchism", "do anarchists believe in ownership at all"]
 ---
 
 # The Property-Possession Distinction
@@ -40,3 +46,4 @@ The conflation serves a precise ideological function: it recruits everyone who o
 | "What about inheritance — my parents worked for what they left me" | Inheritance of personal property (the family home, savings) is different from inheritance of productive capital that commands others' labor. No one objects to inheriting your mother's house. The question is whether inheriting a factory entitles you to govern workers who had no part in building it. Aristocracy is just inheritance without a merit narrative. | **Fact** — accepts that inheritance raises legitimate questions about earned vs. unearned claims — concedes that pure inheritance of power is harder to justify than inheritance of personal goods |
 | "Without strong property rights there's no investment or growth" | Property rights for personal possessions can be absolute. The question is whether property rights over productive assets should include the right to extract surplus from others' labor indefinitely. Worker-owned enterprises invest, grow, and innovate — they just distribute returns differently. "Investment requires exploitation" is the claim, and it is empirically false. | **Fact** — concedes that investment and growth are desirable — accepts the debate is about the structure of ownership, not whether productive activity should occur |
 | "The government would decide what you can own" | Under the current system, the government already decides — through corporate law, tax policy, subsidy, zoning, and the entire legal apparatus that constructs and enforces property relations. The alternative is not "government decides" vs. "freedom" — it's "which institutional arrangement, designed by whom, enforcing whose interests." The anarchist position removes the state from the equation entirely. | **Fact** — accepts that institutional enforcement of property rules is unavoidable — concedes the question is about design, not the absence of rules |
+| "'Property is theft' contradicts itself: theft presupposes property" | Proudhon answered this in the same book that coined the slogan. Stated precisely: property (absentee title enforced by the state) violates possession (the older, universal norm of use and occupancy). Theft presupposes possession, not paper title. A system that evicts occupants on behalf of absent claimants takes what people hold by use. Calling that taking "theft" is polemic, but the charge underneath is coherent: title against use is a taking, judged by the very norm that makes the word "theft" intelligible. | **Frame** — concedes the slogan is polemical shorthand, accepts restating it precisely as title-versus-possession while insisting the precise version keeps its force |

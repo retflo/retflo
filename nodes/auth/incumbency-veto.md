@@ -17,7 +17,7 @@ links:
       why: "Incumbency-driven housing scarcity connects to the four monopolies framework, where land monopoly enables extraction through artificial scarcity enforced by zoning."
     - target: PHIL.VOLUNTARISM.1
       why: "Incumbents who frame exclusion as democratic choice expose the voluntary servitude dynamic, where those excluded 'consent' to a system structurally rigged against their participation."
-aliases: ["neighborhood character", "local control", "residents should have a say", "self-governance means we decide", "outsiders want to change our community"]
+aliases: ["neighborhood character", "local control", "residents should have a say", "self-governance means we decide", "outsiders want to change our community", "NIMBY / YIMBY discourse", "they're changing the character of the neighborhood", "developers are the real villains", "we support housing, just not THIS project", "parking will be impossible"]
 ---
 
 # The Incumbency Veto: Self-Governance as Exclusion

@@ -16,7 +16,7 @@ links:
       why: "When the critic concedes communal management works, the debate deepens to whether the property-possession distinction justifies treating productive assets differently from personal possessions."
     - target: ECON.ECOLOGY.1
       why: "Successful commons management sharpens the ecological question: if communal governance outperforms privatization for shared resources, the growth imperative rather than ownership form becomes the core ecological threat."
-aliases: ["tragedy of the commons", "communal ownership means nobody cares", "without private property resources are wasted", "privatization protects resources"]
+aliases: ["tragedy of the commons", "communal ownership means nobody cares", "without private property resources are wasted", "privatization protects resources", "nobody washes a rental car", "public bathrooms prove communal fails"]
 ---
 
 # Commons Management: The Tragedy That Wasn't

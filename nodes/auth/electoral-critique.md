@@ -21,7 +21,7 @@ links:
   retreat:
     - target: AUTH.VANGUARD.1
       why: "Left critics who accept the electoral critique sometimes pivot to arguing a disciplined party can seize the state apparatus and redirect it, reproducing the centralization problem."
-aliases: ["just vote", "work within the system", "elect better representatives", "democracy means voting", "if you don't vote you can't complain"]
+aliases: ["just vote", "work within the system", "elect better representatives", "democracy means voting", "if you don't vote you can't complain", "this is the most important election of our lifetime", "vote blue no matter who", "not voting is a vote for the bad guy", "change the party from within", "we just need better candidates", "Bernie would have won", "what about Scandinavia", "local elections are winnable", "harm reduction voting", "you're privileged enough not to care about elections", "abstention is apathy"]
 ---
 
 # The Electoral Critique: Three Structural Walls

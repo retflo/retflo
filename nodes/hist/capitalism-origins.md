@@ -3,9 +3,11 @@ coordinate: HIST.ORIGINS.1
 tags: [enclosure, colonialism, primitive-accumulation, property-origins, state-violence, dispossession, proletarianization]
 domain: hist
 links:
-  redirect: [HIST.DEPENDENCY.1]
+  redirect:
+    - target: HIST.DEPENDENCY.1
+      why: "When the violent origin is dismissed as ancient history, the dependency analysis answers: the same framework still enforces the distribution the violence created."
 recursion_point: true
-aliases: ["capitalism developed naturally", "markets created prosperity", "property rights evolved organically", "primitive accumulation is ancient history"]
+aliases: ["capitalism developed naturally", "markets created prosperity", "property rights evolved organically", "primitive accumulation is ancient history", "capitalism lifted billions out of poverty", "capitalism is just human nature plus freedom", "wealth was earned generation by generation", "colonialism was bad but that's over"]
 ---
 
 # The Historical Origins of Capitalism: State Violence, Not Organic Markets

@@ -6,7 +6,9 @@ links:
   flow:
     - target: AUTH.ENFORCEMENT.1
       why: "Once the critic accepts federated defense is conceptually possible, they ask who enforces the sunset clause that prevents wartime command from becoming permanent sovereignty."
-  resolution: [AUTH.FEDERATION.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "Defense resolves inside the architecture: bounded force under civilian recall is one of federation's four features, not an exception to them."
   premise:
     - target: HIST.IMPLEMENTATION.1
       why: "Rojava's YPG/YPJ demonstrates federated military coordination with rotating command and civilian oversight under active wartime conditions."
@@ -15,7 +17,7 @@ links:
       why: "Critics who accept decentralized defense is possible retreat to arguing it requires a disciplined vanguard party to organize, reintroducing centralized command through the back door."
     - target: AUTH.EMERGENCY.1
       why: "The defense debate naturally escalates to crisis scenarios where the critic argues only standing sovereign authority can respond fast enough to existential threats."
-aliases: ["your system can't defend itself", "who defends against invasion", "external military threat", "centralization built civilization"]
+aliases: ["your system can't defend itself", "who defends against invasion", "external military threat", "centralization built civilization", "China would invade you in a week", "war needs a chain of command", "you can't fight a war by committee", "peace through strength"]
 ---
 
 # Defense and Security Without a Standing Sovereign

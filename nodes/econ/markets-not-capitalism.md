@@ -6,9 +6,6 @@ links:
   flow:
     - target: HIST.DEPENDENCY.1
       why: "Critics who concede markets and capitalism are separable in theory pivot to arguing that real-world cooperative market examples depend on state-provided legal and financial infrastructure."
-  premise:
-    - target: ECON.COOPERATIVE.1
-      why: "Market coordination is separable from capitalist ownership"
   escalation:
     - target: ECON.PROPERTY.1
       why: "Once markets and capitalism are separated, the debate deepens to the precise ownership distinction: what kinds of property claims are compatible with free exchange and which require state enforcement to sustain."
@@ -16,7 +13,7 @@ links:
       why: "Accepting that markets can exist without capitalism sharpens the question of what specifically about profit extraction is structural rather than a natural market outcome."
     - target: ECON.ECOLOGY.1
       why: "Even cooperative market economies face the growth imperative from competitive pressure, raising whether markets themselves rather than just capitalist ownership drive ecological destruction."
-aliases: ["socialism means no markets", "you can't have markets without capitalism", "free markets are capitalism", "what's the alternative to capitalism, central planning?"]
+aliases: ["socialism means no markets", "you can't have markets without capitalism", "free markets are capitalism", "what's the alternative to capitalism, central planning?", "socialists hate markets", "capitalism is freedom to trade", "the market decides", "supply and demand is natural law", "commerce requires capitalism", "what's the alternative, breadlines?", "planned economies starve people", "who will make the iPhones", "competition breeds excellence"]
 ---
 
 # Markets vs. Capitalism: The Separability Argument

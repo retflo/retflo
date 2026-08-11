@@ -6,12 +6,16 @@ links:
   flow:
     - target: AUTH.ENFORCEMENT.1
       why: "The critic's natural follow-up to bounded emergency authority is asking who actually enforces the sunset clause when the emergency commander refuses to step down."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [HIST.EMERGENCY.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "Crisis authority resolves at federation as a built-in feature: scoped command that expires by default, publishes its actions, and requires affirmative renewal."
+  premise:
+    - target: HIST.EMERGENCY.1
+      why: "The design argument rests on the historical ratchet record: the timer exists because temporary powers have almost never been returned voluntarily."
   escalation:
     - target: PHIL.FAILUREMODES.1
       why: "When the ratchet problem is pushed past institutional design, it reaches the deeper question of which system's failure mode is more survivable -- concentrated or distributed."
-aliases: ["emergency powers ratchet", "PATRIOT Act was temporary", "who acts in a crisis", "decisive action"]
+aliases: ["emergency powers ratchet", "PATRIOT Act was temporary", "who acts in a crisis", "decisive action", "COVID proved you need central authority", "war doesn't wait for a vote", "9/11 changed everything"]
 ---
 
 # Emergency Powers and the Ratchet Problem

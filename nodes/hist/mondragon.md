@@ -12,9 +12,13 @@ links:
       why: "The 'free markets work without state intervention' objection triggers the capitalism-origins counter showing laissez-faire was always selective, demanded only after state violence created the property distribution."
     - target: HIST.DELIANLEAGUE.1
       why: "Mondragon's federated cooperative structure faces the same consolidation risk as any alliance — one dominant unit accumulating enough independent power to defy collective governance."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [AUTH.SCALE.1]
-aliases: ["it only works because of the state", "cooperatives inside a state", "uses state law", "wouldn't exist without the state"]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The dependency argument resolves at what would replace the wrapper: federation supplying the legal and coordination functions states currently monopolize."
+  premise:
+    - target: AUTH.SCALE.1
+      why: "The gravity answer rests on the scale case: Mondragon proves federated structures operate at industrial scale, whatever framework surrounds them."
+aliases: ["it only works because of the state", "cooperatives inside a state", "uses state law", "wouldn't exist without the state", "you criticize capitalism yet you participate in it", "Mondragon still uses Spanish courts", "co-ops still pay taxes", "you use roads and schools"]
 ---
 
 # The State Dependency Argument

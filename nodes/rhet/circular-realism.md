@@ -21,7 +21,7 @@ links:
   escalation:
     - target: PHIL.FAILUREMODES.1
       why: "When circular realism is exposed and the critic accepts that both systems are untested wagers, the debate deepens into which system's failure mode is structurally safer."
-aliases: ["be realistic", "that's not practical", "in the real world", "stop being idealistic"]
+aliases: ["be realistic", "that's not practical", "in the real world", "stop being idealistic", "grow up", "that's a nice dream", "come back to earth", "when you're older you'll understand", "it's never worked because it can't work", "if it were possible someone would have done it"]
 ---
 
 # Circular Realism: "Be Practical"

@@ -13,7 +13,7 @@ links:
       why: "When false equivalence is exposed, the argument deepens to who bears the burden of proof — the system producing documented asymmetric harms, or the critic naming those harms."
     - target: AUTH.CLASS.1
       why: "The structural function of false neutrality — serving whoever holds more power by discouraging engagement — deepens into the analysis of the state as the institutional vehicle through which that concentrated power operates."
-aliases: ["both sides are the same", "both sides are cringe", "I'm not left or right", "extremes on both sides", "the truth is in the middle"]
+aliases: ["both sides are the same", "both sides are cringe", "I'm not left or right", "extremes on both sides", "the truth is in the middle", "I don't do politics", "politicians are all crooks", "horseshoe theory", "the far left is just as bad as the far right", "I just want everyone to get along", "enlightened centrist"]
 ---
 
 # False Equivalence: The Both-Sides Gambit

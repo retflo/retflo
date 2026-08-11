@@ -6,11 +6,13 @@ links:
   flow:
     - target: AUTH.DEFENSE.1
       why: "Critics use state collapse cases to argue that without centralized military authority, armed factions inevitably dominate — making defense the residual claim after the 'anarchy = chaos' conflation is exposed."
-  resolution: [AUTH.FEDERATION.1]
-  escalation:
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The warlord cases resolve at the design: organized federated capacity is precisely what a power vacuum lacks."
+  retreat:
     - target: PHIL.NATURE.1
       why: "When the distinction between violent regime breakdown and bottom-up self-organization is established, critics retreat to asserting that warlordism proves humans naturally dominate without a sovereign."
-aliases: ["somalia proves anarchy fails", "libya", "power vacuum", "warlords"]
+aliases: ["somalia proves anarchy fails", "libya", "power vacuum", "warlords", "Mad Max", "look at Haiti"]
 ---
 
 # State Collapse: Somalia, Libya, and the Warlord Argument

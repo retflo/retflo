@@ -3,9 +3,15 @@ coordinate: ECON.INEQUALITYRATCHET.1
 tags: [inequality, ratchet, concentration, feedback-loop, piketty, centralization, oligarchy, wealth]
 domain: econ
 links:
-  redirect: [AUTH.INERTIA.1, ECON.SERIALCAPTURE.1, ECON.HOUSING.1]
+  redirect:
+    - target: AUTH.INERTIA.1
+      why: "The ratchet explains the reform record: purchased rules plus institutional drag preserve each turn of concentration against reversal."
+    - target: ECON.SERIALCAPTURE.1
+      why: "The wealth-buys-influence phase hands off to the serial-capture file for its documentary detail."
+    - target: ECON.HOUSING.1
+      why: "For the ratchet's most visible everyday case, housing holds the loop as lived: scarcity inflating values that fund the defense of scarcity."
 recursion_point: true
-aliases: ["some inequality is natural", "growth lifts all boats", "inequality drives innovation", "the rich earned their wealth"]
+aliases: ["some inequality is natural", "growth lifts all boats", "inequality drives innovation", "the rich earned their wealth", "billionaires shouldn't exist", "wealth gap keeps growing, why", "a rising tide lifts all boats", "trickle-down economics", "envy politics / politics of resentment"]
 ---
 
 # The Inequality Ratchet: Self-Reinforcing Concentration

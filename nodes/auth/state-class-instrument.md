@@ -4,14 +4,18 @@ tags: [state, class, instrument, ruling-class, neutrality, enforcement, prioriti
 domain: auth
 links:
   redirect:
-    - AUTH.FEDERATION.1
-    - AUTH.INERTIA.1
-    - ECON.SERIALCAPTURE.1
-    - HIST.INTERVENTION.1
+    - target: AUTH.FEDERATION.1
+      why: "Once the class-instrument analysis lands, the constructive question of what governs without a guard to hire hands off to the federation design."
+    - target: AUTH.INERTIA.1
+      why: "For critics who accept capture but not built-for-it, the softer inertia-vs-capture analysis carries the argument without requiring the stronger premise."
+    - target: ECON.SERIALCAPTURE.1
+      why: "When the class claim needs documentary evidence of purchase, the serial-capture case file holds the receipts."
+    - target: HIST.INTERVENTION.1
+      why: "The federal-troops-saved-the-day counterexample hands off to the full intervention cycle: tolerate, concede under pressure, repurpose the machinery."
     - target: ECON.PROPERTY.1
       why: "After proving the state protects property arrangements, the property-possession distinction provides the constructive analysis"
 recursion_point: true
-aliases: ["the state protects everyone equally", "government is neutral", "democratic government represents the people", "the law applies to everyone the same"]
+aliases: ["the state protects everyone equally", "government is neutral", "democratic government represents the people", "the law applies to everyone the same", "the law applies equally to everyone", "we're a nation of laws", "the government protects the little guy", "just get money out of politics", "deep state", "why do cops protect empty buildings and not people"]
 ---
 
 # The State as Class Instrument

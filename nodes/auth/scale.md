@@ -10,11 +10,13 @@ links:
       why: "Rojava provides a living test case of federated coordination under wartime pressure, directly addressing whether distributed governance can function beyond small-scale commons."
     - target: ECON.COMMONS.1
       why: "Scale coordination mechanisms apply to commons governance"
-  resolution: [AUTH.FEDERATION.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The scale conversation resolves at the federation design: delegation with recall, subsidiarity, and coordination without a sovereign center."
   premise:
     - target: HIST.DEPENDENCY.1
       why: "Mondragon demonstrates that federated worker-owned structures can operate at industrial scale with billions in revenue, though its state dependency raises questions about full autonomy."
-aliases: ["anarchism can't scale", "consensus doesn't work at scale", "you'd spend your life in meetings"]
+aliases: ["anarchism can't scale", "consensus doesn't work at scale", "you'd spend your life in meetings", "try that with 300 million people", "it only works in small groups", "who builds the roads", "who coordinates supply chains", "modern economies are too complex", "you need government for big projects", "cities can't run on assemblies", "someone has to be in charge", "consensus is impossible", "too many cooks / herding cats", "the UN can't even agree"]
 ---
 
 # Scale: Federation as Coordination Mechanism

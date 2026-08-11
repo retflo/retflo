@@ -3,12 +3,16 @@ coordinate: HIST.EMERGENCY.1
 tags: [emergency-powers, ratchet, patriot-act, caesar, rubicon, internment, church-committee]
 domain: hist
 links:
-  resolution: [AUTH.FEDERATION.1]
-  premise: [AUTH.EMERGENCY.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The ratchet record resolves at the design built from it: authority that expires by default and publishes everything."
+  premise:
+    - target: AUTH.EMERGENCY.1
+      why: "The historical file grounds the emergency design: each failed clawback is a specification the bounded model answers."
   escalation:
     - target: PHIL.FAILUREMODES.1
       why: "The emergency ratchet is the strongest historical evidence that concentrated power's failure mode — irreversible capture through crisis accumulation — is structurally amplified by design."
-aliases: ["temporary powers become permanent", "emergency ratchet history", "patriot act"]
+aliases: ["temporary powers become permanent", "emergency ratchet history", "patriot act", "the PATRIOT Act is still here", "Rome's dictators / crossing the Rubicon"]
 ---
 
 # The Emergency Powers Ratchet: Historical Evidence

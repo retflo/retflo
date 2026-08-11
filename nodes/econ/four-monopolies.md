@@ -3,9 +3,18 @@ coordinate: ECON.MONOPOLY.1
 tags: [monopoly, tucker, individualist-anarchism, land, money, tariffs, patents, state-privilege]
 domain: econ
 links:
-  redirect: [ECON.MARKETS.1, RHET.BOOMERANG.1, ECON.HOUSING.1]
+  redirect:
+    - target: ECON.MARKETS.1
+      why: "When the critic asks what remains after the rigging is removed, the markets-versus-capitalism separation answers: markets survive, capitalism does not."
+    - target: RHET.BOOMERANG.1
+      why: "When the fight turns definitional, the consistency test takes over: applied evenly, the critic's own free-market definitions indict the monopolies."
+    - target: ECON.HOUSING.1
+      why: "For the land monopoly made concrete, housing shows the rigging operating in every growing city's rent."
+  escalation:
+    - target: ECON.PROPERTY.1
+      why: "Once the four monopolies are established, the argument deepens to the ownership line itself: occupancy-and-use versus absentee title is the property-possession distinction stated in Tucker's terms."
 recursion_point: true
-aliases: ["free markets are capitalism", "anarchism is compatible with capitalism", "remove the state and capitalism thrives", "property rights are natural"]
+aliases: ["remove the state and capitalism thrives", "property rights are natural", "crony capitalism isn't real capitalism", "we've never had real capitalism", "get government out of the way and markets fix it", "capitalism is just voluntary exchange", "regulation is the problem, not capitalism", "landlords provide housing", "landlords take on risk", "being a landlord is work", "don't like rent? buy a house", "interest is the price of risk", "banks provide a service", "the Fed prints money", "crypto fixes this", "without patents nobody would invent", "drug prices fund research", "IP is property like any other", "piracy is theft", "they earned their patent", "tariffs protect jobs", "free trade deals ARE free markets", "why do we bail out industries", "occupational licensing keeps us safe", "patents protect the little-guy inventor"]
 ---
 
 # The Four Monopolies: Capitalism as State-Enforced Privilege

@@ -8,11 +8,10 @@ links:
       why: "Equalization mechanisms address the class-sorting problem that makes exit a privilege rather than a right, closing the loop on whether distributed governance can avoid reproducing wealth hierarchies."
     - target: AUTH.LOCALTYRANNY.1
       why: "Without equalization, resource-starved jurisdictions lack the capacity to resist local capture or provide alternatives, making regional inequality a precondition for majoritarian lock-in."
-  resolution: [AUTH.FEDERATION.1]
-  premise:
-    - target: ECON.EXIT.1
-      why: "Exit rights require material equality to function"
-aliases: ["how do you equalize resources", "rich regions vs poor regions", "fiscal federalism"]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "Equalization resolves into federation compacts: formula-based sharing as a condition of shared systems, with no central redistributor to capture."
+aliases: ["how do you equalize resources", "rich regions vs poor regions", "fiscal federalism", "why would rich regions ever share", "redistribution needs a central government"]
 ---
 
 # Resource Equalization Without Central Redistribution

@@ -8,14 +8,16 @@ links:
       why: "Critics who defend institutional reform argue the existing checks-and-balances architecture provides the friction needed to prevent capture, which the inertia analysis directly challenges."
     - target: AUTH.INCUMBENCY.1
       why: "The reform gamble's cycle of crisis-reform-erosion manifests concretely in local governance where institutional inertia protects incumbent advantages against democratic pressure."
-  resolution: [AUTH.FEDERATION.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The reform-versus-abolish fight resolves at a third option: an architecture whose failures stay local and recoverable instead of compounding toward capture."
   premise:
     - target: PHIL.PARTICIPATION.1
       why: "Both nodes share the foundational tension that distributed systems require sustained civic engagement, making participation fatigue the central design constraint."
   escalation:
     - target: AUTH.CLASS.1
       why: "'CAN BE captured' deepens to 'BUILT for this purpose'"
-aliases: ["institutions can be reformed", "fix the state don't abolish it", "institutional depth"]
+aliases: ["institutions can be reformed", "fix the state don't abolish it", "institutional depth", "change it from the inside", "the arc of history bends toward justice", "we've made so much progress", "institutions are all that stand between us and chaos"]
 ---
 
 # Inertia vs. Capture: The Reform Gamble

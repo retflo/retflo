@@ -10,11 +10,13 @@ links:
       why: "The 'every experiment was crushed' argument often blurs military defeat into state collapse cases like Somalia, conflating external destruction with internal failure."
     - target: ECON.SELFMANAGEMENT.1
       why: "Catalonia's collectives demonstrate worker self-management functioned under wartime conditions"
-  resolution: [AUTH.FEDERATION.1]
-  escalation:
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The defeats resolve into the design lesson they paid for: federation and mutual defense as survival requirements, not afterthoughts."
+  retreat:
     - target: RHET.SURVIVAL.1
       why: "When the historical defeats are analyzed honestly, the critic's fallback is the meta-argument that any system that gets destroyed was never viable — a circularity that needs direct exposure."
-aliases: ["every anarchist experiment failed", "revolutionary catalonia was a mess", "makhno had a command structure", "it always gets crushed"]
+aliases: ["every anarchist experiment failed", "revolutionary catalonia was a mess", "makhno had a command structure", "it always gets crushed", "Catalonia was chaos", "Franco won for a reason", "the anarchists lost the civil war"]
 ---
 
 # Military Defeat as Governance Disproof

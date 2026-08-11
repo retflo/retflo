@@ -3,9 +3,15 @@ coordinate: RHET.BURDEN.1
 tags: [burden-of-proof, justification, hierarchy, default, natural, imposed, enlightenment]
 domain: rhet
 links:
-  redirect: [RHET.CIRCULARREALISM.1, PHIL.COERCION.1, RHET.REINVENT.1]
+  redirect:
+    - target: RHET.CIRCULARREALISM.1
+      why: "The prove-your-alternative demand treats the current arrangement as the tested baseline, which is the circular realism the burden flip exposes."
+    - target: PHIL.COERCION.1
+      why: "What actually bears the burden is the claim to compel, which the coercion analysis specifies."
+    - target: RHET.REINVENT.1
+      why: "When the burden flip meets your-system-enforces-rules-too, the definitional interception separates rules from statehood."
 recursion_point: true
-aliases: ["prove your system would work", "the burden is on you to show an alternative", "you're the one proposing change", "the current system works well enough"]
+aliases: ["prove your system would work", "the burden is on you to show an alternative", "you're the one proposing change", "the current system works well enough", "if it ain't broke don't fix it", "you have to offer a full blueprint first", "extraordinary claims require extraordinary evidence", "Chesterton's fence"]
 ---
 
 # Burden of Proof Reversal

@@ -26,7 +26,7 @@ links:
       why: "Zoning was designed to protect property values and serves the property-owning class, making housing regulation a direct case study in the state functioning as class instrument."
     - target: PHIL.VOLUNTARISM.1
       why: "When housing is precarious, consent to labor terms, political participation, and community engagement is structurally coerced because the material precondition for genuine choice is absent."
-aliases: ["housing crisis", "housing as infrastructure", "housing is political", "NIMBYism is structural", "rent is too high"]
+aliases: ["housing crisis", "housing as infrastructure", "housing is political", "NIMBYism is structural", "rent is too high", "zoning protects neighborhoods", "rent is half my paycheck", "why is housing so expensive", "just move somewhere cheaper", "homelessness is a choice/addiction problem", "build more? developers only build luxury"]
 ---
 
 # Housing as Operating System

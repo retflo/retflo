@@ -6,8 +6,12 @@ links:
   flow:
     - target: AUTH.FEDERATION.1
       why: "The Articles' task-specific failure supports minimum-necessary delegation under maximum constraint — which is the federation design position, not its refutation."
-  redirect: [RHET.SURVIVAL.1, AUTH.SCALE.1]
-aliases: ["the articles of confederation failed", "horizontal federation centralized itself voluntarily", "it failed in peacetime with no conqueror", "1787 proves you need a sovereign center"]
+  redirect:
+    - target: RHET.SURVIVAL.1
+      why: "Reading the Articles' replacement as horizontalism refuted uses survival as the verdict, which is the circularity the survival test exposes."
+    - target: AUTH.SCALE.1
+      why: "When 1787 is generalized into a law about confederations, the general scale analysis takes the question with the full comparative record."
+aliases: ["the articles of confederation failed", "horizontal federation centralized itself voluntarily", "it failed in peacetime with no conqueror", "1787 proves you need a sovereign center", "1787 proves it", "even the founders gave up on confederation"]
 ---
 
 # The Articles of Confederation: The Dial, Not the Verdict

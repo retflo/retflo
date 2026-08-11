@@ -14,7 +14,7 @@ links:
   escalation:
     - target: AUTH.CLASS.1
       why: "When nationalism is exposed as manufactured loyalty, the argument deepens to the structural claim that the state exists as a class instrument and national identity is one of its legitimation tools."
-aliases: ["we need to protect our national interests", "immigration threatens our culture", "patriotism is natural", "national identity matters", "borders protect workers"]
+aliases: ["we need to protect our national interests", "immigration threatens our culture", "patriotism is natural", "national identity matters", "borders protect workers", "kneeling disrespects the flag", "America first", "why do you hate your country", "support the troops", "open borders would destroy wages", "you can love your culture without the state"]
 ---
 
 # Nationalism as Class Weapon

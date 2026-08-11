@@ -6,9 +6,13 @@ links:
   flow:
     - target: AUTH.ENFORCEMENT.1
       why: "Once the definitional collapse is intercepted, the substantive debate moves to whether distributed enforcement can actually handle noncompliance without reconstituting a sovereign monopoly."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [PHIL.COERCION.1]
-aliases: ["you reinvented the state", "that's just a government", "if it enforces rules it's a state", "montesquieu got there first"]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The interception resolves constructively at the four hard features that separate federation from statehood."
+  premise:
+    - target: PHIL.COERCION.1
+      why: "The definitional line rests on the coercion analysis: bounded plural escalation is what distinguishes rule enforcement from a sovereign monopoly."
+aliases: ["you reinvented the state", "that's just a government", "if it enforces rules it's a state", "montesquieu got there first", "sounds like government with extra steps", "you just described democracy", "congratulations, you invented courts", "so it IS a state then"]
 ---
 
 # "You Reinvented the State"

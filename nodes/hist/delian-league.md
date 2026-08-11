@@ -6,11 +6,13 @@ links:
   flow:
     - target: AUTH.INERTIA.1
       why: "The Delian League pattern — alliance hardens into empire once one member outgrows collective discipline — is the historical case study for how institutional inertia enables consolidation."
-  resolution: [AUTH.FEDERATION.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The alliance-to-empire pattern resolves at the design: accumulation limits, anti-consolidation rules, and conditional interdependence are the anti-Athens engineering."
   escalation:
     - target: PHIL.FAILUREMODES.1
       why: "Consolidation problem pushed past design reaches the failure modes wager"
-aliases: ["delian league became athenian empire", "alliances produce empires"]
+aliases: ["delian league became athenian empire", "alliances produce empires", "NATO is really an empire"]
 ---
 
 # The Delian League Problem: Alliance → Empire

@@ -9,11 +9,14 @@ links:
     - target: PHIL.VOLUNTARISM.1
       why: "The 'I own myself therefore I can sell my labor' objection redirects the coercion discussion from enforcement escalation to the preconditions of genuine consent."
   resolution:
-    - AUTH.FEDERATION.1
+    - target: AUTH.FEDERATION.1
+      why: "The bounded ladder resolves inside the federation architecture, where escalation rules, review, and recall live."
     - target: AUTH.ENFORCEMENT.1
       why: "The coercion chain's enforcement escalation question leads to the split-command architecture answer"
-  premise: [RHET.REINVENT.1]
-aliases: ["fines lead to force", "all enforcement is coercion", "you need violence to enforce rules"]
+  premise:
+    - target: RHET.REINVENT.1
+      why: "The ladder analysis presupposes the definitional line: enforcement exists in any order, while statehood is a specific institutional form."
+aliases: ["fines lead to force", "all enforcement is coercion", "you need violence to enforce rules", "what happens if I just refuse", "rules without enforcement are suggestions", "so you'd use violence too", "gotcha, you admit you'd coerce people"]
 ---
 
 # The Coercion Chain: Bounded Escalation vs. Sovereign Monopoly

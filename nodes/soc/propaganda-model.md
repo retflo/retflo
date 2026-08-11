@@ -16,7 +16,7 @@ links:
       why: "When media structural bias is established, the argument deepens to the question of why ownership class interests systematically shape information — because the state functions as that class's institutional vehicle."
     - target: ECON.PROPERTY.1
       why: "Media ownership as a structural filter is a specific instance of property concentration granting control over essential social functions — the same dynamic the property-possession distinction exposes."
-aliases: ["the media is liberal", "we have a free press", "that's a conspiracy theory", "journalists are independent", "social media gives everyone a voice"]
+aliases: ["the media is liberal", "we have a free press", "that's a conspiracy theory", "journalists are independent", "social media gives everyone a voice", "mainstream media lies", "do your own research", "why don't they cover strikes", "the news is owned by like five companies", "legacy media vs independent media", "algorithms radicalize people"]
 ---
 
 # Media as Structural Filter: The Propaganda Model

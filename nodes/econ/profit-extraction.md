@@ -3,9 +3,13 @@ coordinate: ECON.PROFIT.1
 tags: [profit, surplus-value, exploitation, labor-theory, risk, innovation, rent, interest, extraction]
 domain: econ
 links:
-  redirect: [PHIL.COERCION.1, ECON.EXIT.1]
+  redirect:
+    - target: PHIL.COERCION.1
+      why: "When profit is defended as voluntary exchange, the coercion analysis asks what enforcement maintains the ownership the exchange happens inside."
+    - target: ECON.EXIT.1
+      why: "The just-quit defense of profit hands off to the exit analysis: an exit that costs housing and healthcare is a door painted on a wall."
 recursion_point: true
-aliases: ["profit is earned", "entrepreneurs deserve their wealth", "risk justifies reward", "innovation requires profit incentive", "owners create jobs"]
+aliases: ["profit is earned", "entrepreneurs deserve their wealth", "risk justifies reward", "innovation requires profit incentive", "owners create jobs", "profit is the reward for risk", "the rich earned it", "job creators", "he built that company from nothing", "CEOs work harder than you", "why shouldn't investors get a return", "no shareholders, no companies"]
 ---
 
 # The Profit Extraction Problem

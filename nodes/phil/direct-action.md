@@ -8,13 +8,16 @@ links:
       why: "Critics who accept direct action's historical effectiveness challenge whether ordinary people have the time and energy for sustained collective self-activity."
     - target: HIST.CIVILRIGHTS.1
       why: "Direct action history connects to civil rights mechanism — critics who accept direct action works invoke institutional channels"
-  premise: [AUTH.ELECTORAL.1]
+  premise:
+    - target: AUTH.ELECTORAL.1
+      why: "Both nodes rest on the same foundational claim: structural gains are won by direct action and militant organizing, which electoral mechanics then ratify."
   escalation:
     - target: PHIL.PREFIGURATIVE.1
       why: "When pushed past 'does direct action work' to 'what kind of society does it build,' the argument deepens into whether the method prefigures the destination."
+  retreat:
     - target: PHIL.NATURE.1
       why: "Critics who cannot contest the historical record retreat to claiming humans are too selfish or passive for sustained collective action."
-aliases: ["what do anarchists actually do", "direct action is just protest", "you need institutional channels", "protests don't change anything", "violence never solves anything"]
+aliases: ["what do anarchists actually do", "direct action is just protest", "you need institutional channels", "protests don't change anything", "violence never solves anything", "protesting is pointless", "riots hurt the cause", "MLK won because he was peaceful", "why don't they just vote", "change takes time", "work within the system", "unions had a purpose once", "strikes just hurt customers", "what do anarchists even DO", "you just want chaos", "occupy accomplished nothing", "boycotts don't work", "I support the message but not the methods", "that's illegal", "marching does nothing", "when has a protest ever worked", "they'll just ignore you", "yelling into the void", "a cardboard sign doesn't change policy", "hashtag activism", "performative activism", "virtue signaling", "slacktivism", "posting isn't praxis", "burning down your own neighborhood", "looting discredits the movement", "destroying a Target won't bring justice", "peaceful protest is the only legitimate protest", "you lose me when they get violent", "why do they trash their own communities", "MLK would be ashamed", "Gandhi did it peacefully", "civil rights won through nonviolence", "be more like MLK", "you catch more flies with honey", "win hearts and minds instead", "vote harder", "change happens at the ballot box", "run for office then", "primary them", "write your congressman", "use the courts", "there's a process for this", "petition, don't protest", "Rome wasn't built in a day", "incremental progress is real progress", "lobby like everyone else", "you can't just break the law", "what if everyone did that", "blocking traffic makes people hate you", "ambulances can't get through", "protest legally then", "I believe in law and order", "strikes hurt the economy", "strikes hold the public hostage", "essential workers striking kills people", "scabs have a right to work", "withholding labor is extortion", "your $5 doesn't matter to them", "boycotts only hurt the workers", "boycotts only hurt small businesses", "what did BLM actually change", "Occupy fizzled", "the 60s protests just elected Nixon", "movements always burn out", "anarchists just break windows", "black bloc are cowards", "larpers", "you're not building anything", "what's your alternative, smashing ATMs?", "you can't fight city hall", "the system is too big", "they'll just crush you", "nothing ever changes", "why bother", "get a job, hippie", "you're alienating allies", "this isn't the way", "there's a right way to protest", "paid protesters", "mutual aid is just charity", "food banks exist already", "that's a band-aid, not a fix", "does protesting actually work", "what is direct action", "how do I actually get involved", "what can one person even do", "what's the point of a general strike", "is direct action the same as violence"]
 ---
 
 # Direct Action as Method and Pedagogy
@@ -47,10 +50,11 @@ distinguishes it from both reformism and vanguardism:
    identical to the skills required for the alternative society.
 
 3. **Prefigurative construction** -- Every union local, cooperative, mutual aid
-   network, and community assembly is a working prototype of the alternative.
-   They are not merely "preparing" for a future transformation; they ARE the
-   transformation in embryonic form. The organizational structure of the
-   struggle prefigures the organizational structure of the society it creates.
+   network, and community assembly built during the struggle is a working
+   prototype of the alternative. The full argument for why the form of the
+   fight sets the form of the outcome lives in `prefigurative-politics.md`;
+   this node keeps the claim in one line: the organizations of the struggle
+   are the first pieces of the replacement.
 
 ### The Self-Liberation Pedagogy
 

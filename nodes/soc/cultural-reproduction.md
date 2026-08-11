@@ -3,9 +3,15 @@ coordinate: SOC.REPRODUCTION.1
 tags: [education, culture, reproduction, conditioning, pedagogy, media, socialization, obedience]
 domain: soc
 links:
-  redirect: [SOC.OPPRESSION.1, SOC.MEDIA.1, PHIL.PRAXIS.1]
+  redirect:
+    - target: SOC.OPPRESSION.1
+      why: "From the general conditioning machine to its specific payload: the identity categories and scapegoat reflexes the division mechanism needs."
+    - target: SOC.MEDIA.1
+      why: "When the conditioning conversation is about news and platforms rather than schooling, the propaganda-model machinery takes it."
+    - target: PHIL.PRAXIS.1
+      why: "After the manufactured-consent diagnosis, the exit is practice: resisting authority is the deconditioning, so the actionable node takes the handoff."
 recursion_point: true
-aliases: ["people choose hierarchy freely", "human nature proves hierarchy is necessary", "most people want to be led", "education prepares citizens for democracy", "culture naturally reflects human preferences"]
+aliases: ["people choose hierarchy freely", "human nature proves hierarchy is necessary", "most people want to be led", "education prepares citizens for democracy", "culture naturally reflects human preferences", "school teaches you how to think", "kids need discipline", "homeschooling ruins socialization", "people watch what they want to watch", "nobody's forcing you to consume media", "that's just how school works", "unschooling is child neglect"]
 ---
 
 # Cultural Reproduction: How Hierarchy Manufactures Consent

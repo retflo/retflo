@@ -10,14 +10,18 @@ links:
       why: "Domain-scoped finality is the engineering answer to the regress — finality where it matters without a single apex that can rewrite everything."
     - target: PHIL.DOMINANCE.1
       why: "Collective, undelegated finality is the oldest form of the last word — the anti-dominance coalition holds it without a sovereign delegate."
-  redirect: [RHET.REINVENT.1, RHET.SURVIVAL.1]
+  redirect:
+    - target: RHET.REINVENT.1
+      why: "When conceding the kernel gets converted into conceding the state, the four-feature definition separates a scoped last word from a sovereign machine."
+    - target: RHET.SURVIVAL.1
+      why: "When the rackets-that-won observation gets read as rackets-were-right, the survival-test circularity check keeps the concession scoped to capacity rather than verdicts."
   escalation:
     - target: AUTH.SCALE.1
       why: "Once the kernel is scoped, the remaining dispute is empirical: how small can it get at what scale of strangers?"
     - target: HIST.EMERGENCY.1
       why: "The kernel's capacity ratchets upward through crises even as its insulation falls — the two trends must be argued together or a prepared critic will play them against each other."
 recursion_point: true
-aliases: ["someone has to have the final say", "the buck stops somewhere", "who decides when arbiters disagree", "a sovereign center is unavoidable", "nozick proved the minimal state emerges from anarchy"]
+aliases: ["someone has to have the final say", "the buck stops somewhere", "who decides when arbiters disagree", "a sovereign center is unavoidable", "nozick proved the minimal state emerges from anarchy", "who watches the watchmen", "turtles all the way down", "someone signs the death warrant"]
 ---
 
 # The Finality Kernel: Conceding the Last Word, Contesting Everything Else

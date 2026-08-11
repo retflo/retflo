@@ -10,15 +10,21 @@ links:
       why: "Local tyranny's internal majoritarian lock-in connects to the incumbency veto's external exclusion, as both use local democratic process to enforce domination."
     - target: AUTH.JUSTICE.1
       why: "When local tyranny produces harm, the justice question arises: how does a federated system provide accountability and repair without a centralized punitive apparatus."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [HIST.INTERVENTION.1, HIST.CIVILRIGHTS.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The captured-town problem resolves in the design: baseline rights as membership conditions, sanctuary for the persecuted, and conditional access that isolates the oppressor."
+  premise:
+    - target: HIST.INTERVENTION.1
+      why: "The response builds on the benevolent-intervention record: the same central machinery that broke one atrocity tolerated it first and was repurposed after."
+    - target: HIST.CIVILRIGHTS.1
+      why: "The response builds on the civil-rights record: institutions conceded under movement pressure rather than self-correcting toward justice."
   escalation:
     - target: PHIL.FAILUREMODES.1
       why: "The local tyranny impasse -- slower federated response vs. catastrophic sovereign capture risk -- ultimately reduces to which system's failure mode is more survivable."
   retreat:
     - target: AUTH.CHECKSBALANCES.1
       why: "Critics cornered on local tyranny pivot to arguing checks and balances prevent majoritarian lock-in"
-aliases: ["local majority oppression", "tyranny of the majority", "who protects minorities", "what if the local majority is wrong"]
+aliases: ["local majority oppression", "tyranny of the majority", "who protects minorities", "what if the local majority is wrong", "what stops a racist town in your system", "states rights led to Jim Crow", "who protects the minority from the majority", "sundown towns"]
 ---
 
 # Local Tyranny: The Majoritarian Lock-In Problem

@@ -3,9 +3,15 @@ coordinate: RHET.SURVIVAL.1
 tags: [survival, viability, military, crushed, circular-reasoning, selection-bias]
 domain: rhet
 links:
-  redirect: [AUTH.DEFENSE.1, HIST.DEFEAT.1, HIST.COLLAPSE.1]
+  redirect:
+    - target: AUTH.DEFENSE.1
+      why: "After the circularity is exposed, the legitimate residue, defense capacity as a design requirement, hands off to the defense architecture."
+    - target: HIST.DEFEAT.1
+      why: "The general crushed-claim hands off to the case files: who had the artillery and what each defeat does and does not prove."
+    - target: HIST.COLLAPSE.1
+      why: "Collapse cases invoked as survival evidence hand off to the regime-breakdown analysis: factions fighting over state remnants are not bottom-up organization."
 recursion_point: true
-aliases: ["surviving is the test", "your system gets crushed", "any system that can't defend itself isn't viable"]
+aliases: ["surviving is the test", "your system gets crushed", "any system that can't defend itself isn't viable", "might makes right", "if your system was better it would have won", "history picked the winner", "evolution of societies"]
 ---
 
 # The Survival Test: Circular Reasoning

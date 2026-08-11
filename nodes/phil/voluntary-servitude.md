@@ -3,9 +3,13 @@ coordinate: PHIL.VOLUNTARISM.1
 tags: [voluntarism, consent, asymmetry, servitude, contract, equality, precondition, coercion]
 domain: phil
 links:
-  redirect: [PHIL.COERCION.1, ECON.HOUSING.1]
+  redirect:
+    - target: PHIL.COERCION.1
+      why: "When the consent conversation turns to enforcement mechanics, the escalation ladder takes the handoff."
+    - target: ECON.HOUSING.1
+      why: "For the cliff behind consent in its most common form, housing precarity holds the lived case."
 recursion_point: true
-aliases: ["nobody forces you to work there", "voluntary exchange is voluntary", "if you don't like it leave", "contracts are freedom", "the labor market is voluntary"]
+aliases: ["nobody forces you to work there", "voluntary exchange is voluntary", "if you don't like it leave", "contracts are freedom", "the labor market is voluntary", "work is a choice", "slavery was forced, jobs aren't", "you agreed to the terms", "you signed the lease"]
 ---
 
 # Voluntarism Requires Equality: Consent Under Asymmetry

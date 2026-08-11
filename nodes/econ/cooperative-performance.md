@@ -14,9 +14,7 @@ links:
   premise:
     - target: ECON.SELFMANAGEMENT.1
       why: "Workers can manage complex enterprises without bosses"
-    - target: ECON.MARKETS.1
-      why: "Market coordination is separable from capitalist ownership"
-aliases: ["socialism can't calculate prices", "central planning always fails", "workers can't run businesses", "cooperatives are less efficient", "you need bosses for complex enterprises"]
+aliases: ["socialism can't calculate prices", "central planning always fails", "workers can't run businesses", "cooperatives are less efficient", "you need bosses for complex enterprises", "if co-ops were better there'd be more of them", "who allocates capital without markets", "Mises proved socialism can't work", "co-ops can't scale or raise money"]
 ---
 
 # Cooperative Economic Performance: Calculation and Self-Management

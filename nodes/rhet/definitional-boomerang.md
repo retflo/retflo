@@ -6,11 +6,13 @@ links:
   flow:
     - target: RHET.REINVENT.1
       why: "The boomerang's relabeling analysis feeds directly into the 'you reinvented the state' debate — both expose how renaming governance functions does not change their structural nature."
-  resolution: [AUTH.FEDERATION.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "After the consistency test collapses the critic's frames, the constructive question resolves at the federation design."
   escalation:
     - target: ECON.PROPERTY.1
       why: "When consistent application of the critic's own definitions reveals that private property replicates state structures, the argument deepens into the property-possession distinction that separates use-rights from dominion."
-aliases: ["anarcho-capitalism is real anarchism", "private property isn't the state", "taxation is theft but rent isn't", "voluntary contracts solve everything", "rename it and the problem disappears", "rent is a voluntary exchange", "the landlord relationship is based on consent", "nobody is forcing you to rent", "you can always exit the arrangement"]
+aliases: ["anarcho-capitalism is real anarchism", "private property isn't the state", "taxation is theft but rent isn't", "voluntary contracts solve everything", "rename it and the problem disappears", "rent is a voluntary exchange", "the landlord relationship is based on consent", "nobody is forcing you to rent", "you can always exit the arrangement", "taxation is theft", "the NAP solves everything", "non-aggression principle", "private cities would outcompete states", "HOAs are voluntary", "company towns were fine actually", "you consented by staying", "love it or leave it", "implicit consent", "nobody forces you to work", "the state is just us acting together", "that's just semantics", "call it whatever you want, it works"]
 ---
 
 # The Definitional Boomerang

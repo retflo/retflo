@@ -10,9 +10,13 @@ links:
       why: "Critics who cannot deny Rojava functions as governance shift to arguing its dependency on US air power proves it is not independently viable."
     - target: HIST.DEFEAT.1
       why: "Living implementations are discussed alongside historical defeats because critics weaponize both the destroyed and the surviving experiments through complementary dismissal strategies."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [AUTH.DEFENSE.1]
-aliases: ["what about rojava", "what about the zapatistas", "show me a real example", "name one that works"]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "The living experiments resolve into the design they gesture toward, with their documented failures as design inputs."
+  premise:
+    - target: AUTH.DEFENSE.1
+      why: "The honest assessment rests on the defense analysis: rotating command under civilian oversight is what the YPG and YPJ actually practice."
+aliases: ["what about rojava", "what about the zapatistas", "show me a real example", "name one that works", "name one country where it works", "Rojava is a US proxy", "the Zapatistas are just a tourist thing", "if it worked it would have spread", "cherry-picked examples"]
 ---
 
 # Evaluating Partial Implementations

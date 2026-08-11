@@ -6,9 +6,15 @@ links:
   flow:
     - target: SOC.REPRODUCTION.1
       why: "Institutional design shapes dominant behavior — cultural reproduction is the mechanism"
-  redirect: [PHIL.FAILUREMODES.1, AUTH.FEDERATION.1, PHIL.DOMINANCE.1]
+  redirect:
+    - target: PHIL.FAILUREMODES.1
+      why: "When the critic keeps pessimism about people, the wager converts it: imperfect humans are the argument against giving any of them a throne."
+    - target: AUTH.FEDERATION.1
+      why: "Once nature arguments are off the table, the fight relocates to institutional design, where the architecture built for imperfect people waits."
+    - target: PHIL.DOMINANCE.1
+      why: "For the load-bearing anthropology behind the counters, the reverse-dominance record holds the mechanism: equality actively enforced, not passively enjoyed."
 recursion_point: true
-aliases: ["human nature is selfish", "people are naturally competitive", "without authority humans would kill each other"]
+aliases: ["human nature is selfish", "people are naturally competitive", "without authority humans would kill each other", "greed is human", "communism ignores human nature", "someone will always want more", "power corrupts", "we're just apes", "evolutionary psychology says", "Lord of the Flies", "people are basically good"]
 ---
 
 # Human Nature: The Pre-Answered Argument

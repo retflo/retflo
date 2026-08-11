@@ -8,15 +8,12 @@ links:
       why: "Critics conflate anarchist critique of state socialism with right-wing 'communism failed' arguments, requiring distinction between top-down collapse and the structural analysis of why nationalization reproduces hierarchy."
     - target: HIST.VIOLENCE.1
       why: "State socialist regimes are frequently cited as evidence that centralized authority reduces violence, requiring the counter that these regimes' internal violence — gulags, purges, forced collectivization — belongs in the net calculation."
-  premise:
-    - target: AUTH.VANGUARD.1
-      why: "Organizational form determines political outcome"
   escalation:
     - target: PHIL.PREFIGURATIVE.1
       why: "The state socialism analysis is the strongest historical evidence for the prefigurative claim that authoritarian organizational forms produce authoritarian outcomes regardless of stated intentions."
     - target: AUTH.CLASS.1
       why: "Bakunin's prediction that state ownership creates a new ruling class deepens into the general structural argument that the state is inherently a class instrument, not a neutral tool capturable for liberation."
-aliases: ["communism failed", "the USSR proves socialism doesn't work", "state ownership is socialism", "China shows central planning works", "what about Cuba/Venezuela"]
+aliases: ["communism failed", "the USSR proves socialism doesn't work", "state ownership is socialism", "China shows central planning works", "what about Cuba/Venezuela", "socialism has never worked", "what about Venezuela", "real communism has never been tried", "100 million dead", "go live in North Korea", "socialism is when no food", "China lifted millions out of poverty though"]
 ---
 
 # State Socialism as State Capitalism: Bakunin's Prophecy

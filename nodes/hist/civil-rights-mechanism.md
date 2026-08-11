@@ -8,11 +8,15 @@ links:
       why: "Critics who accept that movements forced institutional action cite the institutional codification of gains as proof that checks and balances are indispensable for durable reform."
     - target: AUTH.INERTIA.1
       why: "Crisis-reform-erosion cycle maps to the inertia-vs-capture analysis"
-  premise: [HIST.INTERVENTION.1, AUTH.LOCALTYRANNY.1]
+  premise:
+    - target: HIST.INTERVENTION.1
+      why: "The mechanism analysis rests on the intervention pattern: authority tolerated the injustice, conceded under pressure, and repurposed the machinery after."
+    - target: AUTH.LOCALTYRANNY.1
+      why: "The mechanism analysis presupposes the local-tyranny problem it answers: Jim Crow was the captured jurisdiction the movement had to break."
   escalation:
     - target: AUTH.CLASS.1
       why: "Civil rights mechanism pushed to conclusion reaches the class instrument analysis"
-aliases: ["civil rights proves institutions work", "movements need institutional channels"]
+aliases: ["civil rights proves institutions work", "movements need institutional channels", "the Civil Rights Act fixed it", "Brown v Board ended segregation", "MLK worked within the system"]
 ---
 
 # The Civil Rights Mechanism: Pressure vs. Institutions

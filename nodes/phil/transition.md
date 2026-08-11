@@ -16,7 +16,7 @@ links:
   escalation:
     - target: PHIL.PREFIGURATIVE.1
       why: "When the transition debate deepens past strategy to principle, it reaches the structural claim that organizational form determines outcome — authoritarian means cannot produce libertarian ends."
-aliases: ["how do you get there from here", "what's your transition plan", "revolution is impossible in modern states", "you can't just overthrow everything", "be realistic about change"]
+aliases: ["how do you get there from here", "what's your transition plan", "revolution is impossible in modern states", "you can't just overthrow everything", "be realistic about change", "so what, we all just join co-ops?", "you can't opt out of capitalism", "dual power", "the state will just crush your communes", "how do we actually win", "is voting or revolution the answer"]
 ---
 
 # The Transition Question: Building the New Within the Shell of the Old

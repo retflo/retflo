@@ -6,9 +6,13 @@ links:
   flow:
     - target: AUTH.FINALITY.1
       why: "The chain's anchor concession is the finality kernel — engage it there at full strength, then return here when the critic tries to cash the concession as a position surrender."
-  redirect: [RHET.REINVENT.1, RHET.BOOMERANG.1]
+  redirect:
+    - target: RHET.REINVENT.1
+      why: "The chain's frame steps are the relabeling move in sequence form, and the interception applies mid-chain."
+    - target: RHET.BOOMERANG.1
+      why: "The chain's endgame relabel meets the consistency test: a category that absorbs every position describes nothing."
 recursion_point: true
-aliases: ["so you're basically a liberal now", "you've conceded the whole debate", "we've arrived at a wealth tax debate", "welcome to constitutional politics", "your position has collapsed into mine"]
+aliases: ["so you're basically a liberal now", "you've conceded the whole debate", "we've arrived at a wealth tax debate", "welcome to constitutional politics", "your position has collapsed into mine", "so we agree, you just want better policy", "you're describing social democracy", "we're not so different, you and I"]
 ---
 
 # The Collapse Chain: When Concessions Are Assembled Into Capture

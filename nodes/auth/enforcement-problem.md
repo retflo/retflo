@@ -6,12 +6,16 @@ links:
   flow:
     - target: RHET.REINVENT.1
       why: "When the anarchist describes split-command architecture and dual-key logistics, the critic claims this is functionally a state with different branding."
-  resolution: [AUTH.FEDERATION.1]
-  premise: [AUTH.CHECKSBALANCES.1]
+  resolution:
+    - target: AUTH.FEDERATION.1
+      why: "Split command and dual-key logistics are federation plumbing; the enforcement answer lives inside the architecture rather than beside it."
+  premise:
+    - target: AUTH.CHECKSBALANCES.1
+      why: "The enforcement machinery presupposes distributed counter-power: split command is checks and balances applied to coercive capacity itself."
   retreat:
     - target: AUTH.EMERGENCY.1
       why: "Critics cornered on enforcement pivot to 'but what about emergencies?'"
-aliases: ["who enforces the sunset clause", "who removes the commander", "enforcement paradox", "quis custodiet"]
+aliases: ["who enforces the sunset clause", "who removes the commander", "enforcement paradox", "quis custodiet", "who guards the guards", "paper rules can't stop a man with a gun"]
 ---
 
 # The Enforcement Problem: "Who Enforces the Sunset Clause?"
