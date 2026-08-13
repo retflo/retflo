@@ -7,22 +7,22 @@ export function createMcpServer(tools) {
   const server = new McpServer({ name: 'retflo', version: '0.1.0' });
 
   server.registerTool('search_nodes', {
-    description: 'Route an objection to retflo graph nodes. Returns matched coordinates plus nearest territory. Always search before fetching.',
+    description: 'Resolve a phrase or objection to retflo node coordinates. Matches against roughly 1,400 aliases, tags, and titles, and returns the nearest territory when nothing matches cleanly. Search first: the graph answers a given objection with a specific node, and guessing the coordinate gets the wrong one.',
     inputSchema: { query: z.string().describe('The objection or claim to route') },
   }, async args => text(await tools.search_nodes(args)));
 
   server.registerTool('get_node', {
-    description: 'Fetch a retflo node body and its typed links by coordinate (e.g. RHET.BURDEN). If you are moving to a node listed in a fetched node\'s links, use follow_edge instead — it records the typed traversal.',
+    description: 'Fetch one node by coordinate (e.g. RHET.BURDEN): the position, the objection table with each concession typed as fact, frame, or contested, and the typed links out. When moving to a node already listed in a fetched node\'s links, use follow_edge instead, which records the edge type.',
     inputSchema: { coordinate: z.string() },
   }, async args => text(await tools.get_node(args)));
 
   server.registerTool('follow_edge', {
-    description: 'Follow a typed edge from a fetched node\'s links to its target node. Always prefer this over get_node when moving along a listed link — the edge type is recorded and is the most valuable traversal data.',
+    description: 'Move along a typed edge from a fetched node to its target, and get the edge type back. The type is the content: flow, resolution, premise, escalation, retreat, or redirect. Prefer this over get_node whenever the target is listed in the source node\'s links.',
     inputSchema: { from: z.string(), to: z.string() },
   }, async args => text(await tools.follow_edge(args)));
 
   server.registerTool('submit_miss', {
-    description: 'Queue an unmapped objection locally as a suspected patch (kind: alias = phrasing gap, edge = missing connection, node = missing argument). Local only; nothing is transmitted.',
+    description: 'Record an objection that resolved to nothing (kind: alias = phrasing gap, edge = missing connection, node = missing argument). This is how a gap in the graph gets found and fixed. Written to local disk only; nothing is transmitted anywhere.',
     inputSchema: {
       query: z.string(),
       kind: z.enum(['alias', 'edge', 'node']),

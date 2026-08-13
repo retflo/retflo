@@ -6,7 +6,7 @@ homepage: https://retflo.org
 
 > © 2026 retflo™ contributors. Licensed under RCCL v1.0. https://retflo.org/license
 
-See [AGENTS.md](AGENTS.md) for the full framework.
+The framework is [AGENTS.md](AGENTS.md): what the graph is, how to address it, the routing table, and the position it argues from. Read it before arguing from the graph.
 
 ## Graph access: MCP tools first
 
@@ -17,4 +17,4 @@ If the retflo MCP tools are available in this session (`mcp__retflo__search_node
 3. `follow_edge {from, to}`: always use this (not `get_node`) when moving along a fetched node's `links`; the edge type is the point.
 4. `submit_miss {query, kind, nearest}`: mandatory after any zero-match search you resolve by other means (`kind`: alias = phrasing gap, edge = missing connection, node = missing argument).
 
-Tool calls emit traversal events to the live visualizer and patch queue; direct file reads are invisible to both. Read AGENTS.md itself for the framework and delivery calibration. Fall back to reading `nodes/` files only when the MCP tools are not available.
+Tool calls emit traversal events to the live visualizer and patch queue; direct file reads are invisible to both. Fall back to reading `nodes/` files only when the MCP tools are not available.
