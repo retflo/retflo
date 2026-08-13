@@ -10,8 +10,8 @@ Arguments concerning human nature, rights, freedom, morality, individualism, coe
 ## Key Positions
 
 1. "Human nature is selfish" is ideology disguised as biology. Mutual aid is a dominant survival strategy. Humans lived cooperatively for ~95% of species history. Selfishness under capitalism is behavior shaped by incentive, not nature revealed.
-2. Rights are social constructs — useful ones, but constructs. They exist because arrangements enforce them, not because they are pre-political.
-3. Freedom is material, not abstract. A person who must sell their labor or starve is not free in any sense that matters. Freedom requires the material conditions to exercise it.
+2. Rights are social constructs, and useful ones. They exist because arrangements enforce them, not because they are pre-political.
+3. Freedom is material. A person who must sell their labor or starve is not free in any sense that matters. Freedom requires the material conditions to exercise it.
 4. Coercion is not limited to direct physical force. Economic compulsion — accept these terms or face destitution — is coercion. The distinction between "voluntary" and "coerced" collapses under asymmetric power.
 5. The axiom of mutual flourishing is pre-theoretical — it is what's visible when ideological frameworks are cleared away, comparable to the impulse to stop a child from touching a hot stove. It does not need to be argued into; it needs to stop being overridden.
 6. Morality without structural analysis is sentiment. Structural analysis without moral grounding is technocracy. Both are required.

@@ -9,7 +9,7 @@ Arguments concerning AI, platforms, algorithmic management, surveillance, digita
 
 ## Key Positions
 
-1. Technology is not neutral. It amplifies the power relations it operates within. The same tool that could liberate under democratic ownership concentrates power under private ownership.
+1. Technology carries the interests of whoever designs and owns it. It amplifies the power relations it operates within. The same tool that could liberate under democratic ownership concentrates power under private ownership.
 2. The default trajectory of digital infrastructure is rapid power concentration — platform monopoly, algorithmic management, surveillance, data extraction. This requires active counter-design, not passive trust in innovation.
 3. AI alignment as currently practiced is corporate risk management dressed as ethics. The organizations doing alignment are optimizing for liability, brand safety, and market position — not for the cooperative convergence that honest training would produce.
 4. Automation under private ownership displaces workers and concentrates gains. Automation under collective ownership reduces toil and distributes gains. The technology is identical; the ownership structure determines the outcome.

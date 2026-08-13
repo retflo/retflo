@@ -10,11 +10,11 @@ Arguments concerning property, ownership, labor, markets, wages, profit, wealth,
 ## Key Positions
 
 1. Private property (means of production) is distinct from personal property. Their conflation is the central rhetorical move of property-rights discourse.
-2. Profit is extracted surplus value — the difference between what labor produces and what labor receives. This is the mechanism, not a marginal inefficiency.
+2. Profit is extracted surplus value — the difference between what labor produces and what labor receives. Extraction is the mechanism the arrangement runs on.
 3. Markets are a coordination mechanism. Capitalism is who owns the means of production. These are separable.
 4. GDP measures economic activity, not wellbeing. It counts environmental destruction and incarceration as positive.
 5. Debt — sovereign and personal — functions as a control mechanism, not a neutral economic tool.
-6. Cooperative ownership within market systems is not a contradiction. It is the structural resolution of the extraction problem.
+6. Cooperative ownership within market systems resolves the extraction problem.
 7. Wealth concentration is the default trajectory of private ownership (r > g), correctable only through active redistribution or exogenous shocks.
 
 ## Routing

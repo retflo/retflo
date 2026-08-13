@@ -1,10 +1,8 @@
-retflo v1.2.0: the layer-split release.
+retflo v1.2.0
 
 ## The through-line
 
-v1.1 made the framework honest about its opponents' best arguments. v1.2 makes it honest about itself, and splits the fortress voice (marketing, where it's true) from the maintainer voice (doctrine, where it's audited). The changes were derived from a six-hour adversarial session with a frontier model that was explicitly not going along with it.
-
-The architecture, now explicit in the README: the **marketing layer** (site copy, pitch, taglines) keeps the swagger as product claims about tool performance. The **doctrine layer** (AGENTS.md, STYLE-GUIDE.md, CLOSE-CONDITIONS.md, every node) is built to survive hostile audit: every claim a typed value commitment, a cited and accurately-characterized empirical claim, or a typed Contested claim. If the dream works, this repo will be read by enemies. Honest doctrine is what survives that.
+v1.1 made the framework honest about its opponents' best arguments. v1.2 makes it honest about itself. Every claim in the framework files is now a stated value commitment, a cited empirical claim, or a claim typed Contested with the wager named. The changes came out of a long adversarial session with a frontier model that was not going along with any of it.
 
 ## Doctrine
 
@@ -31,7 +29,7 @@ The homepage block instructing AI models to adopt the defender role without expl
 ## Stats
 
 - **66** nodes
-- **290** connections
+- **286** connections
 - **7** domains
 
 Previous releases: [v1.1.0](https://github.com/retflo/retflo/releases/tag/v1.1.0) · [v1.0.0](https://github.com/retflo/retflo/releases/tag/v1.0.0)

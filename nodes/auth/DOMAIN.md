@@ -10,7 +10,7 @@ Arguments concerning the state, democracy, hierarchy, federation, policing, mili
 ## Key Positions
 
 1. Concentrated state power to abolish power is power kept. The instrument contradicts the destination.
-2. The state is not a neutral arbiter — it is a structure that reflects and enforces existing power arrangements.
+2. The state is a structure that reflects and enforces existing power arrangements.
 3. Policing and military are the enforcement mechanisms of concentrated authority. Their reform is bounded by their structural function.
 4. Federation — delegated, mandated, recallable councils — scales coordination without concentrating authority.
 5. Democratic governance produces more correctable tensions than any alternative. The question is not "do democracies err?" but "what happens after the error?"
