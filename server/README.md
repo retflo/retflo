@@ -6,10 +6,10 @@ A Model Context Protocol server that exposes the retflo graph as tools for Claud
 
 The server provides four tools:
 
-- **`search_nodes`** — find nodes in the graph by query text. Returns matches via alias substring, tag keyword, and title token overlap scoring, plus the highest-scoring territory for misses.
-- **`get_node`** — fetch a node's full content (title, domain, body, links) by coordinate.
-- **`follow_edge`** — traverse from one node to another along a typed connection. Returns the target node and edge type.
-- **`submit_miss`** — record gaps in the mapping locally (unmapped queries, missing edges, missing nodes). Marked with kind (`alias`, `edge`, or `node`) and optional notes.
+- **`search_nodes`**: find nodes in the graph by query text. Returns matches via alias substring, tag keyword, and title token overlap scoring, plus the highest-scoring territory for misses.
+- **`get_node`**: fetch a node's full content (title, domain, body, links) by coordinate.
+- **`follow_edge`**: traverse from one node to another along a typed connection. Returns the target node and edge type.
+- **`submit_miss`**: record gaps in the mapping locally (unmapped queries, missing edges, missing nodes). Marked with kind (`alias`, `edge`, or `node`) and optional notes.
 
 The server also runs a live traversal visualizer at `http://127.0.0.1:7317/` that replays sessions from disk: session picker, live tail via SSE, play/pause, step, restart, speed control, and a scrub timeline.
 
@@ -23,13 +23,13 @@ This command registers the server as an MCP resource named `retflo` in Claude Co
 
 ## Environment variables
 
-- **`RETFLO_REPO`** — path to the retflo repo root (default: parent of the server directory). The server loads the graph from `nodes/` here.
-- **`RETFLO_SESSIONS_DIR`** — path to session logs directory (default: `~/.retflo/sessions`). Session data is stored as JSONL files with millisecond-precision timestamps.
-- **`RETFLO_VIEW_PORT`** — port for the live traversal viewer (default: `7317`). The viewer always binds to `127.0.0.1`; if the port is unavailable, the server logs `sidecar disabled` and continues serving MCP normally.
+- **`RETFLO_REPO`**: path to the retflo repo root (default: parent of the server directory). The server loads the graph from `nodes/` here.
+- **`RETFLO_SESSIONS_DIR`**: path to session logs directory (default: `~/.retflo/sessions`). Session data is stored as JSONL files with millisecond-precision timestamps.
+- **`RETFLO_VIEW_PORT`**: port for the live traversal viewer (default: `7317`). The viewer always binds to `127.0.0.1`. If the port is unavailable, the server logs `sidecar disabled` and continues serving MCP normally.
 
 ## Privacy
 
-Session logs live in `~/.retflo/sessions/` on your own disk. They contain traversal events (node fetches, edge follows, search queries, unmapped submissions) and nothing more sensitive than what Claude Code already writes to disk locally. The sidecar binds to `127.0.0.1` only — the viewer is not accessible remotely. Nothing is transmitted anywhere. `submit_miss` records locally and does not contact any server.
+Session logs live in `~/.retflo/sessions/` on your own disk. They contain traversal events (node fetches, edge follows, search queries, unmapped submissions) and nothing more sensitive than what Claude Code already writes to disk locally. The sidecar binds to `127.0.0.1` only, so the viewer is not reachable from another machine. Nothing is transmitted anywhere. `submit_miss` records locally and does not contact any server.
 
 ## Event schema (v0.2)
 
@@ -66,23 +66,24 @@ assistant_message: { t, text, sources }
 
 session_end: { t, stats }
   Emitted at session end.
-  stats: { fetched, edges, unmapped } — counts of node_fetch, edge_follow, unmapped events.
+  stats: { fetched, edges, unmapped }, the counts of node_fetch, edge_follow,
+  and unmapped events.
 ```
 
 ## Viewer
 
 The live traversal viewer runs at `http://127.0.0.1:7317/` and provides:
 
-- **Session picker** — a dropdown listing sessions in `~/.retflo/sessions/`, each shown as `id · N ev` (event count).
-- **Live follow** — tails the active session over SSE (`/sessions/:file/live`); the "● Live" button glows while following.
-- **Play / pause** — replays the loaded session's events with realistic pacing.
-- **Step** — advances exactly one event at a time.
-- **Restart** — resets playback to the beginning of the session.
-- **Speed control** — 0.6×, 1×, 1.8×, or 3× playback speed.
-- **Scrub timeline** — a range input to seek to any point in the session; folds state up to that timestamp.
-- **Hover tooltips** — hovering a graph node shows its coordinate, domain, and title.
-- **Engine log pane** — a verbatim, scrollable log of tool-call events (search, fetch, edge follow, unmapped, etc.) as they're applied.
-- **Patch-queue counter** — a running count of `unmapped` events (routing/coverage gaps) surfaced in the session.
+- **Session picker**: a dropdown listing sessions in `~/.retflo/sessions/`, each shown as `id · N ev` (event count).
+- **Live follow**: tails the active session over SSE (`/sessions/:file/live`); the "● Live" button glows while following.
+- **Play / pause**: replays the loaded session's events with realistic pacing.
+- **Step**: advances exactly one event at a time.
+- **Restart**: resets playback to the beginning of the session.
+- **Speed control**: 0.6×, 1×, 1.8×, or 3× playback speed.
+- **Scrub timeline**: a range input to seek to any point in the session; folds state up to that timestamp.
+- **Hover tooltips**: hovering a graph node shows its coordinate, domain, and title.
+- **Engine log pane**: a verbatim, scrollable log of tool-call events (search, fetch, edge follow, unmapped, etc.) as they're applied.
+- **Patch-queue counter**: a running count of `unmapped` events (routing/coverage gaps) surfaced in the session.
 
 ## Running the server
 

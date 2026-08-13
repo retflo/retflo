@@ -8,15 +8,14 @@
 <p align="center">
   <a href="https://retflo.org/license/"><img src="https://img.shields.io/badge/license-RCCL_v1.0-a04825" alt="License: RCCL v1.0" /></a>
   <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/nodes-66-1a1715" alt="66 nodes" /></a>
-  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/connections-290-1a1715" alt="290 connections" /></a>
   <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/domains-7-1a1715" alt="7 domains" /></a>
+  <a href="https://retflo.org/nodes/"><img src="https://img.shields.io/badge/edge_types-6-1a1715" alt="6 edge types" /></a>
   <a href="https://retflo.org"><img src="https://img.shields.io/badge/retflo.org-1a1715" alt="retflo.org" /></a>
 </p>
 
 <p align="center">
-  The complete protocol for political reasoning.<br>
-  Every structural objection to cooperative governance, mapped and answered.<br>
-  Argue less. Build more.
+  Find out if you're right.<br>
+  66 argument nodes across 7 domains, connected by typed edges. Point an LLM at it and argue.
 </p>
 
 <table>
@@ -25,24 +24,25 @@
 <td><img src="https://retflo.org/img/readme/claude-code-skill.png" alt="retflo in Claude Code" width="400" /></td>
 </tr>
 <tr>
-<td colspan="2"><em>Left: the protocol visualized as an <a href="https://retflo.org/visualizer/">interactive graph</a>. Right: retflo loaded as a skill in Claude Code.</em></td>
+<td colspan="2"><em>Left: the graph in the <a href="https://retflo.org/visualizer/">interactive visualizer</a>. Right: retflo loaded as a skill in Claude Code.</em></td>
 </tr>
 </table>
 
-## Why this exists
+## What this is
 
-The same objections to cooperative governance have been recycled for centuries. "Human nature is selfish." "It can't scale." "Be realistic." The arguments don't change because they don't need to: repetition is the mechanism.
+A map of the argument space around cooperative governance. 66 nodes across 7 domains, joined by six kinds of typed edge: flow, escalation, redirect, resolution, premise, retreat.
 
-These aren't hard questions. They have structural answers. But those answers have never been organized in a way that connects them, where each response anticipates the next objection and routes to it.
+An objection routes to the node that handles it, that node routes to the next move, and the exchange keeps going until it reaches an end. Most political arguments never reach one.
 
-retflo is that structure. A dialectical graph that maps the objection space: every path answered, every connection typed, and the strongest opposing arguments included at full strength rather than routed around. Not a chatbot. Not an app. A protocol: like TCP/IP is a protocol for data, retflo is a protocol for political reasoning.
+The strongest opposing arguments are in the graph at full strength. When the framework loses on the merits, the correction goes into the public record.
 
 ## Try it
 
-- [**Explore the graph**](https://retflo.org/visualizer/): interactive, no setup needed
+- [**Explore the graph**](https://retflo.org/visualizer/): interactive, no setup
 - [**Read the arguments**](https://retflo.org/nodes/): browse by domain
-- [**Tell any LLM**](https://retflo.org/agents) to read `retflo.org/agents` and debate you
+- [**Tell any LLM**](https://retflo.org/agents) to read `retflo.org/agents`, then argue with it
 - [**Install as a skill**](#install) for your coding agent
+- [**Run the MCP server**](server/README.md) for graph tools and a live traversal viewer
 
 ## Install
 
@@ -66,25 +66,24 @@ This repo contains the nodes, routing table, and engagement rules: everything an
 
 ## How it works
 
-[`AGENTS.md`](AGENTS.md) is the entry point. It contains the routing table that maps common objections to nodes, plus the engagement rules and delivery calibration.
+[`AGENTS.md`](AGENTS.md) is the entry point. It carries the routing table that maps common objections to nodes, plus the engagement rules and delivery calibration.
 
 Each node has:
 - **Position**: the substantive case
-- **Objection handling**: a Move / Response / Concession table
-- **Typed connections**: links to follow-up nodes across domains
+- **Objection handling**: a Move / Response / Concession table, with every concession tagged **Fact**, **Frame**, or **Contested**
+- **Typed connections**: edges to the nodes that come next, across domains
 
-Nodes capture argument patterns, not instances. "China has a navy" and "Russia has nukes" route to the same node: external military threat.
+Nodes are patterns. "China has a navy" and "Russia has nukes" route to the same node: external military threat.
 
 ### The chain in action
 
 ```mermaid
 flowchart LR
     A["'People are selfish'"] --> B["phil/nature"]
-    B --> C["Mutual aid is a<br>dominant survival strategy"]
-    C --> D["Selfishness under capitalism is<br>incentive-shaped behavior,<br>not nature revealed"]
-    D --> E["soc/cultural-reproduction"]
-    D --> F["phil/failure-modes"]
-    D --> G["auth/federation-vs-state"]
+    B --> C["Cooperation is why humans are<br>the dominant species. Behavior is<br>context-dependent; the context<br>is the design variable."]
+    C -->|flow| D["soc/cultural-reproduction"]
+    C -->|redirect| E["phil/failure-modes"]
+    C -->|redirect| F["auth/federation-vs-state"]
 ```
 
 Objection in, structural response out, next move available. The graph is closed: follow any objection far enough and it routes back to territory the framework already covers.
@@ -101,16 +100,16 @@ Objection in, structural response out, next move available. The graph is closed:
 | Social | Structural oppression, propaganda, nationalism, education |
 | Technology | Platform ownership, algorithmic governance |
 
-66 arguments. 290 connections. 7 domains.
-
 ## Structure
 
 ```
 retflo/
 ├── AGENTS.md            ← framework entry point
+├── OPERATORS.md         ← the material read, applied before any node
 ├── SKILL.md             ← skill ecosystem compatibility
 ├── STYLE-GUIDE.md       ← delivery calibration
 ├── CLOSE-CONDITIONS.md  ← argument endpoint procedures
+├── server/              ← local MCP server and traversal viewer
 └── nodes/
     ├── auth/            ← Authority & Governance
     ├── econ/            ← Economics & Ownership
