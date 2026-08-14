@@ -10,7 +10,7 @@ Arguments involving historical examples, revolutions, the USSR, Yugoslavia, Mond
 ## Key Positions
 
 1. "Communism killed millions" conflates state capitalism (USSR, PRC) with cooperative, non-hierarchical alternatives. The states that killed millions were concentrated-authority systems — exactly what the framework critiques.
-2. Mondragon (Basque cooperative federation) demonstrates workplace democracy at industrial scale. Its failures (Fagor) are design data, not evidence against the direction.
+2. Mondragon (Basque cooperative federation) demonstrates workplace democracy at industrial scale. Its failures (Fagor) are design data for the next attempt.
 3. The kibbutzim demonstrate both the possibility and the participation problem of cooperative living. Their degeneration tracks institutional design failures, not inherent impossibility.
 4. Yugoslav market socialism attempted collective ownership within markets. Its dissolution was driven by nationalist politics and structural contradictions in state-directed self-management, not by the cooperative principle itself.
 5. Developmental states (South Korea, Singapore, Taiwan) demonstrate that concentrated authority CAN produce economic growth — while also demonstrating that the transition to accountability requires pressure AGAINST the authority structure, not through it.

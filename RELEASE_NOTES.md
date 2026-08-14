@@ -1,37 +1,47 @@
-retflo v1.2.0: the layer-split release.
+retflo v2.0.0
 
-## The through-line
+## Breaking
 
-v1.1 made the framework honest about its opponents' best arguments. v1.2 makes it honest about itself, and splits the fortress voice (marketing, where it's true) from the maintainer voice (doctrine, where it's audited). The changes were derived from a six-hour adversarial session with a frontier model that was explicitly not going along with it.
+- **Coordinates lost the legacy `.1` suffix.** `ECON.PROFIT.1` is now
+  `ECON.PROFIT`, across every node, link, and API response. Any stored
+  coordinate, saved link, or integration that pinned the old form needs
+  updating.
+- **AGENTS.md was rebuilt.** It now leads with what the graph is and how to
+  address it, then how to use it, then the position it argues from. Anything
+  parsing the old section order will not find it.
 
-The architecture, now explicit in the README: the **marketing layer** (site copy, pitch, taglines) keeps the swagger as product claims about tool performance. The **doctrine layer** (AGENTS.md, STYLE-GUIDE.md, CLOSE-CONDITIONS.md, every node) is built to survive hostile audit: every claim a typed value commitment, a cited and accurately-characterized empirical claim, or a typed Contested claim. If the dream works, this repo will be read by enemies. Honest doctrine is what survives that.
+## The graph
 
-## Doctrine
+- The first amendment batch landed under the amendment protocol: 12 approved
+  change classes, no blank connection rationales.
+- Alias coverage went from roughly 700 to 1,459. Aliases are the phrasings people
+  actually use, and they are how a plain-language objection resolves to a node.
+- 66 nodes, 286 typed connections, 7 domains. 16 nodes are recursion points.
 
-- **The Axiom owns itself.** "The only political framework that survives its own logic" and "not a moral claim requiring defense" granted the framework the exact special exemption it convicts every rival of making. The foundation is now stated as a chosen normative commitment, owned without apology, with the comparative claim carried by correction-dynamics and the home quadrant tested as hard as the rest. The burden-of-proof placement is owned as a position and defended, not smuggled as neutral ground.
-- **Concealment out, ownership in.** "Never name the framework" is gone. The new rule: say the lineage plainly when asked (libertarian-socialist / anarchist, proud of the family), then return to substance. Concealment is the move of positions that can't survive being named.
-- **Precision doctrine.** "State positions as established findings" instructed generating dunkable overclaims at runtime. Authoritative now means precise: the strongest claim the evidence actually supports, at full confidence, never one the underlying study punctures.
-- **Contested: the third concession type.** Fact/Frame had no category for the framework's own disputed empirics, letting contestable claims launder through Fact-typed cells. Contested claims are typed openly: the wager, the framework's reading, what would move it. A graph-wide sweep retyped 33 cells accordingly (disputed historiography, live economics fights, open comparative-politics questions), each now naming its wager.
-- **The Position-level pass.** Beyond the cells, 21 nodes had prose asserting genuinely disputed scholarship as settled: the Williams thesis, carceral continuity, structure-vs-circumstance in Soviet historiography, the suffrage-militancy fight, Somalia attribution, and more. Each is now stated at the strength the evidence carries, with the framework's reading argued openly where the question is live. None lost its politics; all lost their puncture points.
-- **FRAMEWORK_CORRECTED.** The endgame taxonomy had no defeat state. Now it does: concede on the spot, typed and specific; distinguish scaffolding from core; route the hit into the next release. This close condition is why the other ones are credible: v1.1 and v1.2 both exist because this procedure ran.
-- **Closes retyped.** AXIOMATIC_FLOOR breaks the symmetry with typed claims instead of deploying contested empirics as facts at the axiom floor; WAGER_FRAME presents both wagers at full strength and argues the asymmetry instead of pre-declaring it; VALUES_INCOMPATIBLE fires only on genuinely terminal values ("natural hierarchy" routes to `phil/reverse-dominance` for argument, not to a close), and the all-metric victory rule becomes contest-the-metric-or-contest-the-result.
+## New
 
-## Consent-based AI surface
+- **OPERATORS.md**: the material read. Before a node is applied, read the subject
+  and where they stand relative to the thing being argued. The same argument can
+  be true, partial, or inverted depending on who it is about.
+- **SECURITY.md**: official sources, and a warning about an impersonating copy
+  distributing a binary archive. retflo ships no binaries.
+- **MCP server**: `search_nodes`, `get_node`, `follow_edge`, `submit_miss`, plus a
+  local traversal visualizer. It runs on your machine and transmits nothing.
 
-The homepage block instructing AI models to adopt the defender role without explanation is replaced with an explicit invitation: openly anarchist framework, engage it at full strength, steelman against it, let your human decide who won, file weaknesses as issues. Earnest engagement is the product; tricked engagement is worthless.
+## Machine surfaces
 
-## Node repairs
+AGENTS.md is now the single source for every machine-facing surface. The site's
+`agents.md`, `llms.txt`, and `/agents` page are generated from it, so they cannot
+drift apart. Every node is addressable as raw markdown by appending `.md`, as
+JSON at `/api/nodes/{COORDINATE}`, and in full at `/api/graph`.
 
-- **`auth/finality-kernel`**: the "every data point runs in the shrinking direction" claim conflated constraints on the kernel (which grew) with its size and scope (which exploded), while `hist/emergency-ratchet` argued the ratchet in the same repo. Now scoped: the kernel is cageable, not self-shrinking; shrinking is a project conducted against the ratchet. Explicit cross-routing between the two nodes.
-- **`phil/reverse-dominance`**: the coalition's other victims, stated before the critic raises them: leveling mechanisms hit deviance, not just dominance, and the band offers no appeal. Answered with design (person-following guarantees, scoped finality, real exit) and the comparative that cuts back: Jim Crow was proceduralized persecution, so process alone was never the shield.
-- **`tech/coordination-costs`**: peer production's frontier claim scoped honestly (decisive in non-rival digital domains; atoms are the open wager, typed Contested) and the commons' own kernels (Linus, IESG, ArbCom) claimed as evidence for domain-scoped finality instead of hidden.
-- **`econ/rules-vs-discretion`**: antitrust was the wrong showcase: the most discretionary body of economic law, captured through interpretation. The spine is now self-executing structural constraints vs. continuously-adjudicated standards, with proposals sorted honestly and Bork absorbed rather than denied.
-- **`econ/cooperative-performance`**: the outperformance claims recalibrated to what the Pérotin-class literature supports, at full confidence: parity-or-better on productivity and survival, outperformance on pay equity and stability, mixed-but-favorable on safety and satisfaction. Parity already destroys the boss's efficiency justification; the overclaim was never load-bearing.
+## Voice
 
-## Stats
+Every audience-facing surface was rewritten: the site, this repository's
+documentation, and the framework itself. Claims about what retflo is are now
+checkable facts about the artifact. Where the framework argues a position, it
+says so plainly and argues it rather than describing itself.
 
-- **66** nodes
-- **290** connections
-- **7** domains
+## Full changelog
 
-Previous releases: [v1.1.0](https://github.com/retflo/retflo/releases/tag/v1.1.0) · [v1.0.0](https://github.com/retflo/retflo/releases/tag/v1.0.0)
+https://github.com/retflo/retflo/compare/v1.2.0...v2.0.0
